@@ -1,0 +1,258 @@
+---
+title: "MessAround"
+output: html_document
+date: "2023-06-27"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+options(timeout=1200000000000)
+```
+
+```{r}
+unique(out1$V1)
+print((sort(unique(result.long$matched_name2))))
+
+(sort(unique(result.long$matched_name2)))
+```
+
+```{r}
+bold_seqspec(taxon='Osmia')
+```
+
+```{r}
+for (i in sort(unique(result.long$matched_name2))) { 
+  foo<-bold_seqspec(i) # i<-"Lepidozona radians"
+  out[i]<-nrow(foo)
+  
+  foot<- bold_seqspec('Lepidozona radians')
+  out2['Lepidozona radians'] <- nrow(foot) 
+  
+```
+
+
+```{r}
+listtest <- unique(result.long$matched_name2)
+SpeciesList <- c("Apodida","Aoroides", "Ancistrosyllis", "Aricidea", "Amphipholis" )
+OneList <- "Aphelochaeta"
+
+Starfish = bold_seqspec("Aphelochaeta")
+
+write.csv(Starfish, "Starfish.csv")
+```
+
+
+```{r}
+test_df <- lapply(SpeciesList, function(x){
+  print(x)
+  dfdf = bold_seqspec(x)
+  dfdf<-dfdf %>% 
+      mutate(Locus = case_when(
+
+        str_detect(marker_codes %>% tolower(),"coi")~"COI", #Mitochondrial
+        str_detect(marker_codes %>% tolower(),"co1")~"COI", #Mitochondrial
+        str_detect(markercode %>% tolower(),"coi")~"COI",#Mitochondrial
+        str_detect(markercode %>% tolower(),"co1")~"COI",#Mitochondrial
+        str_detect(markercode %>% tolower(),"coxiii")~"COI", #Mitochondrial
+        str_detect(marker_codes %>% tolower(),"coxiii")~"COI", #Mitochondrial
+        T~"Other"))%>%
+      filter(Locus!="Other")
+    
+    xdf<-tibble(FinalID=x,
+                BOLD_Records=nrow(dfdf),
+                BOLD_Records_USA=sum(dfdf$country=="United States", na.rm=T),
+                BOLD_Records_CA=sum(dfdf$province_state=="California", na.rm=T),
+
+      
+                #COI, mitochondrial
+                BOLD_Records_COI=sum(dfdf$Locus=="COI", na.rm = T),
+                BOLD_Records_COI_USA=sum(dfdf$Locus=="COI" & dfdf$country=="United States", na.rm=T),
+                BOLD_Records_COI_CA=sum(dfdf$Locus=="COI" &dfdf$province_state=="California", na.rm=T),
+                BOLD_Records_COI_SW = sum( dfdf$Locus=="COI" &dfdf$province_state %in% c("California","Arizona", "New Mexico", "Texas", "Nevada", "Utah", "Colorado"), na.rm=T),
+                
+               
+    )
+  
+  
+}
+  ) %>% bind_rows()
+```
+
+
+```{r}
+test_df <- lapply(OneList, function(x){
+  print(x)
+  dfdf = bold_seqspec(x)
+  dfdf<-dfdf %>% 
+      mutate(Locus = case_when(
+
+        str_detect(marker_codes %>% tolower(),"coi")~"COI", #Mitochondrial
+        str_detect(marker_codes %>% tolower(),"co1")~"COI", #Mitochondrial
+        str_detect(markercode %>% tolower(),"coi")~"COI",#Mitochondrial
+        str_detect(markercode %>% tolower(),"co1")~"COI",#Mitochondrial
+        str_detect(markercode %>% tolower(),"coxiii")~"COI", #Mitochondrial
+        str_detect(marker_codes %>% tolower(),"coxiii")~"COI", #Mitochondrial
+        T~"Other"))%>%
+      filter(Locus!="Other")
+    
+    xdf<-tibble(FinalID=x,
+                BOLD_Records=nrow(dfdf),
+                BOLD_Records_USA=sum(dfdf$country=="United States", na.rm=T),
+                BOLD_Records_CA=sum(dfdf$province_state=="California", na.rm=T),
+
+      
+                #COI, mitochondrial
+                BOLD_Records_COI=sum(dfdf$Locus=="COI", na.rm = T),
+                BOLD_Records_COI_USA=sum(dfdf$Locus=="COI" & dfdf$country=="United States", na.rm=T),
+                BOLD_Records_COI_CA=sum(dfdf$Locus=="COI" &dfdf$province_state=="California", na.rm=T),
+                BOLD_Records_COI_SW = sum( dfdf$Locus=="COI" &dfdf$province_state %in% c("California","Arizona", "New Mexico", "Texas", "Nevada", "Utah", "Colorado"), na.rm=T),
+                
+               
+    )
+  
+  
+}
+  ) %>% bind_rows()
+
+```
+
+
+
+```{r}
+testlist <- taxa2[duplicated(taxa2$species_name), ]
+
+my_data[!duplicated(my_data$Sepal.Width), ]
+```
+
+
+
+```{r}
+
+check<-bold_search(sci = "Acarnus erithacus")
+
+result.long <- result.long[1:100,]
+
+taxa2<-sort(unique(result.long$matched_name2))
+
+out<-list()
+for (i in taxa2) { # i<-"Ancistrosyllis"
+  foo<-bold_search(sci=i)
+  if(length(foo)>1) {out[i]<-foo$tax_rank}
+  print(out[i])
+  }
+
+test2 <- t(test)
+
+data2 <- rownames_to_column(test2, "names")
+
+
+test <- data.frame(out)
+
+test2 <- data.frame(test2)
+
+species.fail<-data.frame(setdiff(unique(result.long$matched_name2), unique(data2$names)))
+
+data2$names
+
+```
+
+```{r}
+
+test<-list()
+waste<-list()
+
+test<-data.frame()
+
+rows_append()
+
+test %>% add_column(fun)
+
+
+bind_rows(test, fun_test)
+
+
+for(j in fun_test){
+  test[j] 
+  
+}
+  
+
+
+for (i in fun_test) { # i<-"Ancistrosyllis"
+  foo<-bold_search(sci=i)
+  if(length(foo)>2) 
+    {test[i,]<- bind_rows(foo)}
+}
+
+
+
+for (i in lst_tol) { # i<-"Ancistrosyllis"
+  foo<-bold_search(sci=i)
+  if(length(foo)>2) 
+    {out[i]<-foo$tax_rank}
+  else 
+    {bad[i] <- lst_tol[i]}
+  print(out[i])
+}
+
+fun_test<- c("Acanthinucella paucilirata", "Ancistrosyllis", "Acarnus erithacus","Acanthinucella")
+
+
+check<-bold_search(sci = "Acanthinucella paucilirata")
+check<-bold_search(sci = "Ancistrosyllis")
+check<-bold_search(sci = "Acarnus erithacus")
+check<-bold_search(sci = "Acanthinucella")
+
+
+l = "Acanthinucella"
+check<-bold_search(sci = l )
+
+out = rbind(out, check)
+```
+
+
+
+```{r}
+bad<-list()
+out<-data.frame(rbind(1:8))
+```
+
+
+```{r}
+rint(x)
+  mydf=bold_seqspec(x) 
+  if(class(mydf)=="data.frame"){ 
+    bldlength <- nrow(mydf) %>%
+    bdf <- mydf %>% 
+    mydf<-mydf %>% 
+      mutate(Locus = case_when(
+
+        str_detect(marker_codes %>% tolower(),"coi")~"COI", #Mitochondrial
+        str_detect(marker_codes %>% tolower(),"co1")~"COI", #Mitochondrial
+        str_detect(markercode %>% tolower(),"coi")~"COI",#Mitochondrial
+        str_detect(markercode %>% tolower(),"co1")~"COI",#Mitochondrial
+        str_detect(markercode %>% tolower(),"coxiii")~"COI", #Mitochondrial
+        str_detect(marker_codes %>% tolower(),"coxiii")~"COI", #Mitochondrial
+        T~"Other"))%>%
+      filter(Locus!="Other")
+    
+    xdf<-tibble(FinalID=x,
+                BOLD_Records= bldlength,
+                BOLD_Records_USA=sum(bdf$country=="United States", na.rm=T),
+                BOLD_Records_CA=sum(bdf$province_state=="California", na.rm=T),
+
+      
+                #COI, mitochondrial
+                BOLD_Records_COI=sum(mydf$Locus=="COI", na.rm = T),
+                BOLD_Records_COI_USA=sum(mydf$Locus=="COI" & mydf$country=="United States", na.rm=T),
+                BOLD_Records_COI_CA=sum(mydf$Locus=="COI" &mydf$province_state=="California", na.rm=T),
+                BOLD_Records_COI_SW = sum( mydf$Locus=="COI" &mydf$province_state %in% c("California","Arizona", "New Mexico", "Texas", "Nevada", "Utah", "Colorado"), na.rm=T),
+```
+
+
+
+
+

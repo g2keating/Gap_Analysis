@@ -1,0 +1,105 @@
+ProjectShortCode,taxserial,CommonName,SCINAME,Kingdom,Class,Phylum,Family,Order,Genus,Species
+NC_ROV,24,UI tube dwelling anemone,Unidentified tube dwelling anemone,Animalia,Anthozoa,Cnidaria,NA,Ceriantharia,NA,NA
+NC_ROV,27,UI boot sponge,Unidentified boot sponge,Animalia,NA,Porifera ,NA,NA,NA,NA
+NC_ROV,34,UI sand dwelling anemone,Unidentified sand dwelling anemone,Animalia,Anthozoa,Cnidaria,NA,Actiniaria,NA,NA
+NC_ROV,47,UI nipple sponge,Unidentified nipple sponge,Animalia,NA,Porifera ,NA,NA,NA,NA
+NC_ROV,57,UI branched sponge,Unidentified branched sponge,Animalia,NA,Porifera ,NA,NA,NA,NA
+NC_ROV,67,UI lobed sponge/tunicate,Unidentified lobed sponge/tunicate,Animalia,NA,Porifera ,NA,NA,NA,NA
+NC_ROV,76,UI trumpet Sponge,Unidentified trumpet sponge,Animalia,NA,Porifera ,NA,NA,NA,NA
+NC_ROV,81,UI anemone,Unidentified anemone,Animalia,Anthozoa,Cnidaria,NA,Actiniaria,NA,NA
+NC_ROV,91,UI whelk,Unidentified whelk,Animalia,Gastropoda,Mollusca,NA,NA,NA,NA
+NC_ROV,97,UI sea star,Unidentified sea star,Animalia,Asteroidea,Echinodermata,NA,NA,NA,NA
+NC_ROV,100,Fragile pink urchin,Strongylocentrotus fragilis,Animalia,Echinoidea,Echinodermata,Strongylocentrotidae,Echinoida,Strongylocentrotus,fragilis
+NC_ROV,106,Market squid,Loligo opalescens,Animalia,Cephalopoda,Mollusca,Loliginidae,Teuthida,Loligo,opalescens
+NC_ROV,200,Sunflower star complex,Rathbunaster californicus or Pycnopodia helianthoides,Animalia,Asteroidea,Echinodermata,Asteriidae,Forcipulatida,Rathbunaster / Pycnopodia,californicus / helianthoides
+NC_ROV,203,Bat star/red star complex,Asterina miniata or Mediaster aequalis,Animalia,Asteroidea,Echinodermata,Asterinidae / Goniasteridae,Valvatida,Asterina / Mediaster,miniata / aequalis
+NC_ROV,210,UI zoanthid,Unidentified zoanthid,Animalia,Anthozoa,Cnidaria,NA,Zoantharia,NA,NA
+NC_ROV,218,Purple/red urchin complex,Mesocentrotus franciscanus or Strongylocentrotus purpuratus,Animalia,Echinoidea,Echinodermata,Strongylocentrotidae,Echinoida,Strongylocentrotus / Mesocentrotus,purpuratus / franciscanus
+NC_ROV,219,UI branched sea cucumber,Unidentified branched sea cucumber,Animalia,Holothuroidea,Echinodermata,NA,NA,NA,NA
+NC_ROV,222,UI branched bryozoan,Unidentified branching bryozoan,Animalia,NA,Bryozoa,NA,NA,NA,NA
+NC_ROV,224,UI tubeworm,Unidentified tubeworm,Animalia,NA,NA,NA,NA,NA,NA
+NC_ROV,226,UI sea jelly,Unidentified sea jelly,Animalia,NA,Cnidaria,NA,NA,NA,NA
+NC_ROV,227,Mushroom soft coral,Anthomastus ritteri,Animalia,Anthozoa,Cnidaria,Alcyoniidae,Alcyonacea,Anthomastus,ritteri
+NC_ROV,229,Solaster sun star complex,Solaster sp.,Animalia,Asteroidea,Echinodermata,Solasteridae,Velatida,Solaster,NA
+NC_ROV,231,UI yellow boot sponge,Unidentified yellow boot sponge,Animalia,NA,Porifera ,NA,NA,NA,NA
+NC_ROV,232,UI salp,Unidentified salp,Animalia,Thaliacea,Chordata,Salpidae,Salpida,NA,NA
+NC_ROV,233,UI scallop,Unidentified scallop,Animalia,Bivalvia,Mollusca,Pectinidae,Pectinoida,NA,NA
+NC_ROV,234,Spiny/thorny star complex,Poraniopsis inflata or Hippasteria spinosa,Animalia,Asteroidea,Echinodermata,Poraniidae / Goniasteridae,Valvatida,Poraniopsis / Hippasteria,inflata / spinosa
+NC_ROV,235,UI crab,Unidentified crab,Animalia,Malacostraca,Arthropoda,NA,Decapoda,NA,NA
+NC_ROV,300,UI anemone 1,Unidentified anemone species #1,Animalia,Anthozoa,Cnidaria,NA,Actiniaria,NA,NA
+NC_ROV,301,UI anemone 2,Unidentified anemone species #2,Animalia,Anthozoa,Cnidaria,NA,Actiniaria,NA,NA
+NC_ROV,302,UI anemone 3,Unidentified anemone species #3,Animalia,Anthozoa,Cnidaria,NA,Actiniaria,NA,NA
+NC_ROV,303,UI anemone 4,Unidentified anemone species #4,Animalia,Anthozoa,Cnidaria,NA,Actiniaria,NA,NA
+NC_ROV,304,UI anemone 5,Unidentified anemone species #5,Animalia,Anthozoa,Cnidaria,NA,Actiniaria,NA,NA
+NC_ROV,305,UI anemone 6,Unidentified anemone species #6,Animalia,Anthozoa,Cnidaria,NA,Actiniaria,NA,NA
+NC_ROV,48380,Trumpet sponge,Stylissa stipitata,Animalia,Demospongiae,Porifera ,Scopalinidae,Scopalinida,Stylissa,stipitata
+NC_ROV,48464,Gray moon sponge,Spheciospongia confoederata,Animalia,Demospongiae,Porifera ,Clionaidae,Clionaida,Spheciospongia,confoederata
+NC_ROV,48574,Orange puffball sponge,Tethya aurantia,Animalia,Demospongiae,Porifera ,Tethyidae,Hadromerida,Tethya,aurantia
+NC_ROV,48631,Gray puffball sponge,Craniella arb,Animalia,Demospongiae,Porifera ,Tetillidae,Spirophorida,Craniella,arb
+NC_ROV,50925,California hydrocoral,Stylaster californicus,Animalia,Hydrozoa,Cnidaria,Stylasteridae,Anthoathecata,Stylaster,californicus
+NC_ROV,52079,UI gorgonian,Unidentified Gorgonacea,Animalia,Anthozoa,Cnidaria,NA,Gorgonacea,NA,NA
+NC_ROV,52390,White sea pen  ,Stylatula elongata,Animalia,Anthozoa,Cnidaria,Virgulariidae,Pennatulacea,Stylatula,elongata
+NC_ROV,52393,UI sea pen,Virgularia sp.,Animalia,Anthozoa,Cnidaria, Virgulariidae,Pennatulacea,Virgularia,NA
+NC_ROV,52424,Orange sea pen  ,Ptilosarcus gurneyi,Animalia,Anthozoa,Cnidaria,Pennatulidae,Pennatulacea,Ptilosarcus,gurneyi
+NC_ROV,52467,Club-tipped anemones,Corynactis californica,Animalia,Anthozoa,Cnidaria,Corallimorphidae,Corallimorpharia,Corynactis,californica
+NC_ROV,52572,White-spotted rose anemone,Urticina lofotensis,Animalia,Anthozoa,Cnidaria,Actiniidae,Actiniaria,Urticina,lofotensis
+NC_ROV,52574,Stubby rose anemone,Urticina coriacea,Animalia,Anthozoa,Cnidaria,Actiniidae,Actiniaria,Urticina,coriacea
+NC_ROV,52631,Swimming anemone,Stomphia didemon,Animalia,Anthozoa,Cnidaria,Actinostolidae,Actiniaria,Stomphia,didemon
+NC_ROV,52737,Frilled anemone,Metridium senile,Animalia,Anthozoa,Cnidaria,Metridiidae,Actiniaria,Metridium,senile
+NC_ROV,57454,Light edged ribbon worm,Cerebratulus californiensis,Animalia,Anopla,Nemertea,Lineidea,Heteronemertea,Cerebratulus,californiensis
+NC_ROV,78129,UI nudibranch,Unidentified nudibranch,Animalia,Gastropoda,Mollusca,NA,Nudibranchia,NA,NA
+NC_ROV,78132,Pleurobranchaea californica,Pleurobranchaea californica,Animalia,Gastropoda,Mollusca, Pleurobranchaeidae,Pleurobranchida,Pleurobranchaea,californica
+NC_ROV,78183,Noble sea lemon,Peltodoris nobilis,Animalia,Gastropoda,Mollusca,Discodorididae,Nudibranchia,Peltodoris,nobilis
+NC_ROV,78332,Clown nudibranch,Triopha catalinae,Animalia,Gastropoda,Mollusca,Polyceridae,Nudibranchia,Triopha,catalinae
+NC_ROV,78474,Pink Tritonia,Tritonia diomedea,Animalia,Gastropoda,Mollusca,Tritoniidae,Nudibranchia,Tritonia,diomedea
+NC_ROV,78486,Orange-peel nudibranch,Tochuina tetraquetra,Animalia,Gastropoda,Mollusca,Tritoniidae,Nudibranchia,Tochuina,tetraquetra
+NC_ROV,78506,Swimming nudibranch,Dendronotus iris,Animalia,Gastropoda,Mollusca,Dendronotidae,Nudibranchia,Dendronotus,iris
+NC_ROV,78568,Striped nudibranch,Armina californica,Animalia,Gastropoda,Mollusca,Arminidae,Nudibranchia,Armina,californica
+NC_ROV,79763,Rock scallop,Crassedoma giganteum,Animalia,Bivalvia,Mollusca,Pectinidae,Ostreoida,Crassedoma,giganteum
+NC_ROV,82371,Market squid eggs,Loligo opalenscens,Animalia,Cephalopoda,Mollusca,Loliginidae,Teuthida,Loligo,opalenscens
+NC_ROV,82606,Red octopus,Octopus rubescens,Animalia,Cephalopoda,Mollusca,Octopodidae,Octopoda,Octopus,rubescens
+NC_ROV,96979,Spot prawn ,Pandalus platyceros ,Animalia,Malacostraca,Arthropoda,Pandalidae,Decapoda,Pandalus,platyceros
+NC_ROV,97950,Puget Sound king crab,Lopholithodes mandtii,Animalia,Malacostraca,Arthropoda,Lithodidae,Decapoda,Lopholithodes,mandtii
+NC_ROV,98478,Decorator crab,Loxorhynchus crispatus,Animalia,Malacostraca,Arthropoda,Epialtidae,Decapoda,Loxorhynchus,crispatus
+NC_ROV,98671,Cancer complex,Cancer sp.,Animalia,Malacostraca,Arthropoda,Cancridae,Decapoda,Cancer,NA
+NC_ROV,98672,Red rock crab,Cancer productus,Animalia,Malacostraca,Arthropoda,Cancridae,Decapoda,Cancer,productus
+NC_ROV,98675,Dungeness crab,Metacarcinus magister,Animalia,Malacostraca,Arthropoda,Cancridae,Decapoda,Metacarcinus,magister
+NC_ROV,155760,Northern staghorn bryozoan,Heteropora pacifica,Animalia,Stenolaemata,Bryozoa,Heteroporidae,Cyclostomatida,Heteropora,pacifica
+NC_ROV,156866,Sand star ,Luidia foliolata ,Animalia,Asteroidea,Echinodermata,Luidiidae,Paxillosida,Luidia,foliolata
+NC_ROV,156992,Cookie star,Ceramaster patagonicus,Animalia,Malacostraca,Arthropoda,Cancridae,Decapoda,Ceramaster,patagonicus
+NC_ROV,157007,Spiny red star,Hippasteria spinosa,Animalia,Asteroidea,Echinodermata,Goniasteridae,Valvatida,Hippasteria,spinosa
+NC_ROV,157011,Red sea star,Mediaster aequalis,Animalia,Asteroidea,Echinodermata,Goniasteridae,Valvatida,Mediaster,aequalis
+NC_ROV,157066,Rose star,Crossaster papposus,Animalia,Asteroidea,Echinodermata,Solasteridae,Velatida,Crossaster,papposus
+NC_ROV,157070,Crested sea star,Lophaster furcilliger,Animalia,Asteroidea,Echinodermata,Solasteridae,Velatida,Lophaster,furcilliger
+NC_ROV,157075,Dawson's sun star,Solaster dawsoni,Animalia,Asteroidea,Echinodermata,Solasteridae,Velatida,Solaster,dawsoni
+NC_ROV,157078,Stimpson's sun star,Solaster stimpsoni,Animalia,Asteroidea,Echinodermata,Solasteridae,Velatida,Solaster,stimpsoni
+NC_ROV,157113,Cushion star,Pteraster tesselatus,Animalia,Asteroidea,Echinodermata,Pterasteridae,Velatida,Pteraster,tesselatus
+NC_ROV,157122,Bat star,Asterina miniata,Animalia,Asteroidea,Echinodermata,Asterinidae,Valvatida,Asterina,miniata
+NC_ROV,157139,Leather star,Dermasterias imbricata,Animalia,Asteroidea,Echinodermata,Asteropseidae,Valvatida,Dermasterias,imbricata
+NC_ROV,157152,Henricia complex,Henricia sp.,Animalia,Asteroidea,Echinodermata,Spinulosida,Spinulosida,Henricia,NA
+NC_ROV,157176,Thorny sea star,Poraniopsis inflata,Animalia,Asteroidea,Echinodermata,Poraniidae,Valvatida,Poraniopsis,inflata
+NC_ROV,157251,Pisaster complex,Pisaster sp.,Animalia,Asteroidea,Echinodermata,Asteriidae,Forcipulatida,Pisaster,NA
+NC_ROV,157252,Short spined sea star,Pisaster brevispinus,Animalia,Asteroidea,Echinodermata,Asteriidae,Forcipulatida,Pisaster,brevispinus
+NC_ROV,157253,Ochre star,Pisaster ochraceus,Animalia,Asteroidea,Echinodermata,Asteriidae,Forcipulatida,Pisaster,ochraceus
+NC_ROV,157256,Giant spined star,Pisaster giganteus,Animalia,Asteroidea,Echinodermata,Asteriidae,Forcipulatida,Pisaster,giganteus
+NC_ROV,157270,Rainbow star,Orthasterias koehleri,Animalia,Asteroidea,Echinodermata,Asteriidae,Forcipulatida,Orthasterias,koehleri
+NC_ROV,157272,Fish eating star,Stylasterias forreri,Animalia,Asteroidea,Echinodermata,Asteriidae,Forcipulatida,Stylasterias,forreri
+NC_ROV,157274,Sunflower star,Pycnopodia helianthoides,Animalia,Asteroidea,Echinodermata,Asteriidae,Forcipulatida,Pycnopodia,helianthoides
+NC_ROV,157299,Long legged sunflower star,Rathbunaster californicus,Animalia,Asteroidea,Echinodermata,Asteriidae,Forcipulatida,Rathbunaster,californicus
+NC_ROV,157325,UI brittle stars,Unidentified brittle stars,Animalia,Ophiuroidea,Echinodermata,NA,NA,NA,NA
+NC_ROV,157360,Basket star,Gorgonocephalus eucnemis,Animalia,Ophiuroidea,Echinodermata,Gorgonocephalidae,Phrynophiurida,Gorgonocephalus,eucnemis
+NC_ROV,157971,Red sea urchin,Mesocentrotus franciscanus,Animalia,Echinoidea,Echinodermata,Strongylocentrotidae,Echinoida,Mesocentrotus,franciscanus
+NC_ROV,157975,Purple sea urchin,Strongylocentrotus purpuratus,Animalia,Echinoidea,Echinodermata,Strongylocentrotidae,Echinoida,Strongylocentrotus,purpuratus
+NC_ROV,158204,Orange sea cucumber,Cucumaria miniata,Animalia,Holothuroidea,Echinodermata,Cucumariidae,Dandrochirotida,Cucumaria,miniata
+NC_ROV,158206,White branched sea cucumber,Cucumaria piperata,Animalia,Holothuroidea,Echinodermata,Cucumariidae,Dandrochirotida,Cucumaria,piperata
+NC_ROV,158344,California sea cucumber,Parastichopus californicus,Animalia,Holothuroidea,Echinodermata,Stichopodidae,Aspidochirotida,Parastichopus,californicus
+NC_ROV,158541,Feather stars,Florometra serratissima,Animalia,Crinoidea,Echinodermata,Antedonidae,Comatulida,Florometra,serratissima
+NC_ROV,159318,Stalked tunicate,Styela montereyensis,Animalia,Ascidiacea,Chordata,Styelidae,Stolidobranchia,Styela,montereyensis
+NC_ROV,557227,Giant Pacific octopus,Enteroctopus dofleini,Animalia,Cephalopoda,Mollusca,Octopodidae,Octopoda,Enteroctopus,dofleini
+NC_ROV,611773,White-plumed anemone,Metridium farcimen,Animalia,Anthozoa,Cnidaria,Metridiidae,Actiniaria,Metridium,farcimen
+NC_ROV,611869,Fish eating anemone,Urticina piscivora,Animalia,Anthozoa,Cnidaria,Actiniidae,Actiniaria,Urticina,piscivora
+NC_ROV,611870,Sand-rose anemone     ,Urticina columbiana,Animalia,Anthozoa,Cnidaria,Actiniidae,Actiniaria,Urticina,columbiana
+NC_ROV,656266,Acorn barnacle,Balanus nubilus,Animalia,Maxillopoda,Arthropoda,Balanidae,Sessilia,Balanus,nubilus
+NC_ROV,719219,Short red gorgonian,Swiftia spauldingi,Animalia,Anthozoa,Cnidaria,Plexauridae,Alcyonacea,Swiftia,spauldingi
+NC_ROV,719252,Sea whip,Halipteris californica,Animalia,Anthozoa,Cnidaria,Halipteridae,Pennatulacea,Halipteris,californica
+NC_ROV,948935,Slipper sea cucumber,Psolus chitonoides,Animalia,Holothuroidea,Echinodermata,Psolidae,Dandrochirotida,Psolus,chitonoides

@@ -1,0 +1,93 @@
+ProjectShortCode,taxserial,CommonName,SCINAME,Kingdom,Class,Phylum,Family,Order,Genus,Species
+NC_ROV,22,UI cod,Unidentified Gadidae,Animalia,Actinopterigyii,Chordata,Gadidae,Gadiformes,NA,NA
+NC_ROV,23,UI flatfish,Pleuronectidae,Animalia,Actinopterigyii,Chordata,Pleuronectidae,Pleuronectiformes,NA,NA
+NC_ROV,25,UI shark,Unidentified shark,Animalia,Chondrichthyes,Chordata,NA,NA,NA,NA
+NC_ROV,26,UI small benthic fish,Unidentified small benthic fish,Animalia,NA,Chordata,NA,NA,NA,NA
+NC_ROV,30,Olive/Yellowtail complex,Sebastes serranoides or flavidus,Animalia,Actinopterigyii,Chordata,Scorpaenidae,Scorpaeniformes,Sebastes,serranoides or flavidus
+NC_ROV,31,Canary/Vermillion complex,Sebastes pinniger or miniatus,Animalia,Actinopterigyii,Chordata,Scorpaenidae,Scorpaeniformes,Sebastes,pinniger or miniatus
+NC_ROV,32,Small schooling rockfish,Schooling rockfish (10-15 cm),Animalia,Actinopterigyii,Chordata,Scorpaenidae,Scorpaeniformes,Sebastes,NA
+NC_ROV,33,UI schooling pelagic,Unidentified schooling pelagic fish,Animalia,NA,Chordata,NA,NA,NA,NA
+NC_ROV,44,Sebastomus rockfish,Subgenus Sebastomus ,Animalia,Actinopterigyii,Chordata,Scorpaenidae,Scorpaeniformes,Sebastes (sub genus Sebastomus),NA
+NC_ROV,51,Thornyhead complex,Sebastolobus altivelis or alascanus,Animalia,Actinopterigyii,Chordata,Scorpaenidae,Scorpaeniformes,Sebastolobus,altivelis or alascanus
+NC_ROV,78,Combfish complex,Zaniolepis frenata or latipinnis,Animalia,Actinopterigyii,Chordata,Hexagrammidae,Scorpaeniformes,Zaniolepis,frenata or latipinnis
+NC_ROV,87,Squarespot/Widow complex,Sebastes hopkinsi or entomelas,Animalia,Actinopterigyii,Chordata,Scorpaenidae,Scorpaeniformes,Sebastes,hopkinsi or entomelas
+NC_ROV,88,Black/Blue complex,Sebastes melanops or mystinus,Animalia,Actinopterigyii,Chordata,Scorpaenidae,Scorpaeniformes,Sebastes,melanops or mystinus
+NC_ROV,102,UI smelt,Unidentified Osmeridea,Animalia,Actinopterigyii,Chordata,Osmeridea,Osmeriformes,NA,NA
+NC_ROV,103,UI goby,Unidentified Gobiidae,Animalia,Actinopterigyii,Chordata,Gobiidae,Perciformes,NA,NA
+NC_ROV,159819,Sixgill shark,Hexanchus griseus,Animalia,Chondrichthyes,Chordata,Hexanchidae,Hexanchiformes,Hexanchus,griseus
+NC_ROV,160617,Spiny dogfish,Squalus acanthias,Animalia,Chondrichthyes,Chordata,Squalidae,Squaliformes,Squalus,acanthias
+NC_ROV,160846,UI skate,Unidentified Raja sp.,Animalia,Chondrichthyes,Chordata,Rajidae,Rajiformes,Raja,NA
+NC_ROV,160848,Big skate,Raja binoculata,Animalia,Chondrichthyes,Chordata,Rajidae,Rajiformes,Raja,binoculata
+NC_ROV,160851,Longnose skate,Raja rhina,Animalia,Chondrichthyes,Chordata,Rajidae,Rajiformes,Raja,rhina
+NC_ROV,160854,Starry skate,Raja stellulata,Animalia,Chondrichthyes,Chordata,Rajidae,Rajiformes,Raja,stellulata
+NC_ROV,161015,Spotted ratfish,Hydrolagus colliei,Animalia,Chondrichthyes,Chordata,Chimaeridae,Chimeriformes,Hydrolagus,colliei
+NC_ROV,161931,UI salmonid,Unidentified Salmonidae,Animalia,Actinopterigyii,Chordata,Salmonidae,Salmoniformes,NA,NA
+NC_ROV,164719,Pacific tomcod,Microgadus proximus,Animalia,Actinopterigyii,Chordata,Gadidae,Gadiformes,Microgadus,proximus
+NC_ROV,164792,Pacific hake,Merluccius productus,Animalia,Actinopterigyii,Chordata,Merlucciidae,Gadiformes,Merluccius,productus
+NC_ROV,165215,UI eel pout etc,Unidentified Zoarcidae,Animalia,Actinopterigyii,Chordata,Zoarcidae,Perciformes,NA,NA
+NC_ROV,166705,UI rockfish,Unidentified Sebastes sp.,Animalia,Actinopterigyii,Chordata,Scorpaenidae,Scorpaeniformes,Sebastes,NA
+NC_ROV,166708,Brown rockfish,Sebastes auriculatus,Animalia,Actinopterigyii,Chordata,Scorpaenidae,Scorpaeniformes,Sebastes,auriculatus
+NC_ROV,166709,Aurora rockfish,Sebastes aurora,Animalia,Actinopterigyii,Chordata,Scorpaenidae,Scorpaeniformes,Sebastes,aurora
+NC_ROV,166710,Red banded rockfish,Sebastes babcocki,Animalia,Actinopterigyii,Chordata,Scorpaenidae,Scorpaeniformes,Sebastes,babcocki
+NC_ROV,166713,Copper rockfish,Sebastes caurinus,Animalia,Actinopterigyii,Chordata,Scorpaenidae,Scorpaeniformes,Sebastes,caurinus
+NC_ROV,166715,Darkblotched rockfish,Sebastes crameri,Animalia,Actinopterigyii,Chordata,Scorpaenidae,Scorpaeniformes,Sebastes,crameri
+NC_ROV,166717,Greenstriped rockfish,Sebastes elongatus,Animalia,Actinopterigyii,Chordata,Scorpaenidae,Scorpaeniformes,Sebastes,elongatus
+NC_ROV,166719,Widow rockfish,Sebastes entomelas,Animalia,Actinopterigyii,Chordata,Scorpaenidae,Scorpaeniformes,Sebastes,entomelas
+NC_ROV,166722,Chilipepper rockfish,Sebastes goodei,Animalia,Actinopterigyii,Chordata,Scorpaenidae,Scorpaeniformes,Sebastes,goodei
+NC_ROV,166723,Rosethorn rockfish,Sebastes helvomaculatus,Animalia,Actinopterigyii,Chordata,Scorpaenidae,Scorpaeniformes,Sebastes,helvomaculatus
+NC_ROV,166725,Shortbelly rockfish,Sebastes jordani,Animalia,Actinopterigyii,Chordata,Scorpaenidae,Scorpaeniformes,Sebastes,jordani
+NC_ROV,166726,Quillback rockfish,Sebastes maliger,Animalia,Actinopterigyii,Chordata,Scorpaenidae,Scorpaeniformes,Sebastes,maliger
+NC_ROV,166727,Black rockfish,Sebastes melanops,Animalia,Actinopterigyii,Chordata,Scorpaenidae,Scorpaeniformes,Sebastes,melanops
+NC_ROV,166729,Vermilion rockfish,Sebastes miniatus,Animalia,Actinopterigyii,Chordata,Scorpaenidae,Scorpaeniformes,Sebastes,miniatus
+NC_ROV,166730,Blue rockfish,Sebastes mystinus,Animalia,Actinopterigyii,Chordata,Scorpaenidae,Scorpaeniformes,Sebastes,mystinus
+NC_ROV,166731,China rockfish,Sebastes nebulosus,Animalia,Actinopterigyii,Chordata,Scorpaenidae,Scorpaeniformes,Sebastes,nebulosus
+NC_ROV,166732,Tiger rockfish,Sebastes nigrocinctus,Animalia,Actinopterigyii,Chordata,Scorpaenidae,Scorpaeniformes,Sebastes,nigrocinctus
+NC_ROV,166733,Bocaccio,Sebastes paucispinis,Animalia,Actinopterigyii,Chordata,Scorpaenidae,Scorpaeniformes,Sebastes,paucispinis
+NC_ROV,166734,Canary rockfish,Sebastes pinniger,Animalia,Actinopterigyii,Chordata,Scorpaenidae,Scorpaeniformes,Sebastes,pinniger
+NC_ROV,166738,Rosy rockfish,Sebastes rosaceus,Animalia,Actinopterigyii,Chordata,Scorpaenidae,Scorpaeniformes,Sebastes,rosaceus
+NC_ROV,166740,Yelloweye rockfish,Sebastes ruberrimus,Animalia,Actinopterigyii,Chordata,Scorpaenidae,Scorpaeniformes,Sebastes,ruberrimus
+NC_ROV,166741,Stripetail rockfish,Sebastes saxicola,Animalia,Actinopterigyii,Chordata,Scorpaenidae,Scorpaeniformes,Sebastes,saxicola
+NC_ROV,166743,Pygmy rockfish,Sebastes wilsoni,Animalia,Actinopterigyii,Chordata,Scorpaenidae,Scorpaeniformes,Sebastes,wilsoni
+NC_ROV,166744,Sharpchin rockfish,Sebastes zacentrus,Animalia,Actinopterigyii,Chordata,Scorpaenidae,Scorpaeniformes,Sebastes,zacentrus
+NC_ROV,166748,Greenspotted rockfish,Sebastes chlorostictus,Animalia,Actinopterigyii,Chordata,Scorpaenidae,Scorpaeniformes,Sebastes,chlorostictus
+NC_ROV,166749,Starry rockfish,Sebastes constellatus,Animalia,Actinopterigyii,Chordata,Scorpaenidae,Scorpaeniformes,Sebastes,constellatus
+NC_ROV,166753,Squarespot rockfish,Sebastes hopkinsi,Animalia,Actinopterigyii,Chordata,Scorpaenidae,Scorpaeniformes,Sebastes,hopkinsi
+NC_ROV,166757,Speckled rockfish,Sebastes ovalis,Animalia,Actinopterigyii,Chordata,Scorpaenidae,Scorpaeniformes,Sebastes,ovalis
+NC_ROV,166762,Halfbanded rockfish,Sebastes semicinctus,Animalia,Actinopterigyii,Chordata,Scorpaenidae,Scorpaeniformes,Sebastes,semicinctus
+NC_ROV,166767,Gopher rockfish,Sebastes carnatus,Animalia,Actinopterigyii,Chordata,Scorpaenidae,Scorpaeniformes,Sebastes,carnatus
+NC_ROV,166770,Pinkrose rockfish,Sebastes simulator,Animalia,Actinopterigyii,Chordata,Scorpaenidae,Scorpaeniformes,Sebastes,simulator
+NC_ROV,166783,Shortspine thornyhead,Sebastolobus alascanus,Animalia,Actinopterigyii,Chordata,Scorpaenidae,Scorpaeniformes,Sebastolobus,alascanus
+NC_ROV,166784,Longspine thornyhead,Sebastolobus altivelis,Animalia,Actinopterigyii,Chordata,Scorpaenidae,Scorpaeniformes,Sebastolobus,altivelis
+NC_ROV,167108,UI greenling,Unidentified Hexagrammidae,Animalia,Actinopterigyii,Chordata,Hexagrammidae,Scorpaeniformes,NA,NA
+NC_ROV,167110,Kelp greenling,Hexagrammos decagrammus,Animalia,Actinopterigyii,Chordata,Hexagrammidae,Scorpaeniformes,Hexagrammos,decagrammus
+NC_ROV,167116,Lingcod,Ophiodon elongatus,Animalia,Actinopterigyii,Chordata,Hexagrammidae,Scorpaeniformes,Ophiodon,elongatus
+NC_ROV,167118,Painted greenling,Oxylebius pictus,Animalia,Actinopterigyii,Chordata,Hexagrammidae,Scorpaeniformes,Oxylebius,pictus
+NC_ROV,167123,Sablefish,Anoplopoma fimbria,Animalia,Actinopterigyii,Chordata,Anoplopomatidae,Scorpaeniformes,Anoplopoma,fimbria
+NC_ROV,167196,UI sculpin,Unidentified Cottidae,Animalia,Actinopterigyii,Chordata,Cottidae,Scorpaeniformes,NA,NA
+NC_ROV,167267,Buffalo sculpin,Enophrys bison,Animalia,Actinopterygii,Chordata,Cottidae,Scorpaeniformes,Enophrys,bison
+NC_ROV,167302,Staghorn sculpin,Leptocottus armatus,Animalia,Actinopterygii,Chordata,Cottidae,Scorpaeniformes,Leptocottus,armatus
+NC_ROV,167353,Cabezon,Scorpaenichthys marmoratus,Animalia,Actinopterigyii,Chordata,Cottidae,Scorpaeniformes,Scorpaenichthys,marmoratus
+NC_ROV,167426,UI poacher,Unidentified Agonidae,Animalia,Actinopterigyii,Chordata,Cottidae,Scorpaeniformes,Agonidae,NA
+NC_ROV,169735,UI Surfperch,Unidentified Embiotocidae,Animalia,Actinopterigyii,Chordata,Embiotocidae,Perciformes,NA,NA
+NC_ROV,169739,Shiner surfperch,Cymatogaster aggregata,Animalia,Actinopterygii,Chordata,Embiotocidae,Perciformes,Cymatogaster,aggregata
+NC_ROV,169744,Striped surfperch,Embiotoca lateralis,Animalia,Actinopterygii,Chordata,Embiotocidae,Perciformes,Embiotoca,lateralis
+NC_ROV,169769,Pink surfperch,Zalembius rosaceus,Animalia,Actinopterigyii,Chordata,Embiotocidae,Perciformes,Zalembius,rosaceus
+NC_ROV,171345,Wolf eel,Anarrhichthys ocellatus,Animalia,Actinopterygii,Chordata,Anarhichadidae,Perciformes,Anarrhichthys,ocellatus
+NC_ROV,171672,Pacific sand lance,Ammodytes hexapterus,Animalia,Actinopterygii,Chordata,Ammodytidae,Perciformes,Ammodytes,hexapterus
+NC_ROV,172715,UI sanddab,Unidentified Citharichthys sp.,Animalia,Actinopterigyii,Chordata,Paralichthyidae,Pleuronectiformes,Citharichthys,NA
+NC_ROV,172716,Pacific sanddab,Citharichthys sordidus,Animalia,Actinopterigyii,Chordata,Paralichthyidae,Pleuronectiformes,Citharichthys,sordidus
+NC_ROV,172717,Speckled sanddab,Citharichthys stigmaeus,Animalia,Actinopterigyii,Chordata,Paralichthyidae,Pleuronectiformes,Citharichthys,stigmaeus
+NC_ROV,172868,Petrale sole,Eopsetta jordani,Animalia,Actinopterigyii,Chordata,Pleuronectidae,Pleuronectiformes,Eopsetta,jordani
+NC_ROV,172871,Slender sole,Lyopsetta exilis,Animalia,Actinopterigyii,Chordata,Pleuronectidae,Pleuronectiformes,Lyopsetta,exilis
+NC_ROV,172887,Dover sole,Microstomus pacificus,Animalia,Actinopterigyii,Chordata,Pleuronectidae,Pleuronectiformes,Microstomus,pacificus
+NC_ROV,172893,Starry flounder,Platichthys stellatus,Animalia,Actinopterigyii,Chordata,Pleuronectidae,Pleuronectiformes,Platichthys,stellatus
+NC_ROV,172917,Rock sole,Lepidopsetta bilineata,Animalia,Actinopterygii,Chordata,Pleuronectidae,Pleuronectiformes,Lepidopsetta,bilineata
+NC_ROV,172921,English sole,Parophrys vetulus,Animalia,Actinopterigyii,Chordata,Pleuronectidae,Pleuronectiformes,Parophrys,vetulus
+NC_ROV,172924,Curlfin turbot,Pleuronichthys decurrens,Animalia,Actinopterigyii,Chordata,Pleuronectidae,Pleuronectiformes,Pleuronichthys,decurrens
+NC_ROV,172925,Spotted turbot,Pleuronichthys ritteri,Animalia,Actinopterigyii,Chordata,Pleuronectidae,Pleuronectiformes,Pleuronichthys,ritteri
+NC_ROV,172932,Pacific halibut,Hippoglossus stenolepis,Animalia,Actinopterigyii,Chordata,Pleuronectidae,Pleuronectiformes,Hippoglossus,stenolepis
+NC_ROV,172978,Rex sole,Glyptocephalus zachirus,Animalia,Actinopterigyii,Chordata,Pleuronectidae,Pleuronectiformes,Glyptocephalus,zachirus
+NC_ROV,173414,Ocean sunfish,Mola mola,Animalia,Actinopterigyii,Chordata,Molidae,Tetraodontiformes,Mola,mola
+NC_ROV,622244,Pacific hagfish,Eptatretus stoutii,Animalia,Myxini,Chordata,Myxinidae,Myxiniformes,Eptatretus,stoutii
+NC_ROV,999996,YOY,Young of year rockfish,Animalia,Actinopterigyii,Chordata,Scorpaenidae,Scorpaeniformes,NA,NA
+NC_ROV,999999,UI fish,Unidentified fish,Animalia,NA,Chordata,NA,NA,NA,NA

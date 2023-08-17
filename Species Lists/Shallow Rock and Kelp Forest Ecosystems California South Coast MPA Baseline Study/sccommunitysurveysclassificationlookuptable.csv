@@ -1,0 +1,548 @@
+sample_type,sample_subtype,classcode,genus,species,description_common_spp_name
+FISH,FISH,AAFF,Atherinops,affinis,Topsmelt
+FISH,FISH,ACAL,Atherinopsis,californiensis,Jacksmelt
+FISH,FISH,ACOR,Artedius,corallinus,Coralline Sculpin
+FISH,FISH,ADAV,Anisotremus,davidsonii,Sargo
+FISH,FISH,AFLA,Aulorhynchus,flavidus,Tubesnout
+FISH,FISH,AHOL,Alloclinus,holderi,Island Kelpfish
+FISH,FISH,AINE,Anoplagonus,inermis,Smooth alligatorfish
+FISH,FISH,ANOB,Atractoscion,nobilis,white seabass
+FISH,FISH,AOCE,Anarrhichthys,ocellatus,Wolf Eel
+FISH,FISH,ASAN,Apodichthys,sanctaerosae,Kelp Gunnel
+FISH,FISH,ATHE,Atherinopsidae,spp.,"Grunion, Topsmelt or Jacksmelt"
+FISH,FISH,AVUL,Alopias,vulpinus,Thresher Shark
+FISH,FISH,BAITBALL,,,"Bait, Sardines/Anchovies"
+FISH,FISH,BAITBALL,,,"Bait, Sardines/Anchovies"
+FISH,FISH,BATH,Bathymasteridae,spp.,Ronquils
+FISH,FISH,BFRE,Brachyistius,frenatus,Kelp Surfperch
+FISH,FISH,BLEN,Blenniidae,spp.,Blennies
+FISH,FISH,BOTH,Bothidae/Paralichthyidae,spp.,Lefteyed flounders/Large toothed flounders
+FISH,FISH,BPOL,Balistes,polylepis,Finescale Triggerfish
+FISH,FISH,BRAY,Myliobatis,californica,Bat Ray
+FISH,FISH,BRAY,Myliobatis,californica,Bat Ray
+FISH,FISH,CAGG,Cymatogaster,aggregata,Shiner Surfperch
+FISH,FISH,CFAL,Chaetodon,falcifer,Scythemarked Butterflyfish
+FISH,FISH,CITH,Citharichthys,spp.,Sanddabs
+FISH,FISH,CLIN,Clinidae,spp.,Kelpfishes and Fringeheads
+FISH,FISH,CLUP,Clupeidae,spp.,Sardines and anchovies
+FISH,FISH,CNUG,Chirolophis  ,nugator,Mosshead warbonnet
+FISH,FISH,COTT,Cottidae,spp.,Sculpins
+FISH,FISH,CPRI,Caulolatilus,princeps,Ocean Whitefish
+FISH,FISH,CPUG,Chitonotus,pugetensis,Roughback Sculpin
+FISH,FISH,CPUN,Chromis,punctipinnis,Blacksmith
+FISH,FISH,CSAT,Cheilotrema,saturnum,Black Croaker
+FISH,FISH,CSOR,Citharichthys,sordidus,Pacific Sanddab
+FISH,FISH,CSTI,Citharichthys,stigmaeus,Speckled Sanddab
+FISH,FISH,CVEN,Cephaloscyllium,ventriosum,Swell Shark
+FISH,FISH,CVIO,Cebidichthys,violaceus,Monkeyface Eel
+FISH,FISH,EJAC,Embiotoca,jacksoni,Black Surfperch
+FISH,FISH,ELAT,Embiotoca,lateralis,Striped Surfperch
+FISH,FISH,EMBI,Embiotocidae,spp.,Surfperches
+FISH,FISH,EMOR,Engraulis,mordax,Northern Anchovy
+FISH,FISH,GBY,Sebastes,chrysomelas/carnatus,Gopher and black-and-yellow rockfish YOY
+FISH,FISH,GGAL,Galeorhinus,galeus,Tope Shark
+FISH,FISH,GIBB,Gibbonsia,spp.,Kelpfish
+FISH,FISH,GIBB,Gibbonsia,spp.,Kelpfish
+FISH,FISH,GIBB,Gibbonsia,spp.,Kelpfish
+FISH,FISH,GMOR,Gymnothorax,mordax,California Moray
+FISH,FISH,GMOR,Gymnothorax,mordax,California Moray
+FISH,FISH,GNIG,Girella,nigricans,Opaleye
+FISH,FISH,GOBI,Gobiidae,spp.,Gobies
+FISH,FISH,HANA,Hyperprosopon,analis,Spotfin Surfperch
+FISH,FISH,HANA,Hyperprosopon,analis,Spotfin Surfperch
+FISH,FISH,HARG,Hyperprosopon,argenteum,Walleye Surfperch
+FISH,FISH,HAZU,Hermosilla,azurea,Zebra-perch sea chub
+FISH,FISH,HCAR,Hypsurus,caryi,Rainbow Surfperch
+FISH,FISH,HDEC,Hexagrammos,decagrammus,Kelp Greenling
+FISH,FISH,HELL,Hyperprosopon,ellipticum,Silver Surfperch
+FISH,FISH,HFRA,Heterodontus,francisci,Horn Shark
+FISH,FISH,HLAG,Hexagrammos,lagocephalus,Rock Greenling
+FISH,FISH,HLAG,Hexagrammos,lagocephalus,Rock Greenling
+FISH,FISH,HROS,Heterostichus,rostratus,Giant Kelpfish
+FISH,FISH,HRUB,Hypsypops,rubicundus,Garibaldi
+FISH,FISH,HSEM,Halicoeres,semicinctus,Rock Wrasse
+FISH,FISH,JZON,Jordania,zonope,Longfin Sculpin
+FISH,FISH,KGB,Sebastes,"atrovirens,carnatus,chrysomelas,caurinus","Kelp, Gopher, Copper, Black-and-Yellow Rockfish YOY"
+FISH,FISH,KSEI,Kasatkia,seigeli,Six-spot Prickleback
+FISH,FISH,LCON,Lethops,connectens,"Kelp Goby, Halfblind Goby"
+FISH,FISH,LDAL,Lythrypnus,dalli,Bluebanded Goby
+FISH,FISH,LHIR,Leiocottus,hirundo,Lavender Sculpin
+FISH,FISH,LIPA,Liparis,spp.,Snailfish
+FISH,FISH,LLEP,Lepidogobius,lepidus,bay goby
+FISH,FISH,LMUC,Liparis,mucosus,Slimy Snailfish
+FISH,FISH,MCAL,Medialuna,californiensis,Halfmoon
+FISH,FISH,MCEP,Mugil,cephalus,Mullet
+FISH,FISH,MMIN,Micropetrus,minimus,Dwarf Surfperch
+FISH,FISH,MMOL,Mola,Mola,Ocean Sunfish
+FISH,FISH,MXEN,Mycteroperca,xenarcha   , Broomtail grouper 
+FISH,FISH,NBLA,Neoclinus,blanchardi,Sarcastic fringehead
+FISH,FISH,NO_ORG,,,No organisms present in this sample
+FISH,FISH,NSTE,Neoclinus,stephensae,Yellowfin Fringehead
+FISH,FISH,NUNI,Neoclinus,uninotatus,Onespot Fringehead
+FISH,FISH,OCAL,Oxyjulis,californica,Senorita
+FISH,FISH,OCAL,Oxyjulis,californica,Senorita
+FISH,FISH,OELO,Ophiodon,elongatus,Lingcod
+FISH,FISH,OPIC,Oxylebius,pictus,Painted Greenling
+FISH,FISH,OTRI,Orthonopias,triacis,snubnose sculpin
+FISH,FISH,OYB,Sebastes,"serranoides,flavidus,melanops",rockfish YOY (Sebastosomus)
+FISH,FISH,OYB,Sebastes,"flavidus, melanops, serranoides","Olive, Yellowtail, Black Rockfish complex"
+FISH,FISH,OYT,Sebastes,"serranoides,flavidus",olive or yellowtail  rockfish 
+FISH,FISH,OYT,Sebastes,"serranoides,flavidus",olive or yellowtail  rockfish 
+FISH,FISH,OYT,Sebastes,"serranoides,flavidus",olive or yellowtail  rockfish 
+FISH,FISH,PATR,Phanerodon,atripes,sharpnose surfperch
+FISH,FISH,PCAL,Paralichthys,californicus,california halibut
+FISH,FISH,PCLA,Paralabrax,clathratus,"kelp bass, calico bass"
+FISH,FISH,PCOE,Plueronichthys,coenosus,C-O turbot
+FISH,FISH,PFUR,Phanerodon,furcatus,white surfperch
+FISH,FISH,PGLA,Prionace,glauca,blue shark
+FISH,FISH,PHOL,Pholididae,spp.,Gunnels
+FISH,FISH,PHOL,Pholididae,spp.,Gunnels
+FISH,FISH,PLEU,Pleuronectidae,spp.,Righteyed flounders
+FISH,FISH,PLEU,Pleuronectidae,spp.,Righteyed flounders
+FISH,FISH,PMAC,Paralabrax,maculatofasciatus,spotted sandbass
+FISH,FISH,PNEB,Paralabrax,nebulifer,barred sandbass
+FISH,FISH,PNOT,Porichthys ,notatus,plainfin midshipman
+FISH,FISH,PTRI,Platyrhinoides,triseriata,thornback
+FISH,FISH,RHYP,Rathbunella,hypoplecta,smooth ronquil
+FISH,FISH,RJOR,Ronquilus,jordani,northern ronquil
+FISH,FISH,RNIC,Rhinogobiops,nicholsii,Blackeye Goby
+FISH,FISH,RNIC,Rhinogobiops,nicholsii,Blackeye Goby
+FISH,FISH,RNIC,Rhinogobiops,nicholsii,Blackeye Goby
+FISH,FISH,RTOX,Rhacochilus,toxotes,rubberlip surfperch
+FISH,FISH,RVAC,Rhacochilus,vacca,Pile Surfperch
+FISH,FISH,RVAC,Rhacochilus,vacca,Pile Surfperch
+FISH,FISH,RYOY,Sebastes,spp.,"Rockfish young of the year, unidentified sp."
+FISH,FISH,SACA,Squalus ,acanthias,Spiny dogfish
+FISH,FISH,SARG,Sphyraena,argentea,california barracuda
+FISH,FISH,SATR,Sebastes,atrovirens,kelp rockfish
+FISH,FISH,SAUR,Sebastes,auriculatus,brown rockfish
+FISH,FISH,SCAL,Squatina,californica,pacific angel shark
+FISH,FISH,SCAR,Sebastes,carnatus,gopher rockfish
+FISH,FISH,SCAR/SCAU,Sebastes,"carnatus, caurinus","Gopher, Copper Rockfish complex"
+FISH,FISH,SCAU,Sebastes,caurinus,copper rockfish
+FISH,FISH,SCHI,Sarda,chiliensis,eastern pacific bonito
+FISH,FISH,SCHR,Sebastes,chrysomelas,black and yellow rockfish
+FISH,FISH,SDAL,Sebastes,dalli,calico rockfish
+FISH,FISH,SDIP,Sebastes,diploproa,spitnose rockfish
+FISH,FISH,SEBSPP,Sebastes,,"Rockfish, unidentified sp."
+FISH,FISH,SEBSPP,Sebastes,,"Rockfish, unidentified sp."
+FISH,FISH,SEBSPP,Sebastes,,"Rockfish, unidentified sp."
+FISH,FISH,SENT,Sebastes,entomelas,widow rockfish
+FISH,FISH,SGIG,Stereolepis,gigas,giant sea bass
+FISH,FISH,SGUT,Scorpaena,guttata,"california scorpionfish, sculpin"
+FISH,FISH,SHOP,Sebastes,hopkinsi,squarespot rockfish
+FISH,FISH,SJAP,Scomber,japonicus,"pacific mackerel, greenback mackerel"
+FISH,FISH,SLAL,Seriola,lalandi,yellowtail
+FISH,FISH,SLAL,Seriola,lalandi,yellowtail
+FISH,FISH,SLUC,Synodus,lucioceps,California lizardfish
+FISH,FISH,SMAR,Scorpaenichthys,marmoratus,cabezon
+FISH,FISH,SMEL,Sebastes,melanops,black rockfish
+FISH,FISH,SMIN,Sebastes,miniatus,vermilion rockfish
+FISH,FISH,SMYS,Sebastes,mystinus,blue rockfish
+FISH,FISH,SNEB,Sebastes,nebulosus,china rockfish
+FISH,FISH,SPAU,Sebastes,paucispinis,bocaccio
+FISH,FISH,SPIN,Sebastes,pinniger,canary rockfish
+FISH,FISH,SPUL,Semicossyphus,pulcher,california sheephead
+FISH,FISH,SRAS,Sebastes,rastrelliger,grass rockfish
+FISH,FISH,SROS,Sebastes,rosaceus,rosy rockfish
+FISH,FISH,SRUB,Sebastes,rubrivinctus,flag rockfish
+FISH,FISH,SSAG,Sardinops,sagax,pacific sardine
+FISH,FISH,SSAX,Sebastes,saxicola,stripetail rockfish
+FISH,FISH,SSEM,Sebastes,semicinctus,halfbanded rockfish
+FISH,FISH,STICH,Stichaeidae,spp.,Pricklebacks
+FISH,FISH,STRE,Sebastes,serriceps,treefish
+FISH,FISH,STRE,Sebastes,serriceps,treefish
+FISH,FISH,SYNG,Syngnathus,spp.,pipefish
+FISH,FISH,SYRI,Synchirus / Rimicola,spp.,Manacled sculpin/Kelp clingfish
+FISH,FISH,SYRI,Synchirus / Rimicola,spp.,Manacled sculpin/Kelp clingfish
+FISH,FISH,SYRI,Synchirus / Rimicola,spp.,Manacled sculpin/Kelp clingfish
+FISH,FISH,TCAL,Torpedo,californica,pacific electric ray
+FISH,FISH,TSEM,Triakis,semifasciata,leopard shark
+FISH,FISH,TSEM,Triakis,semifasciata,leopard shark
+FISH,FISH,TSYM,Trachurus,symmetricus,jack mackerel
+FISH,FISH,UHAL,Urobatis,halleri,Haller's round ray
+FISH,FISH,UNID,,,Unidentified Fish
+FISH,FISH,UNID,,,Unidentified Fish
+FISH,FISH,XCAL,Xenistius,californiensis,Californian Salema
+FISH,FISH,ZROS,Zalembius,rosaceus,pink surfperch
+FISH,FISH,RALL,Rathbunella,alleni,Stripefin Ronquil
+FISH,FISH,RATH,Rathbunella,spp.,Ronquils
+FISH,FISH,RPRO,Rhinobatos,productus,Shovelnose Guitarfish
+FISH,FISH,AGUA,Apogon,guadalupensis,Guadalupe cardinalfish
+FISH,FISH,LZEB,Lythrypnus,zebra,zebra goby
+FISH,FISH,NCEP,Notorynchus,cepedianus,Broadnose sevengill shark
+FISH,FISH,SUMB,Sebastes,umbrosus,Honeycomb Rockfish
+FISH,FISH,ZEXA,Zapteryx,exasperata,Banded Guitarfish
+FISH,FISH,AARG,Amphistichus,argenteus,Barred Surfperch
+SIZEFREQ,SIZEFREQ,HALASS,Haliotis,assimilis,threaded abalone
+SIZEFREQ,SIZEFREQ,HALCOR,Haliotis,corrugata,pink abalone
+SIZEFREQ,SIZEFREQ,HALCRA,Haliotis,cracherodii,black abalone
+SIZEFREQ,SIZEFREQ,HALFUL,Haliotis,fulgens,green abalone
+SIZEFREQ,SIZEFREQ,HALKAM,Haliotis,kamtschatkana ,pinto abalone
+SIZEFREQ,SIZEFREQ,HALRUF,Haliotis,rufescens,red abalone
+SIZEFREQ,SIZEFREQ,HALSOR,Haliotis,sorenseni,White abalone
+SIZEFREQ,SIZEFREQ,HALSPP,Haliotis,spp.,abalone spp.
+SIZEFREQ,SIZEFREQ,HALWAL,Haliotis,wallalensis,flat abalone
+SIZEFREQ,SIZEFREQ,KELKEL,Kelletia,kelletii,Kellet's Whelk
+SIZEFREQ,SIZEFREQ,MEGCRE,Megathura,crenulata,Giant Keyhole Limpet
+SIZEFREQ,SIZEFREQ,MEGUND,Megastraea,undosa,Wavy Turban Snail
+SIZEFREQ,SIZEFREQ,PANINT,Panulirus,interruptus,spiny lobster
+SIZEFREQ,SIZEFREQ,STRFRAAD,Strongylocentrotus,franciscanus,red urchin 
+SIZEFREQ,SIZEFREQ,STRFRAAD,Strongylocentrotus,franciscanus,red urchin 
+SIZEFREQ,SIZEFREQ,STRPURAD,Strongylocentrotus,purpuratus,purple urchin 
+SIZEFREQ,SIZEFREQ,STRPURAD,Strongylocentrotus,purpuratus,purple urchin 
+SIZEFREQ,INVERT,ASTARM,Astropecten,armatus,Armored sand star
+SIZEFREQ,INVERT,DERIMB,Dermasterias,imbricata,leather star
+SIZEFREQ,INVERT,HENLEV,Henricia,leviuscula,blood star
+SIZEFREQ,INVERT,LINCOL,Linckia,columbiae,fragile star
+SIZEFREQ,INVERT,MEDAEQ,Mediaster,aequalis,red star
+SIZEFREQ,INVERT,ORTKOE,Orthasterias,koehleri,rainbow star
+SIZEFREQ,INVERT,PARCAL,Parastichopus,californicus,california sea cucumber
+SIZEFREQ,INVERT,PARPAR,Parastichopus,parvimensis,warty sea-cucumber
+SIZEFREQ,INVERT,PATMIN,Patiria,miniata,bat star
+SIZEFREQ,INVERT,PISGIG,Pisaster,giganteus,giant spined star
+SIZEFREQ,INVERT,PISOCH,Pisaster,ochraceous,ochre star
+SWATH,INVERT,LINCOL,Linckia,columbiae,fragile star
+SWATH,ALGAE,AGAFIM,Agarum,fimbriatum,Agarum
+SWATH,ALGAE,ALAMAR,Alaria,marginata,Alaria
+SWATH,ALGAE,COSCOS,Costaria,costatum,Costaria
+SWATH,ALGAE,CYSOSMAD,Cystoseira,osmundacea,Cystoseira
+SWATH,ALGAE,CYSOSMAD,Cystoseira,osmundacea,Cystoseira
+SWATH,ALGAE,CYSOSMAD,Cystoseira,osmundacea,Cystoseira
+SWATH,ALGAE,DICCAL,Dictyoneurum,californicum,Dictyoneurum
+SWATH,ALGAE,DICCAL,Dictyoneurum,californicum,Dictyoneurum
+SWATH,ALGAE,EGRMEN,Egregia,menziesii,Egregia
+SWATH,ALGAE,EISARBAD,Eisenia,arborea,Eisenia
+SWATH,ALGAE,EISARBAD,Eisenia,arborea,Eisenia
+SWATH,ALGAE,LAMFAR,Laminaria,farlowii,Laminaria
+SWATH,ALGAE,LAMSET,Laminaria,setchellii,Laminaria
+SWATH,ALGAE,LAMSPP,Laminaria,spp.,Laminaria
+SWATH,ALGAE,MACPYRAD,Macrocystis,pyrifera,Macrocystis
+SWATH,ALGAE,MACPYRAD,Macrocystis,pyrifera,Macrocystis
+SWATH,ALGAE,NERLUE,Nereocystis,luetkeana,Nereocystis
+SWATH,ALGAE,NO_ORG,,,No organisms present in this sample
+SWATH,ALGAE,PLEGAR,Pleurophycus,gardneri,Pleurophycus
+SWATH,ALGAE,PTECALAD,Pterygophora,californica,Pterygophora
+SWATH,ALGAE,PTECALAD,Pterygophora,californica,Pterygophora
+SWATH,INVERT,ANTSOL,Anthopleura,sola,green anemone
+SWATH,INVERT,ANTSPP,Anthopleura,spp.,unidentified anemone
+SWATH,INVERT,ANTXAN,Anthopleura,xanthogrammica,giant green anemone
+SWATH,INVERT,APLCAL,Aplysia,californica,california brown sea-hare
+SWATH,INVERT,ASTSER,Astrometis,sertulifera,Fragile Rainbow Star
+SWATH,INVERT,ASTSPP,,,unknown seastar
+SWATH,INVERT,BALNUB,Balanus,nubilis,barnacle
+SWATH,INVERT,CANSPP,Cancer,spp.,cancer crab
+SWATH,INVERT,CENCOR,Centrostephanus,coronatus,"coronado urchin, crowned urchin"
+SWATH,INVERT,CRAGIG,Crassedoma,giganteum,rock scallop
+SWATH,INVERT,CRYSIT,Cryptolithoides,sitchensis,Umbrella Crab
+SWATH,INVERT,CRYSTE,Cryptochiton,stelleri,gumboot chiton
+SWATH,INVERT,CUCSPP,Cucumaria,spp.,sea cucumber
+SWATH,INVERT,CYPSPA,Cypraea,spadicea,chestnut cowrie
+SWATH,INVERT,DERIMB,Dermasterias,imbricata,leather star
+SWATH,INVERT,EUGRUB,Eugorgia ,rubens,purple gorgonian
+SWATH,INVERT,GORGAD,,,Gorgonian adult
+SWATH,INVERT,HALASS,Haliotis,assimilis,threaded abalone
+SWATH,INVERT,HALCOR,Haliotis,corrugata,pink abalone
+SWATH,INVERT,HALCRA,Haliotis,cracherodii,black abalone
+SWATH,INVERT,HALFUL,Haliotis,fulgens,green abalone
+SWATH,INVERT,HALKAM,Haliotis,kamtschatkana ,pinto abalone
+SWATH,INVERT,HALRUF,Haliotis,rufescens,red abalone
+SWATH,INVERT,HALSPP,Haliotis,spp.,abalone spp.
+SWATH,INVERT,HALWAL,Haliotis,wallalensis,flat abalone
+SWATH,INVERT,HENLEV,Henricia,leviuscula,blood star
+SWATH,INVERT,KELKEL,Kelletia,kelletii,kellet's whelk
+SWATH,INVERT,LEPCHI,Leptogorgia,chilensis,red gorgonian
+SWATH,INVERT,LEPCHI,Leptogorgia,chilensis,red gorgonian
+SWATH,INVERT,LOXGRA,Loxorhychus,grandis,sheep crab
+SWATH,INVERT,LOXSCY,Loxorhynchus/Scyra,spp.,"decorator crab, moss crab"
+SWATH,INVERT,LOXSCY,Loxorhynchus/Scyra,spp.,"decorator crab, moss crab"
+SWATH,INVERT,LOXSCY,Loxorhynchus/Scyra,spp.,"decorator crab, moss crab"
+SWATH,INVERT,LUIFOL,Luidia,foliolata,Sand Star
+SWATH,INVERT,LYTANAAD,Lytechinus,anamesus,white urchin (adult > 2.5 cm)
+SWATH,INVERT,MEDAEQ,Mediaster,aequalis,red star
+SWATH,INVERT,MEGCRE,Megathura,crenulata,giant key-hole limpet
+SWATH,INVERT,MEGGIB,Megastrea,gibberosum,red turban snail
+SWATH,INVERT,MEGGIB,Megastrea,gibberosum,red turban snail
+SWATH,INVERT,MEGSPP,Megastrea,spp.,turban snail
+SWATH,INVERT,MEGUND,Megastrea,undosum,wavy turban snail
+SWATH,INVERT,MEGUND,Megastrea,undosum,wavy turban snail
+SWATH,INVERT,METSPP,Metridium,spp.,white plumed anemones
+SWATH,INVERT,MIMFOL,Mimulus,foliatus,mimicking crab
+SWATH,INVERT,MURCAL,Muricea,califoniica,california golden gorgonian
+SWATH,INVERT,MURFRU,Muricea,fruticosa,brown gorgonian
+SWATH,INVERT,OPHESM,Ophioplocus,esmarki,Smooth brittlestar
+SWATH,INVERT,ORTKOE,Orthasterias,koehleri,rainbow star
+SWATH,INVERT,PACFIM,Pachycerianthus,fimbratus,burrowing anemone
+SWATH,INVERT,PANINT,Panulirus,interruptus,spiny lobster
+SWATH,INVERT,PARCAL,Parastichopus,californicus,california sea cucumber
+SWATH,INVERT,PARPAR,Parastichopus,parvimensis,warty sea-cucumber
+SWATH,INVERT,PARSPP,Parastichopus,spp.,sea cucumber
+SWATH,INVERT,PATMIN,Patiria,miniata,bat star
+SWATH,INVERT,PATMIN,Patiria,miniata,bat star
+SWATH,INVERT,PISBRE,Pisaster,brevispinus,short spined star
+SWATH,INVERT,PISGIG,Pisaster,giganteus,giant spined star
+SWATH,INVERT,PISOCH,Pisaster,ochraceous,ochre star
+SWATH,INVERT,PUGPRO,Pugettia,producta,kelp crab
+SWATH,INVERT,PUGRIC,Pugettia,richii,kelp crab
+SWATH,INVERT,PUGSPP,Pugettia,spp.,kelp crab
+SWATH,INVERT,PYCHEL,Pycnopodia,helianthoides,sunflower star
+SWATH,INVERT,STRFRAAD,Strongylocentrotus,franciscanus,red urchin 
+SWATH,INVERT,STRFRAAD,Strongylocentrotus,franciscanus,red urchin 
+SWATH,INVERT,STRPURAD,Strongylocentrotus,purpuratus,purple urchin 
+SWATH,INVERT,STRPURAD,Strongylocentrotus,purpuratus,purple urchin 
+SWATH,INVERT,STYFOR,Stylasterias,forreri,Velcro Star
+SWATH,INVERT,STYMON,Styela,montereyensis,stalked tunicate
+SWATH,INVERT,TEALOF,Tealia,lofotensis,strawberry anemone
+SWATH,INVERT,TEALOF,Tealia,lofotensis,strawberry anemone
+SWATH,INVERT,TETAUR,Tethya,aurantia,orange puff-ball sponge
+SWATH,INVERT,URTCOL,Urticina,columbiana,Sand-rose Anemone
+SWATH,INVERT,URTCOR,Urticina,coriacea,Stubby Rose Anemone
+SWATH,INVERT,URTPIS,Urticina,piscivora,fish-eating anemone
+SWATH,INVERT,URTSPP,Urticina,spp.,Urticina spp.
+SWATH,INVERT,ASTARM,Astropecten,armatus,Armored sand star
+SWATH,INVERT,ACALUT,Acanthodoris,lutea,Nudibranch
+SWATH,INVERT,ANTART,Anthopleura,artemisia,moonglow anemone
+SWATH,INVERT,BAPMIM,Baptodoris,mimetica,Nudibranch
+SWATH,INVERT,BERCAL,Berthella,californica,Slug
+SWATH,INVERT,CADFLA,Cadlina,flavomaculata,Nudibranch
+SWATH,INVERT,CADLEU,Cadlina,leuteomarginata,Nudibranch
+SWATH,INVERT,CADLIM,Cadlina,limbaughorum,Nudibranch
+SWATH,INVERT,CADLUT,Cadlina,luteomarginata,Nudibranch
+SWATH,INVERT,CALANN,Calliostoma,annulatum,Purple ringed topsnail
+SWATH,INVERT,CERFOL,Ceratostoma,foliatum,Leafy Hornmouth
+SWATH,ALGAE,CHOSPP,Chondracanthus,sp,Red algae
+SWATH,INVERT,CHRMAC,Chromodoris,macfarlandi,Nudibranch
+SWATH,ALGAE,CODFRA,Codium,fragile,Green Seafingers
+SWATH,INVERT,CRAARB,Craniella,arb,Gray Puffball Sponge
+SWATH,ALGAE,DESLIG,Desmarestia,ligulata,Acid weed
+SWATH,INVERT,DIASAN,Diaulula,sandiegensis,Nudibranch
+SWATH,INVERT,DORALB,Doriopsilla,albopunctata,Nudibranch
+SWATH,INVERT,DORMON,Doris,montereyensis,Nudibranch
+SWATH,INVERT,EPIPRO,Epiactis,prolifera,Proliferating Anemone
+SWATH,INVERT,FLAIOD,Flabellina,iodinea,Nudibranch
+SWATH,INVERT,HALSOR,Haliotis,sorenseni,White abalone
+SWATH,INVERT,HERCRA,Hermissenda,crassicornis,Nudibranch
+SWATH,INVERT,HOLZAC,Holothuria,zacae,sea cucumber
+SWATH,INVERT,JANBAR,Janolus,barbarensis,Nudibranch
+SWATH,ALGAE,LAMSAC,Laminaria,saccharina,Sea belt
+SWATH,ALGAE,MASPAP,Mastocarpus,papillatus,red algae
+SWATH,INVERT,NORNOR,Norrisia,norrisi,Norris's top snail
+SWATH,INVERT,OPHPAN,Ophioderma,panamense,Smooth brittlestar
+SWATH,INVERT,PANDAN,Pandalus,danae,Shrimp
+SWATH,INVERT,PELNOB,Peltodoris,nobilis,Nudibranch
+SWATH,ALGAE,PELPOR,Pelagophycus,porra,Elkhorn kelp
+SWATH,INVERT,PHYBRA,Phyllactis,bradleyi,Sand anemone
+SWATH,INVERT,PODCEP,Pododesmus,cepio,Abalone jingle
+SWATH,INVERT,POLTRI,Polycera ,tricolor,Nudibranch
+SWATH,INVERT,PROBEL,Prostheceraeus,bellostriatus,Flatworm
+SWATH,ALGAE,SARFIL,Sargassum,horneri,Invasive Sargassum
+SWATH,ALGAE,SARSPP,Sargassum,sp,Sargassum
+SWATH,INVERT,SCLHET,Sclerasterias,heteropaes,Seastar
+SWATH,INVERT,STYCAL,Stylaster,californicus,california hydrocoral
+SWATH,INVERT,TALNUT,Taliepus,nuttallii,Southern kelp crab
+SWATH,INVERT,TEGREG,Tegula,regina,Queen tegula
+SWATH,INVERT,TETSPP,Tetilla,sp,Sponge
+SWATH,INVERT,TONLIN,Tonicella,lineata,chiton
+SWATH,INVERT,TOXSPP,Toxadocia,sp,Sponge
+SWATH,INVERT,TRICAT,Triopha,catalinae,Nudibranch
+SWATH,INVERT,TRIFES,Tritonia,festiva,Nudibranch
+SWATH,INVERT,TYLFUN,Tylodina,fungina,Opisthobranch
+SWATH,INVERT,URTCRA,Urticina,crassicornis,Anemone
+SWATH,INVERT,URTMCP,Urticina,mcpeaki,Anemone
+UPC,COVER,AGLSTR,Aglaophenia,struthenoides,ostrich-plume hydroid
+UPC,COVER,ANEM,,,Anemone
+UPC,COVER,ANEM,,,Anemone
+UPC,COVER,ANEM,,,Anemone
+UPC,COVER,ANEM,,,Anemone
+UPC,COVER,ANEM,,,Anemone
+UPC,COVER,BARNAC,,,Barnacle
+UPC,COVER,BARNAC,,,Barnacle
+UPC,COVER,BARNAC,,,Barnacle
+UPC,COVER,BARNAC,,,Barnacle
+UPC,COVER,BARROC,,,Bare Rock
+UPC,COVER,BARSAN,,,Bare Sand
+UPC,COVER,BRANCH,,,Red algae (branching flat blade)
+UPC,COVER,BRANCH,,,Red algae (branching flat blade)
+UPC,COVER,BRANCH,,,Red algae (branching flat blade)
+UPC,COVER,BROWN,,,Brown algae
+UPC,COVER,BRYO,,,Bryozoan
+UPC,COVER,BUSHY,,,Red algae (cylindrical branches)
+UPC,COVER,BUSHY,,,Red algae (cylindrical branches)
+UPC,COVER,BUSHY00,,,Red alga with cylindrical branches. Definition used in 2000
+UPC,COVER,CLAM,,,Clam
+UPC,COVER,CLAM,,,Clam
+UPC,COVER,CLAM,,,Clam
+UPC,COVER,CLAVSPP,Clavularia,spp.,Octocoral
+UPC,COVER,CLAVSPP,Clavularia,spp.,Octocoral
+UPC,COVER,COMTUN,,,"Tunicate -Colonial,compund,social"
+UPC,COVER,CORCAL,Corynactis,californica,strawberry anemone
+UPC,COVER,CRUCOR,,,Coralline algae -Crustose 
+UPC,COVER,CUCSPP,Cucumaria,spp.,sea cucumber
+UPC,COVER,CUCSPP,Cucumaria,spp.,sea cucumber
+UPC,COVER,CUCSPP,Cucumaria,spp.,sea cucumber
+UPC,COVER,CUPCOR,Astrangia,lajollaensis,Cup Coral 
+UPC,COVER,CUPCOR,Balanophyllia/Astroides,,Cup Coral 
+UPC,COVER,CUPCOR,Balanophyllia ,elegnas,Cup Coral 
+UPC,COVER,CUPCOR,,,Cup Coral 
+UPC,COVER,CYSOSM,Cystoseira,osmundacea,Cystoseira
+UPC,COVER,DEADHOLD,,,Macrosystis holdfast (dead)
+UPC,COVER,DESSPP,Desmarestia,spp.,acidic seaweed
+UPC,COVER,DIACAL,Diaporecia,californica,southern staghorn bryozoan
+UPC,COVER,DICCAL,Dictyoneurum,californicum,Dictyoneurum
+UPC,COVER,DICCAL,Dictyoneurum,californicum,Dictyoneurum
+UPC,COVER,DICCAL,Dictyoneurum,californicum,Dictyoneurum
+UPC,COVER,DICCAL,Dictyoneurum,californicum,Dictyoneurum
+UPC,COVER,DICCAL,Dictyoneurum,californicum,Dictyoneurum
+UPC,COVER,DICTYOTALES,Dictyotales,spp.,Dictyotales
+UPC,COVER,DICTYOTALES,Dictyotales,spp.,Dictyotales
+UPC,COVER,DICTYOTALES,Dictyotales,spp.,Dictyotales
+UPC,COVER,DIOCHA,Diopatra/Chaetopterus,spp.,ornate tube worm
+UPC,COVER,DIOCHA,Diopatra/Chaetopterus,spp.,ornate tube worm
+UPC,COVER,DIOCHA,Diopatra/Chaetopterus,spp.,ornate tube worm
+UPC,COVER,DIOCHA,Diopatra/Chaetopterus,spp.,ornate tube worm
+UPC,COVER,DIOCHA,Diopatra/Chaetopterus,spp.,ornate tube worm
+UPC,COVER,DODFEW,Dodecaceria,fewkesi,Dodecaceria
+UPC,COVER,DODFEW,Dodecaceria,fewkesi,Dodecaceria
+UPC,COVER,EGRMEN,Egregia,menziesii,Egregia
+UPC,COVER,ENCRED,,,Red algae -Encrusting
+UPC,COVER,ENCRED,,,Red algae -Encrusting
+UPC,COVER,ENCRED,,,Red algae -Encrusting
+UPC,COVER,ERECOR,,,Coralline algae -Erect/Articulated 
+UPC,COVER,ERECTRED,,,Red fleshy algae
+UPC,COVER,GORGAD,,,Gorgonian adult
+UPC,COVER,GORGAD,,,Gorgonian adult
+UPC,COVER,GREEN,,,Green algae
+UPC,COVER,GREEN,,,Green algae
+UPC,COVER,HYDROID,,,Hydroid
+UPC,COVER,LACY,,,Red algae (lacy branching)
+UPC,COVER,LAMHOLD,,,Laminariales holdfast (alive)
+UPC,COVER,LAMHOLD,,,Laminariales holdfast (alive)
+UPC,COVER,LAMHOLD,,,Laminariales holdfast (alive)
+UPC,COVER,LAMHOLD,,,Laminariales holdfast (alive)
+UPC,COVER,LAMHOLD,,,Laminariales holdfast (alive)
+UPC,COVER,LAMHOLD,,,Laminariales holdfast (alive)
+UPC,COVER,LAMHOLD,,,Laminariales holdfast (alive)
+UPC,COVER,LAMHOLD,,,Laminariales holdfast (alive)
+UPC,COVER,LAMHOLD,,,Laminariales holdfast (alive)
+UPC,COVER,LEAFY,,,Red algae (leaf-like)
+UPC,COVER,LEAFY,,,Red algae (leaf-like)
+UPC,COVER,MACPYR_HF,,,Macrosystis holdfast (alive)
+UPC,COVER,MACPYR_HF,,,Macrosystis holdfast (alive)
+UPC,COVER,MUD,,,Sediment/Mud
+UPC,COVER,MUD,,,Sediment/Mud
+UPC,COVER,MUSSEL,,,Mussel
+UPC,COVER,PACRUB,Pachythone,rubra,red sea cucumber
+UPC,COVER,PETMON,Petaloconchus,montereyensis,worm snail
+UPC,COVER,PHRCAL,Phragmatopoma,californica,colonial sand tube worm
+UPC,COVER,PHYSPP,Phyllospadix,spp.,surfgrass
+UPC,COVER,PHYSPP,Phyllospadix,spp.,surfgrass
+UPC,COVER,SALTRI,Salmacina,tribranchiata,fragile tube worms
+UPC,COVER,SARFIL,Sargassum,filicinum,Sargassum
+UPC,COVER,SARFIL,Sargassum,filicinum,Sargassum
+UPC,COVER,SARMUT,Sargassum,muticum,Sargassum
+UPC,COVER,SARSPP,Sargassum,spp.,Sargassum
+UPC,COVER,SB00RED,,,"SB 2000 definition of 'Other Red' included all red algae except RHOSPP, BUSHY,  LEAFY, CRUCOR and ERECOR"
+UPC,COVER,SCALLOP,,,Scallop
+UPC,COVER,SCSB99RED,,,"SC and SB 1999 definition of 'Other Red' included all red algae except RHOSPP, CRUCOR and ERECOR"
+UPC,COVER,SCUM,,,Diatom Layer
+UPC,COVER,SERPET,Serpulorbis/Petaloconchus,spp.,"tube snail, scaled worm shell"
+UPC,COVER,SERSQU,Serpulorbis,squamigerus,"tube snail, scaled worm shell"
+UPC,COVER,SERSQU,Serpulorbis,squamigerus,"tube snail, scaled worm shell"
+UPC,COVER,SHELL,,,Shell Debris
+UPC,COVER,SOLTUN,,,Tunicate -Solitary
+UPC,COVER,SPONGE,,,Sponge
+UPC,COVER,STYCAL,Stylaster,californicus,california hydrocoral
+UPC,COVER,TUBEMAT,,,Tubeworm mat.
+UPC,COVER,TUBEMAT,,,Tubeworm mat.
+UPC,COVER,TUBEWORM,,,Tubeworm
+UPC,COVER,TUBEWORM,,,Tubeworm
+UPC,COVER,TUBEWORM,,,Tubeworm
+UPC,COVER,TUBEWORM,,,Tubeworm
+UPC,COVER,TUBEWORM,,,Tubeworm
+UPC,COVER,TUBEWORM,,,Tubeworm
+UPC,COVER,TUBEWORM,,,Tubeworm
+UPC,COVER,TURF,,,Red filamentous turf 
+UPC,COVER UCSB,STYPOR,Stylantheca,porphyra,encrusting purple hydrocoral
+UPC,COVER,HETPAC,Heteropora,pacifica,Northern Staghorn Bryozoan
+UPC,RELIEF,FLATREL,,,Vertical relief: Flat
+UPC,RELIEF,FLATREL,,,Vertical relief: Flat
+UPC,RELIEF,HIREL,,,Vertical relief: High
+UPC,RELIEF,HIREL,,,Vertical relief: High
+UPC,RELIEF,MODREL,,,Vertical relief: Moderate 
+UPC,RELIEF,MODREL,,,Vertical relief: Moderate 
+UPC,RELIEF,SLTREL,,,Vertical Relief: Slight
+UPC,RELIEF,SLTREL,,,Vertical Relief: Slight
+UPC,SUBSTRATE,BEDRK,,,Substrate: Bedrock 
+UPC,SUBSTRATE,BEDRK,,,Substrate: Bedrock 
+UPC,SUBSTRATE,BOULD,,,Substrate: Boulder 
+UPC,SUBSTRATE,BOULD,,,Substrate: Boulder 
+UPC,SUBSTRATE,COB,,,Substrate: Cobble
+UPC,SUBSTRATE,COB,,,Substrate: Cobble
+UPC,SUBSTRATE,SAND,,,Substrate: Sand
+UPC,SUPERLAYER,UNDBRIT,,,Brittlestars (layer above primary spaceholder)
+UPC,SUPERLAYER,UNDDET,,,Detritus (layer above primary spaceholder)
+UPC,SUPERLAYER,UNDDET,,,Detritus (layer above primary spaceholder)
+UPC,SUPERLAYER,UNDLAM,,,Laminaria farlowii sub-canopy (layer above primary spaceholder)
+UPC,SUPERLAYER,UNDLAM,,,Laminaria farlowii sub-canopy (layer above primary spaceholder)
+UPC,SUPERLAYER,UNDPAC,,,Pachythyone rubra (layer above primary spaceholder)
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
