@@ -1,0 +1,56 @@
+---
+title: "SummaryMatrix"
+output: html_document
+date: "2023-09-01"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+
+Just_Speceis_Jan_Gap_analysis <- read_csv("Just_Speceis_Jan_Gap_analysis.csv")
+
+Just_Speceis_Bight_Gap_analysis <- read_csv("Just_Speceis_Bight_Gap_analysis.csv")
+
+JanDF <- Just_Speceis_Jan_Gap_analysis[,-1]
+
+BightDF <- Just_Speceis_Bight_Gap_analysis[,-1]
+
+MergeDF <- merge(x= JanDF, y = BightDF, all = T)
+
+
+
+df_phylum <- MergeDF %>% 
+  group_by(phylum) %>% 
+  summarise(SpeciesWithBOLD = sum(BOLD_Records > 0),
+            SpeciesWithoutBOLD = sum(BOLD_Records == 0),
+            SpeciesWithCOI = sum(BOLD_Records_COI > 0)) 
+
+df_class <- MergeDF %>% 
+  group_by(class) %>% 
+  summarise(SpeciesWithBOLD = sum(BOLD_Records > 0),
+            SpeciesWithoutBOLD = sum(BOLD_Records == 0),
+            SpeciesWithCOI = sum(BOLD_Records_COI > 0)) 
+  
+
+df_both <- MergeDF %>% 
+  group_by(phylum, class) %>% 
+  summarise(SpeciesWithBOLD = sum(BOLD_Records > 0),
+            SpeciesWithoutBOLD = sum(BOLD_Records == 0),
+            SpeciesWithCOI = sum(BOLD_Records_COI > 0)) 
+  
+
+testdf <- JanDF %>% 
+  filter(phylum == "Nemertea")
+
+write_clip(df_both)
+
+
+write.csv(MergeDF, "Final_Species_List.csv")
+
+MergeDF <- read_csv("Final_Species_List.csv")
+
+```
+

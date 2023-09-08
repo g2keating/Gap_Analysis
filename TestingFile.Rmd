@@ -9,7 +9,13 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ```{r}
-options(timeout=1200000000000)
+#Git Commands
+# git config --list
+# use_git_config(user.name = "g2keating", user.email = "gkeating@uci.edu")
+# git pull 
+# git add .
+# git commit -m ""
+# git push
 ```
 
 ```{r}
@@ -250,9 +256,263 @@ rint(x)
                 BOLD_Records_COI_USA=sum(mydf$Locus=="COI" & mydf$country=="United States", na.rm=T),
                 BOLD_Records_COI_CA=sum(mydf$Locus=="COI" &mydf$province_state=="California", na.rm=T),
                 BOLD_Records_COI_SW = sum( mydf$Locus=="COI" &mydf$province_state %in% c("California","Arizona", "New Mexico", "Texas", "Nevada", "Utah", "Colorado"), na.rm=T),
+                
+    )}
 ```
 
 
 
+```{r}
+identical()
+
+length(unique(Arthro_taxa$Taxon))
+length(unique(taxa_table_gnr$user_supplied_name))
+
+
+lsttest <- Arthro_taxa$Taxon
+
+lsttest2 <- taxa_table_gnr$user_supplied_name
+
+
+lstmissing <- setdiff(lsttest,lsttest2)
+
+setdiff(lsttest2,lsttest)
+
+
+missing_gnr <-gnr_resolve(sci = as.character(lstmissing), data_source_ids = c(11), with_canonical_ranks=T)
+
+missing_tol2 <- tol_resolve(lstmissing, include_suppressed = T)
+
+missing_res <- resolve(lstmissing)
+
+test <- as.data.frame(missing_res)
+
+length(unique(test$gnr.user_supplied_name))
+
+y <- gnr_resolve(sci = lstmissing)
+
+q <- resolve("armadillidiidae ")
+
+q <- as.data.frame(q)
+
+f <- gnr_resolve("armadillidiidae")
+
+t <- resolve(lstmissing)
+
+t<- as.data.frame(t)
+
+z <- gnr_resolve(sci = "armadillidiidae ", data_source_ids = c(12), with_canonical_ranks=T)
+
+x <-gnr_datasources()
+
+missing_gnr <-gnr_resolve(sci = as.character(lstmissing), data_source_ids = c(12), with_canonical_ranks=T)
+
+x <- gnr_resolve(sci = c(lstmissing), with_context = T, with_canonical_ranks = T, best_match_only = T,cap_first = T)
+
+r <- gnr_resolve(sci = c("Hahnidae","Armadillidiidae","Arctitalitus","Cybocephalidae","Patapus","Amblyoponinae","Cerapachyinae","Ecitoninae","Ponerinae","Proceratiinae","Pseudomyrmecinae"), with_context = T, with_canonical_ranks = T, best_match_only = T)
+
+
+r <- gnr_resolve(lstmissing, best_match_only = T, canonical = T)
+
+r <- gnr_resolve("Hahnidae", best_match_only = T, canonical = T)
+
+```
+
+
+```{r}
+length(unique(taxa_table_gnr$user_supplied_name))
+
+length(unique(taxa_table_gnr2$user_supplied_name))
+
+diff <- setdiff(taxa_table_gnr$user_supplied_name, taxa_table_gnr2$user_supplied_name)
+
+diff2 <- setdiff(taxa_table_gnr2$user_supplied_name, taxa_table_gnr$user_supplied_name)
+
+
+diff <- as.data.frame(diff)
+
+```
+
+
+```{r}
+taxa_table_GBIF <-gnr_resolve(sci = as.character(lst), data_source_ids = c(11), with_canonical_ranks=T)
+
+taxa_table_gnr <-gnr_resolve(sci = as.character(lst), best_match_only = T, with_canonical_ranks=T)
+
+diffGBIF <- as.data.frame(setdiff(taxa_table_GBIF$user_supplied_name, taxa_table_gnr$user_supplied_name))
+
+diffAll <- as.data.frame(setdiff(taxa_table_gnr$user_supplied_name, taxa_table_GBIF$user_supplied_name))
+
+MissingTaxa1 <-setdiff(Arthro_taxa$Taxon, taxa_table_GBIF$user_supplied_name)
+
+MissingTaxa2 <-setdiff(Arthro_taxa$Taxon, taxa_table_gnr$user_supplied_name)
+
+x <- intersect(MissingTaxa1,MissingTaxa2)
+
+z <- tol_resolve(x)
+
+diffGBIF <- as.data.frame(setdiff(taxa_table_GBIF, taxa_table_gnr))
+
+diffGBIF <- setdiff(taxa_table_GBIF$user_supplied_name, taxa_table_gnr$user_supplied_name)
+
+
+diffGBIF
+
+q <- taxa_table_GBIF %>% filter(taxa_table_GBIF$user_supplied_name == c("Tulbergiidae",    "Sminthurididiae", "Laemophloeidea",  "Ochodaeida",      "Clastropteridae", "Scutellaridae",   "Myrmecosystus" ))
+
+
+w <- taxa_table_GBIF %>% filter(taxa_table_GBIF$user_supplied_name == c("Tulbergiidae","Sminthurididiae"))
+
+t <- taxa_table_GBIF %>% filter(taxa_table_GBIF$user_supplied_name == c("Tulbergiidae"))
+
+j <- taxa_table_GBIF %>% filter(taxa_table_GBIF$user_supplied_name == c("Sminthurididiae"))
+
+
+b <- taxa_table_GBIF %>% filter(taxa_table_GBIF$user_supplied_name == c("Clastropteridae","Sminthurididiae"))
+
+```
+
+
+```{r}
+rotl::tnrs_contexts()
+```
+
+
+
+
+
+```{r}
+Arthro_Rafi <- read_csv("Arthro_Rafi.csv")
+
+
+
+
+Missing_Bold_Taxa <- arthro_taxa_final %>% 
+  filter(is.na(taxon))
+
+Missing_seqspec <- Arthro_Rafi %>% 
+  filter(is.na())
+
+
+check2<-bold_search(sci = "Vostox apicedentatus")
+
+check4<-bold_seqspec("Blackfordia virginica")
+
+check4<-bold_seqspec("Atherinops")
+
+Atherinops
+
+```
+
+```{r}
+Arthro_Gap_analysis2 <- read_csv("Arthro_Gap_analysis2.csv")
+```
+```{r}
+# Taxa_working <- Taxa_working[1:60,]
+
+library(rotl)
+library(knitr)
+
+Taxa_test <- taxa_table[1:100,]
+
+
+taxon_search <- tnrs_infer_context(taxa_table$Species_ed)
+
+kable(taxon_search)
+
+taxon_search <- tnrs_match_names(names = Taxa_test$Species_ed, context_name = "All life")
+
+
+taxon_search$context_name
+
+as.data.frame(taxon_search)
+```
+
+
+
+
+```{r}
+
+fart  <- c( "Tetracanthella brachyura", "Tephritis brachyura", "Synallaxis brachyura",  "Urochloa brachyura")
+
+
+
+bold_df_summary<-  lapply(unique(fart), function(x){
+  print(x)
+  mydf=bold_seqspec(x)
+  bdf=mydf
+  bldlength = nrow(mydf)
+  if(class(mydf)=="data.frame" && colnames(mydf[1]) == "processid"){ 
+    mydf<- mydf %>% 
+      mutate(Locus = case_when(
+        
+        str_detect(marker_codes %>% tolower(),"coi")~"COI", #Mitochondrial
+        str_detect(marker_codes %>% tolower(),"co1")~"COI", #Mitochondrial
+        str_detect(markercode %>% tolower(),"coi")~"COI",#Mitochondrial
+        str_detect(markercode %>% tolower(),"co1")~"COI",#Mitochondrial
+        str_detect(markercode %>% tolower(),"coxiii")~"COI", #Mitochondrial
+        str_detect(marker_codes %>% tolower(),"coxiii")~"COI", #Mitochondrial
+        T~"Other"))
+    
+    xdf<-tibble(FinalID=x,
+                phylum = first(mydf$phylum_name),
+                class = first(mydf$class_name),
+                order = first(mydf$order_name),
+                family = first(mydf$family_name),
+                genus = first(mydf$genus_name),
+                BOLD_Records= bldlength,
+                BOLD_Records_USA=sum(bdf$country=="United States", na.rm=T),
+                BOLD_Records_CA=sum(bdf$province_state=="California", na.rm=T),
+                
+                
+                #COI, mitochondrial
+                BOLD_Records_COI=sum(mydf$Locus=="COI", na.rm = T),
+                BOLD_Records_COI_USA=sum(mydf$Locus=="COI" & mydf$country=="United States", na.rm=T),
+                BOLD_Records_COI_CA=sum(mydf$Locus=="COI" &mydf$province_state=="California", na.rm=T),
+                BOLD_Records_COI_SW = sum( mydf$Locus=="COI" &mydf$province_state %in% c("California","Arizona", "New Mexico", 
+                                                                                         "Texas", "Nevada", "Utah", "Colorado"), na.rm=T),
+                
+    )
+  }
+  else  {
+    xdf= tibble(FinalID=x,  
+                BOLD_Records=0, BOLD_Records_USA=0, BOLD_Records_CA=0, BOLD_Records_SW = 0,
+                BOLD_Records_ITS=0, BOLD_Records_ITS_USA=0, BOLD_Records_ITS_CA=0, BOLD_Records_ITS_SW = 0,
+                BOLD_Records_COI=0, BOLD_Records_COI_USA=0, BOLD_Records_COI_CA=0, BOLD_Records_COI_SW = 0,
+                BOLD_Records_CYTB=0, BOLD_Records_CYTB_USA=0, BOLD_Records_CYTB_CA=0, BOLD_Records_CYTB_SW = 0,
+                BOLD_Records_12S=0, BOLD_Records_12S_USA=0, BOLD_Records_12S_CA=0, BOLD_Records_12S_SW = 0,
+                BOLD_Records_16S=0, BOLD_Records_16S_USA=0, BOLD_Records_16S_CA=0, BOLD_Records_16S_SW = 0,
+                BOLD_Records_18S=0, BOLD_Records_18S_USA=0, BOLD_Records_18S_CA=0, BOLD_Records_18S_SW = 0,
+                phylum = NA,
+                class = NA,
+                order = NA,
+                family = NA,
+                genus = NA)
+  }
+  xdf
+})  %>% bind_rows()
+
+```
+
+```{r}
+
+detach("package:rotl", unload = T)
+
+x <- c( "Leptopecten latiauratus", "Uromunna ubiquita", "Lucinisca nuttalli",  "Vitreolina columbiana", "Volvulella cylindrica")
+tax_missing <- tax_rank(x, db ="gbif", rows =)
+
+z <- tax_rank(x, db = "gbif", rows = 1)
+
+```
+
+```{r}
+#Git Commands
+# git config --list
+# use_git_config(user.name = "g2keating", user.email = "gkeating@uci.edu")
+# git pull 
+# git add .
+# git commit -m ""
+# git push
+```
 
 

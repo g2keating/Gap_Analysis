@@ -1,0 +1,1228 @@
+input,taxid,taxon,tax_rank,tax_division,parentid,parentname,specimenrecords,representitive_image.image,representitive_image.apectratio,taxonrep
+Acanthina,199875,Acanthina,genus,Animalia,269860,Ocenebrinae,22,CNOI/KFM-324+1272597546.jpg,0.848,NA
+Acanthodoris,5942,Acanthodoris,genus,Animalia,1833,Onchidorididae,149,BNAGB/MT05005+1332779188.jpg,1.333,Acanthodoris
+Acanthodoris brunnea,293134,Acanthodoris brunnea,species,Animalia,5942,Acanthodoris,7,DISA/3966_DISCO3966_dor_10xMagnification_2017_10_31_16_20_35_[C]+1509481272.jpg,1.499,Acanthodoris brunnea
+Acanthodoris rhodoceras,717522,Acanthodoris rhodoceras,species,Animalia,5942,Acanthodoris,6,DISA/6744_img_009+1516218704.jpg,1.499,Acanthodoris rhodoceras
+Acanthoptilum,293128,Acanthoptilum,genus,Animalia,293127,Virgulariidae,13,KBCSM/IMG_0422+1371249382.JPG,1.499,Acanthoptilum
+Omaloplia,398272,Omaloplia,genus,Animalia,942857,Sericini,16,FBCOJ/BFB_ZSM_COLA_1686+1347558348.jpg,1.348,NA
+Acharax johnsoni,600741,Acharax johnsoni,species,Animalia,600735,Acharax,8,RBCMI/IMG_0521+1396623332.JPG,1.682,Acharax johnsoni
+Achelia echinata,168319,Achelia echinata,species,Animalia,103190,Achelia,11,SWEMA/GNM7463_1Pycno110V+1432219764.JPG,1.499,Achelia echinata
+Acila castrensis,277685,Acila castrensis,species,Animalia,277684,Acila,32,BHAK/BHAK-12268-02a+1670549517.jpg,0.994,Acila castrensis
+Aclis,1142018,Aclis,genus,Animalia,936,Eulimidae,3,HABFA/ZMBN_137859+1647626354.JPG,1.499,Aclis
+Acoetes pacifica,370423,Acoetes pacifica,species,Animalia,370422,Acoetes,4,CMBIA/00140Acoetes_pacificaVRRVentral+1321990450.jpg,1.333,Acoetes pacifica
+Acrocirrus,304525,Acrocirrus,genus,Animalia,125431,Acrocirridae,7,BHAK/BHAK3063_Acrocirrus_[1]+1502038544.JPG,1.499,Acrocirrus
+Acteocina,276985,Acteocina,genus,Animalia,948614,Tornatinidae,23,NA,NA,NA
+Acteocina cerealis,996398,Acteocina cerealis,species,Animalia,276985,Acteocina,2,NA,NA,Acteocina cerealis
+Acteocina harpa,800128,Acteocina harpa,species,Animalia,276985,Acteocina,3,NA,NA,Acteocina harpa
+Admete,194462,Admete,genus,Animalia,449238,Admetinae,37,NNMX/IMG_6668+1228828534.JPG,1.499,Admete
+Admete viridula,315464,Admete viridula,species,Animalia,194462,Admete,16,ARBEN/P1030570+1541454270.JPG,1.333,Admete viridula
+Admete gracilior,808187,Admete gracilior,species,Animalia,194462,Admete,1,NA,NA,NA
+Adontorhina cyclia,808193,Adontorhina cyclia,species,Animalia,808192,Adontorhina,4,BBPS/dFHL_11559a+1585278780.jpg,1.208,Adontorhina cyclia
+Adula,600733,Adula,genus,Animalia,756070,Lithophaginae,25,RBCMI/IMG_0723+1396450254.JPG,1.765,Adula
+Aegires albopunctatus,722699,Aegires albopunctatus,species,Animalia,276960,Aegires,6,RBCMI/DSC_2495+1443641919.JPG,1.499,Aegires albopunctatus
+Aglaja ocelligera,600868,Aglaja ocelligera,species,Animalia,103934,Aglaja,7,BHAK/dHAK_04259+1501588982.JPG,1.509,Aglaja ocelligera
+Aglaophamus,377867,Aglaophamus,genus,Animalia,122714,Nephtyidae,240,NEPH/AtrissAntarctV1F1+1308070718.JPG,1.333,Aglaophamus
+Aglaophamus verrilli,981318,Aglaophamus verrilli,species,Animalia,377867,Aglaophamus,4,NA,NA,NA
+Aglaophenia,149588,Aglaophenia,genus,Animalia,149523,Aglaopheniidae,108,POIMB/dOIMB_03078a+1569433368.jpg,1.277,Aglaophenia
+Akanthophoreus phillipsi,981346,Akanthophoreus phillipsi,species,Animalia,528053,Akanthophoreus,1,NA,NA,NA
+Akera,4702,Akera,genus,Animalia,1850,Akeridae,8,MARGA/M09HYA0032_G1_dors+1454503430.JPG,1.499,NA
+Alaba,149469,Alaba,genus,Animalia,149468,Litiopidae,7,NA,NA,NA
+Lamprops quadriplicata,299387,Lamprops quadriplicata,species,Animalia,299386,Lamprops,3,CMBIA/IMGP7918+1280264988.jpg,1.506,Lamprops quadriplicata
+Alcyonidium,247889,Alcyonidium,genus,Animalia,247888,Alcyonidiidae,116,BEAUF/bioug01534-e09+1320246016.JPG,1.499,Alcyonidium
+Alderia willowi,151740,Alderia willowi,species,Animalia,80144,Alderia,64,NA,NA,NA
+Alia,495450,Alia,genus,Animalia,84900,Columbellidae,135,RBCMI/BIOUG12670-H06[B]+1401812160.jpg,1.359,Alia
+Alia carinata,495451,Alia carinata,species,Animalia,495450,Alia,104,BCMOL/10BCMOL-00038+1299526456.jpg,1.333,Alia carinata
+Mitrella tuberosa,765190,Mitrella tuberosa,species,Animalia,95885,Mitrella,21,BHAK/11_06134a+1669421985.jpg,1.14,Mitrella tuberosa
+Alienacanthomysis,91913,Alienacanthomysis,genus,Animalia,1718,Mysidae,6,NA,NA,NA
+Alienacanthomysis macropsis,91914,Alienacanthomysis macropsis,species,Animalia,91913,Alienacanthomysis,6,NA,NA,NA
+Alpheopsis equidactylus,1075735,Alpheopsis equidactylus,species,Animalia,173943,Alpheopsis,3,NA,NA,NA
+Alpheus,84068,Alpheus,genus,Animalia,1527,Alpheidae,1957,FLTWO/FTP_0073-2+1414545732.JPG,1.502,Alpheus
+Alpheus bellimanus,893589,Alpheus bellimanus,species,Animalia,84068,Alpheus,10,DISA/3347_Alpheus_bellimanus__LH_NPS2016_84_final+1485992014.jpg,1.798,Alpheus bellimanus
+Alpheus clamator,296212,Alpheus clamator,species,Animalia,84068,Alpheus,11,CNOI/KFM-304+1272594900.jpg,0.867,Alpheus clamator
+Alvania,306816,Alvania,genus,Animalia,856,Rissoidae,129,ICBA/ZMBN_137171_V+1661194850.jpg,1.499,Alvania
+Alvania compacta,770957,Alvania compacta,species,Animalia,306816,Alvania,21,LHABC/BIOUG48552_F05.1+1637107781.jpg,1.504,Alvania compacta
+Alvania rosana,770958,Alvania rosana,species,Animalia,306816,Alvania,6,LHABC/BIOUG48552_G06.2+1637109043.JPG,1.499,Alvania rosana
+Amaeana occidentalis,370424,Amaeana occidentalis,species,Animalia,201743,Amaeana,32,HZPLY/BIOUG06647-A07-1+1374276638.jpg,0.941,Amaeana occidentalis
+Amage anops,370426,Amage anops,species,Animalia,370425,Amage,5,CMBIA/00143Amage_anopsDorsal2VRR+1321990452.jpg,1.333,Amage anops
+Amathia distans,400017,Amathia distans,species,Animalia,352695,Amathia,17,MLMLA/bioug01534-a06+1320254666.JPG,1.331,Amathia distans
+Amblyops,27767,Amblyops,genus,Animalia,1718,Mysidae,10,CUMNB/UMBergen_NB_mysi21+1393855502.jpg,1.333,NA
+Amblyops abbreviatus,776844,Amblyops abbreviatus,species,Animalia,27767,Amblyops,9,CUMNB/UMBergen_NB_mysi21+1393855502.jpg,1.333,Amblyops abbreviatus
+Americhelidium,803368,Americhelidium,genus,Animalia,1607,Oedicerotidae,24,QHAK/ZHAK-01854-00004+1662075675.jpg,0.667,Americhelidium
+Americhelidium rectipalmum,973577,Americhelidium rectipalmum,species,Animalia,803368,Americhelidium,2,BHAK/dHAKB_00560a+1582145701.jpg,1.257,Americhelidium rectipalmum
+Ammothea hilgendorfi,103184,Ammothea hilgendorfi,species,Animalia,103183,Ammothea,6,NA,NA,NA
+Ampelisca,88667,Ampelisca,genus,Animalia,1596,Ampeliscidae,444,WWAMP/bioug01329-c07+1315335974.jpg,1.333,Ampelisca
+Ampelisca agassizi,370388,Ampelisca agassizi,species,Animalia,88667,Ampelisca,11,CMBIA/00568Ampelisca_agassiziVRR+1351801074.jpg,1.333,Ampelisca agassizi
+Ampelisca brachycladus,299394,Ampelisca brachycladus,species,Animalia,88667,Ampelisca,3,CMBIA/IMGP7935Corr+1282152364.jpg,1.506,Ampelisca brachycladus
+Ampelisca brevisimulata,299412,Ampelisca brevisimulata,species,Animalia,88667,Ampelisca,4,CMBIA/IMGP7982Corr+1282152098.jpg,1.162,Ampelisca brevisimulata
+Ampelisca careyi,370389,Ampelisca careyi,species,Animalia,88667,Ampelisca,20,CMBIA/00578Ampelisca_careyiVRR+1351801092.jpg,1.333,Ampelisca careyi
+Ampelisca hancocki,370391,Ampelisca hancocki,species,Animalia,88667,Ampelisca,6,CMBIA/00107Ampelisca_hancockiVRRWScale+1320969400.jpg,1.333,Ampelisca hancocki
+Ampelisca indentata,1075738,Ampelisca indentata,species,Animalia,88667,Ampelisca,2,NA,NA,NA
+Ampelisca lobata,973579,Ampelisca lobata,species,Animalia,88667,Ampelisca,4,LHABC/CCDB31224_F06.2+1632764655.JPG,1.499,Ampelisca lobata
+Ampelisca pacifica,370392,Ampelisca pacifica,species,Animalia,88667,Ampelisca,1,CMBIA/00108Ampelisca_pacificaVRR+1321990422.jpg,1.333,Ampelisca pacifica
+Ampelisca pugetica,299413,Ampelisca pugetica,species,Animalia,88667,Ampelisca,8,CMBIA/IMGP7991New+1284059338.jpg,1.506,Ampelisca pugetica
+Ampharete,177409,Ampharete,genus,Animalia,214495,Ampharetinae,334,POLNB/UMBergen_NB_amphar01+1361197454.jpg,1.333,Ampharete
+Ampharete acutifrons,177410,Ampharete acutifrons,species,Animalia,177409,Ampharete,40,CMBIA/00370Ampharete_acutifrons_Lateral_P94501+1298565540.jpg,1.333,Ampharete acutifrons
+Ampharete finmarchica,524776,Ampharete finmarchica,species,Animalia,177409,Ampharete,32,TODAH/ZMBN_104853+1442341840.jpg,1.499,Ampharete finmarchica
+Ampharete goesi,177964,Ampharete goesi,species,Animalia,177409,Ampharete,1,NA,NA,NA
+Ampharete labrops,205826,Ampharete labrops,species,Animalia,177409,Ampharete,6,BCPOL/BAMPOL0363+1217344470.JPG,1.499,Ampharete labrops
+Amphichondrius granulatus,218427,Amphichondrius granulatus,species,Animalia,218426,Amphichondrius,5,OOPH/Amphichondrius_granulatus+1652886068.jpg,1.838,Amphichondrius granulatus
+Amphicteis,274195,Amphicteis,genus,Animalia,214495,Ampharetinae,167,MIWAP/ZMBN_98149+1424897412.JPG,1.499,Amphicteis
+Amphicteis mucronata,808503,Amphicteis mucronata,species,Animalia,274195,Amphicteis,1,FHL/BMBM-0798+1522880304.JPG,1.322,Amphicteis mucronata
+Amphicteis scaphobranchiata,370427,Amphicteis scaphobranchiata,species,Animalia,274195,Amphicteis,2,CMBIA/00145Amphicteis_scaphobranchiataDorsal2VRR+1321990454.jpg,1.333,Amphicteis scaphobranchiata
+Amphideutopus oculatus,299381,Amphideutopus oculatus,species,Animalia,299380,Amphideutopus,4,CMBIA/00530Amphideutopus_oculatusLateralVRR+1326752814.jpg,1.333,Amphideutopus oculatus
+Amphiduros,83157,Amphiduros,genus,Animalia,25266,Hesionidae,9,NA,NA,NA
+Amphiodia,140278,Amphiodia,genus,Animalia,80325,Amphiuridae,153,DSPEC/Bamfield_08_545+1224552398.jpg,1.535,Amphiodia
+Amphiodia digitata,218453,Amphiodia digitata,species,Animalia,140278,Amphiodia,8,NA,NA,NA
+Amphiodia psara,218476,Amphiodia psara,species,Animalia,140278,Amphiodia,2,NA,NA,NA
+Amphiodia urtica,160325,Amphiodia urtica,species,Animalia,140278,Amphiodia,56,OOPH/20190423_180609.27_L+1657323558.jpg,1.333,Amphiodia urtica
+Amphioplus,218492,Amphioplus,genus,Animalia,80325,Amphiuridae,352,DSPEC/Bamfield_08_116+1224037098.jpg,1.24,Amphioplus
+Amphioplus strongyloplax,218599,Amphioplus strongyloplax,species,Animalia,218492,Amphioplus,3,NA,NA,Amphioplus strongyloplax
+Amphipholis,84439,Amphipholis,genus,Animalia,80325,Amphiuridae,271,DSPEC/BAM00068b+1334683266.JPG,1.333,Amphipholis
+Amphipholis pugetana,218635,Amphipholis pugetana,species,Animalia,84439,Amphipholis,9,OLAB/20181114_133335.59_L_scale100+1657322691.jpg,1.333,Amphipholis pugetana
+Amphipholis squamata,84451,Amphipholis squamata,species,Animalia,84439,Amphipholis,146,OPHNB/UMBergen_NB_ophiu01_1+1384792106.jpg,1.499,Amphipholis squamata
+Amphiporus,25931,Amphiporus,genus,Animalia,1815,Amphiporidae,165,OPQCS/bn2010-024+1289217344.jpg,1.333,Amphiporus
+Amphiporus cruentatus,955894,Amphiporus cruentatus,species,Animalia,25931,Amphiporus,5,POIMB/dOIMB_05074a+1569536970.jpg,1.557,Amphiporus cruentatus
+Amphisamytha bioculata,668622,Amphisamytha bioculata,species,Animalia,198156,Amphisamytha,3,NA,NA,NA
+Amphissa,277353,Amphissa,genus,Animalia,84900,Columbellidae,137,BCMOL/10BCMOL-00019b+1299526032.jpg,1.333,Amphissa
+Amphissa bicolor,981352,Amphissa bicolor,species,Animalia,277353,Amphissa,1,NA,NA,NA
+Amphissa versicolor,277354,Amphissa versicolor,species,Animalia,277353,Amphissa,5,BCMOL/10BCMOL-00404+1335235044.JPG,1.506,Amphissa versicolor
+Neoamphitrite robusta,497231,Neoamphitrite robusta,species,Animalia,208753,Neoamphitrite,11,BHAK/An_Neoamphitrite_robusta_BHAK-0025dHAK_00196+1602546740.JPG,1.245,Neoamphitrite robusta
+Amphiura,99934,Amphiura,genus,Animalia,80325,Amphiuridae,752,MIWAE/UMBergen_MBOWA_ophiu43_2+1365527370.jpg,1.499,Amphiura
+Amphiura arcystata,218672,Amphiura arcystata,species,Animalia,99934,Amphiura,3,NA,NA,NA
+Amphiura diomedeae,140276,Amphiura diomedeae,species,Animalia,99934,Amphiura,5,DSPEC/IMG_1188+1221331510.JPG,1.002,Amphiura diomedeae
+Ampithoe,81311,Ampithoe,genus,Animalia,527077,Ampithoinae,402,NBAMP/HA_0016+1221053278.JPG,1.5,Ampithoe
+Ampithoe lacertosa,314183,Ampithoe lacertosa,species,Animalia,81311,Ampithoe,38,NJCGS/IMG_7372+1297888522.jpg,1.333,Ampithoe lacertosa
+Ampithoe longimana,81312,Ampithoe longimana,species,Animalia,81311,Ampithoe,47,WWGSL/L191AR1-05+1219777510.jpg,1.317,Ampithoe longimana
+Ampithoe plumulosa,753839,Ampithoe plumulosa,species,Animalia,81311,Ampithoe,6,"DISA/6104_2017_02_07_12_12_15_[B,Radius8,Smoothing4]+1486498340.jpg",1.499,Ampithoe plumulosa
+Ampithoe ramondi,739799,Ampithoe ramondi,species,Animalia,81311,Ampithoe,25,BMFVF/BBWB2AR01_HABITUS+1595952566.jpg,1.333,Ampithoe ramondi
+Ampithoe valida,171008,Ampithoe valida,species,Animalia,81311,Ampithoe,99,VAFIV/WCH_0701_0094_C_ARMS1_10ml1+1399593104.jpg,1.333,Ampithoe valida
+Ancistrosyllis,660278,Ancistrosyllis,genus,Animalia,125414,Pilargidae,11,NA,NA,NA
+Ancistrosyllis groenlandica,660279,Ancistrosyllis groenlandica,species,Animalia,660278,Ancistrosyllis,2,NA,NA,NA
+Ancistrosyllis hamata,1150654,Ancistrosyllis hamata,species,Animalia,660278,Ancistrosyllis,2,NA,NA,NA
+Anobothrus,156139,Anobothrus,genus,Animalia,214495,Ampharetinae,270,POLNB/UMBergen_NB_amphar107+1371834512.jpg,1.333,Anobothrus
+Anobothrus gracilis,516036,Anobothrus gracilis,species,Animalia,156139,Anobothrus,32,POLNB/UMBergen_NB_amphar66+1361197474.jpg,1.499,Anobothrus gracilis
+Anonyx lilljeborgi,1265067,Anonyx lilljeborgi,species,Animalia,5331,Anonyx,35,CMBIA/00603Anonyx_illjeborgiVRRHiRes+1351801130.jpg,1.333,Anonyx lilljeborgi
+Anoplodactylus,88403,Anoplodactylus,genus,Animalia,88402,Phoxichilidiidae,130,IBAH/IMG_3057+1225898680.JPG,1.499,Anoplodactylus
+Anoplodactylus californicus,103220,Anoplodactylus californicus,species,Animalia,88403,Anoplodactylus,10,NA,NA,Anoplodactylus californicus
+Anoplodactylus erectus,103188,Anoplodactylus erectus,species,Animalia,88403,Anoplodactylus,1,NA,NA,NA
+Anoplodactylus viridintestinalis,103189,Anoplodactylus viridintestinalis,species,Animalia,88403,Anoplodactylus,2,NA,NA,NA
+Anthoptilum grandiflorum,395043,Anthoptilum grandiflorum,species,Animalia,395042,Anthoptilum,20,OOBKJ/IMG_5907+1531936142.JPG,1.499,Anthoptilum grandiflorum
+Antinoe,595365,Catonephele antinoe,species,Animalia,7097,Catonephele,2,NA,NA,NA
+Antiplanes,293179,Antiplanes,genus,Animalia,353048,Pseudomelatomidae,5,LACSA/DNA_trawl_invert_Antiplanes_catalinae_T0-305_plate1_cell_H5Lighter_+1284580956.jpg,1.333,NA
+Antiplanes catalinae,293180,Antiplanes catalinae,species,Animalia,293179,Antiplanes,1,LACSA/DNA_trawl_invert_Antiplanes_catalinae_T0-305_plate1_cell_H5Lighter_+1284580956.jpg,1.333,Antiplanes catalinae
+Antiplanes thalea,981357,Antiplanes thalea,species,Animalia,293179,Antiplanes,1,NA,NA,NA
+Aonides,190353,Aonides,genus,Animalia,32473,Spionidae,32,POLNB/ZMBN_104670+1431535866.jpg,1.333,Aonides
+Aoroides,314170,Aoroides,genus,Animalia,88673,Aoridae,63,BCAMP/BCAMP086-08__BCAMP0086+1217277898.JPG,1.499,Aoroides
+Aoroides columbiae,675365,Aoroides columbiae,species,Animalia,314170,Aoroides,8,NA,NA,Aoroides columbiae
+Aoroides exilis,803353,Aoroides exilis,species,Animalia,314170,Aoroides,11,BHAK/dHAKB_01884a+1646090899.jpg,1.333,Aoroides exilis
+Aoroides inermis,981058,Aoroides inermis,species,Animalia,314170,Aoroides,2,BHAK/dHAKB_03634a+1645565767.jpg,1.322,Aoroides inermis
+Aoroides intermedius,314184,Aoroides intermedius,species,Animalia,314170,Aoroides,13,NJCGS/10biobc-00952+1295035146.jpg,1.333,Aoroides intermedius
+Aoroides secunda,1147571,Aoroides secunda,species,Animalia,314170,Aoroides,1,NA,NA,NA
+Aphelochaeta,190374,Aphelochaeta,genus,Animalia,83730,Cirratulidae,538,POLNB/UMBergen_NB_polych506+1399397378.JPG,1.499,Aphelochaeta
+Aphelochaeta monilaris,955697,Aphelochaeta monilaris,species,Animalia,190374,Aphelochaeta,12,BBPS/dFHL_11415a+1585277630.jpg,1.401,Aphelochaeta monilaris
+Aphelochaeta phillipsi,370429,Aphelochaeta phillipsi,species,Animalia,190374,Aphelochaeta,1,CMBIA/00148Aphelochaeta_phillipsiMixedVRR+1321990458.jpg,1.333,Aphelochaeta phillipsi
+Aphrodita,157446,Aphrodita,genus,Animalia,125402,Aphroditidae,126,BCPOL/BC-027+1211476814.jpg,1.499,Aphrodita
+Aphrodita japonica,293166,Aphrodita japonica,species,Animalia,157446,Aphrodita,3,LACSA/DNA_trawl_invert_Aphrodita_japonica_or_negligens_T0-305_plate_1_cell_F12_-_G6Lighter+1288208286.jpg,1.333,Aphrodita japonica
+Aphrodita refulgida,293151,Aphrodita refulgida,species,Animalia,157446,Aphrodita,2,LACSA/DNA_trawl_invert_Aphrodita_refulgida_T4-23_plate_1_cell_E6Lighter+1288208314.jpg,1.506,Aphrodita refulgida
+Apionsoma misakianum,79160,Apionsoma misakianum,species,Animalia,79159,Apionsoma,8,NA,NA,NA
+Apionsoma murinae,216442,Apionsoma murinae,species,Animalia,79159,Apionsoma,1,NA,NA,NA
+Apistobranchus,641109,Apistobranchus,genus,Animalia,125426,Apistobranchidae,13,PONOR/NTNU-VM-75174+1576688540.jpg,1.333,Apistobranchus
+Aplysiopsis enteromorphae,302900,Aplysiopsis enteromorphae,species,Animalia,302899,Aplysiopsis,11,GASSC/BIOUG01229_H05+1482536572.jpg,1.4,Aplysiopsis enteromorphae
+Arabella,83439,Arabella,genus,Animalia,81498,Oenonidae,48,POMEX/ECOSUR-OH-P1038+1467485789.jpg,0.424,Arabella
+Araphura,714532,Araphura,genus,Animalia,516824,Tanaellidae,6,BBPS/dFHL_13744a+1585367048.jpg,2.222,NA
+Araphura breviaria,955723,Araphura breviaria,species,Animalia,714532,Araphura,3,BBPS/dFHL_13744a+1585367048.jpg,2.222,Araphura breviaria
+Archaeomysis grebnitzkii,91918,Archaeomysis grebnitzkii,species,Animalia,91917,Archaeomysis,7,NA,NA,NA
+Argissa hamatipes,455799,Argissa hamatipes,species,Animalia,455798,Argissa,12,BNSA/MT03125+1418667792.jpg,0.895,Argissa hamatipes
+Argopecten ventricosus,901243,Argopecten ventricosus,species,Animalia,88407,Argopecten,2,NA,NA,NA
+Aricidea,122726,Aricidea,genus,Animalia,122725,Paraonidae,293,POLNB/ZMBN_95784+1403025158.jpg,1.333,Aricidea
+Aricidea antennata,370434,Aricidea antennata,species,Animalia,122726,Aricidea,6,CMBIA/00153Aricidea[Allia]antennataMixedVRR+1321990464.jpg,1.333,Aricidea antennata
+Aricidea catherinae,370432,Aricidea catherinae,species,Animalia,122726,Aricidea,16,POLNB/ZMBN_95784+1403025158.jpg,1.333,Aricidea catherinae
+Aricidea cerrutii,706580,Aricidea cerrutii,species,Animalia,122726,Aricidea,12,POLNB/ZMBN_104664+1431535870.jpg,1.333,Aricidea cerrutii
+Aricidea lopezi,955715,Aricidea lopezi,species,Animalia,122726,Aricidea,9,BBPS/dFHL_14588a+1585410972.jpg,1.441,Aricidea lopezi
+Aricidea pacifica,497213,Aricidea pacifica,species,Animalia,122726,Aricidea,9,HZPLY/BIOUG06647-F04-3+1375315250.jpg,1.553,Aricidea pacifica
+Aricidea simplex,370433,Aricidea simplex,species,Animalia,122726,Aricidea,8,CMBIA/00503Aricidea_simplexDorsalVRR+1326752778.jpg,1.333,Aricidea simplex
+Aricidea wassi,660285,Aricidea wassi,species,Animalia,122726,Aricidea,5,POLNB/ZMBN_126891+1559046988.jpg,1.333,Aricidea wassi
+Aristias,273981,Aristias,genus,Animalia,273980,Aristiidae,11,AMPNB/UMBergen_NB_amp18+1359559750.JPG,1.499,NA
+Armandia brevis,205793,Armandia brevis,species,Animalia,205792,Armandia,56,KBPOL/11bioak-1444+1308658612.jpg,1.333,Armandia brevis
+Armina californica,277029,Armina californica,species,Animalia,277028,Armina,14,MXQCS/JLKS-004__021+1214488804.JPG,1.499,Armina californica
+Artacama coniferi,955689,Artacama coniferi,species,Animalia,256925,Artacama,8,BBPS/dFHL_11661a+1585281288.jpg,1.058,Artacama coniferi
+Aruga oculata,1075746,Aruga oculata,species,Animalia,1075745,Aruga,1,NA,NA,NA
+Asabellides,156485,Asabellides,genus,Animalia,82542,Ampharetidae,31,ARCMI/BIOUG14667-H11+1415128272.JPG,1.499,Asabellides
+Ascidia,3020,Ascidia,genus,Animalia,1211,Ascidiidae,423,ASCAN/P5ASCA405+1299596700.jpg,0.746,Ascidia
+Asclerocheilus kudenovi,1075747,Asclerocheilus kudenovi,species,Animalia,540835,Asclerocheilus,1,NA,NA,NA
+Angustassiminea californica,955609,Angustassiminea californica,species,Animalia,955608,Angustassiminea,2,POIMB/dOIMB_02448a+1572025556.jpg,1.331,Angustassiminea californica
+Astropecten,24748,Astropecten,genus,Animalia,24747,Astropectinidae,414,NSECH/MT03617+1386169746.jpg,1.333,Astropecten
+Astropecten armatus,220546,Astropecten armatus,species,Animalia,24748,Astropecten,8,LACSA/DNA_trawl_invert_Astropecten_armatus_T5-23_plate_1_cell_H8Lighter+1288208348.jpg,1.333,Astropecten armatus
+Astropecten californicus,895631,Astropecten californicus,species,Animalia,24748,Astropecten,10,ECHCA/CCDB-31778_B02+1527019016.jpg,1.4,Astropecten californicus
+Alia gausapata,508708,Alia gausapata,species,Animalia,495450,Alia,16,RBCMI/BIOUG12670-H06[B]+1401812160.jpg,1.359,Alia gausapata
+Alia permodesta,600864,Alia permodesta,species,Animalia,495450,Alia,2,RBCMI/DSC_2833+1443641968.JPG,1.499,Alia permodesta
+Axinopsida serricata,299423,Axinopsida serricata,species,Animalia,299422,Axinopsida,75,AKMOL/11BIOAK-0701+1319912428.jpg,1.333,Axinopsida serricata
+Axiothella,205780,Axiothella,genus,Animalia,27308,Maldanidae,40,KBPOL/11BIOAK-1262+1308330500.jpg,1.499,Axiothella
+Balanoglossus,5391,Balanoglossus,genus,Animalia,401,Ptychoderidae,13,NA,NA,NA
+Balanus,27882,Balanus,genus,Animalia,271737,Balaninae,4152,DFO/P5305055+1306775406.JPG,1.333,Balanus
+Melanella micans,600867,Melanella micans,species,Animalia,84917,Melanella,4,LHABC/BIOUG48552_F12.1+1637108336.jpg,1.502,Melanella micans
+Barleeia,656458,Barleeia,genus,Animalia,531653,Barleeiidae,8,DSGAS/CM37-_Barleeia_unifasciata_copy+1577317628.jpg,0.568,Barleeia
+Barleeia haliotiphila,770959,Barleeia haliotiphila,species,Animalia,656458,Barleeia,1,NA,NA,Barleeia haliotiphila
+Baseodiscus delineatus,942209,Baseodiscus delineatus,species,Animalia,671427,Baseodiscus,12,NA,NA,NA
+Bathybembix bairdii,722709,Bathybembix bairdii,species,Animalia,722708,Bathybembix,2,RBCMI/DSC_2620+1443641932.JPG,1.499,Bathybembix bairdii
+Bathymedon,512568,Bathymedon,genus,Animalia,1607,Oedicerotidae,35,AMPNB/UMBergen_NB_amp25+1359559752.JPG,1.495,Bathymedon
+Bathymedon pumilus,955717,Bathymedon pumilus,species,Animalia,512568,Bathymedon,1,BBPS/dFHL_14658a+1585412000.jpg,1.468,Bathymedon pumilus
+Belonectes,1222832,Belonectes,genus,Animalia,174983,Eurycopinae,1,NA,NA,NA
+Bemlos,149559,Bemlos,genus,Animalia,88673,Aoridae,8,CBTWO/CBC_0018_7+1449831279.JPG,1.882,Bemlos
+Bemlos audbettius,1075753,Bemlos audbettius,species,Animalia,149559,Bemlos,1,NA,NA,NA
+Berthella,5937,Berthella,genus,Animalia,1831,Pleurobranchidae,82,OOBKJ/IMG_5782+1550159304.JPG,1.499,Berthella
+Berthella californica,976409,Berthella californica,species,Animalia,5937,Berthella,2,OOBKJ/IMG_5782+1550159304.JPG,1.499,Berthella californica
+Betaeus,88156,Betaeus,genus,Animalia,1527,Alpheidae,17,POIMB/dOIMB_04549a+1569765268.jpg,1.951,Betaeus
+Betaeus harrimani,88157,Betaeus harrimani,species,Animalia,88156,Betaeus,2,RBCMI/IMG_8234+1401974316.JPG,1.499,Betaeus harrimani
+Betaeus longidactylus,955944,Betaeus longidactylus,species,Animalia,88156,Betaeus,3,POIMB/dOIMB_04549a+1569765268.jpg,1.951,Betaeus longidactylus
+Bipalponephtys cornuta,379470,Bipalponephtys cornuta,species,Animalia,328930,Bipalponephtys,6,NEPH/BcornCalifF1+1308076680.jpg,1.333,Bipalponephtys cornuta
+Bispira,100788,Bispira,genus,Animalia,100787,Sabellinae,36,FHL/BMBM-0855+1522880304.JPG,2.25,NA
+Blepharipoda occidentalis,8360,Blepharipoda occidentalis,species,Animalia,5654,Blepharipoda,10,CNOI/KFM-296+1272594512.jpg,0.696,Blepharipoda occidentalis
+Boccardia,375245,Boccardia,genus,Animalia,32473,Spionidae,150,BBPS/dFHL_14018a+1585368830.jpg,1.248,Boccardia
+Boccardia proboscidea,541646,Boccardia proboscidea,species,Animalia,375245,Boccardia,43,HZPLY/BIOUG06646-A08-1+1374111460.jpg,1.199,Boccardia proboscidea
+Boccardiella,715047,Boccardiella,genus,Animalia,32473,Spionidae,37,LHABC/BIOUG48554_F08.3+1640390264.jpg,1.502,NA
+Boccardiella hamata,715048,Boccardiella hamata,species,Animalia,715047,Boccardiella,30,LHABC/BIOUG48554_F08.3+1640390264.jpg,1.502,Boccardiella hamata
+Boreotrophon multicostatus,929427,Boreotrophon multicostatus,species,Animalia,403380,Boreotrophon,1,NA,NA,NA
+Borsonella,895645,Borsonella,genus,Animalia,344167,Borsoniidae,2,DISA/4033_img_024+1516653950.jpg,1.499,NA
+Botrylloides,198874,Botrylloides,genus,Animalia,974,Styelidae,591,HABFA/ZMBN_130093_[1]+1557931984.JPG,1.499,Botrylloides
+Brada,190346,Brada,genus,Animalia,125434,Flabelligeridae,63,CCPOL/NUN0013_+1196368518.JPG,1.499,Brada
+Brada villosa,190347,Brada villosa,species,Animalia,190346,Brada,21,KBPOL/11BIOAK-1494+1306210838.JPG,1.499,Brada villosa
+Branchiomaldane,807529,Branchiomaldane,genus,Animalia,101154,Arenicolidae,8,BHAK/dHAK_00875+1500921342.JPG,1.509,NA
+Branchiomma,100803,Branchiomma,genus,Animalia,100787,Sabellinae,207,POLNB/ZMBN_98261+1417191026.JPG,1.502,Branchiomma
+Branchiostoma californiense,1075756,Branchiostoma californiense,species,Animalia,4916,Branchiostoma,2,NA,NA,NA
+Branchiosyllis exilis,153166,Branchiosyllis exilis,species,Animalia,153165,Branchiosyllis,2,NA,NA,NA
+Brania,808507,Brania,genus,Animalia,125418,Syllidae,2,KBPOL/11bioak-1158+1308251868.jpg,1.336,Brania
+Brisaster,81353,Brisaster,genus,Animalia,79269,Schizasteridae,33,DSPEC/Bamfield_08_394+1224350232.jpg,1.105,Brisaster
+Brisaster townsendi,293164,Brisaster townsendi,species,Animalia,81353,Brisaster,4,LACSA/DNA_trawl_invert_Brisaster_townsendi__T0-137_plate_1_cell_F9Lighter+1288208394.jpg,1.333,Brisaster townsendi
+Brissopsis,80610,Brissopsis,genus,Animalia,560445,Brissopsinae,70,MIWAE/UMBergen_MBOWA_miwa164_1+1375199872.JPG,1.499,Brissopsis
+Brissopsis pacifica,893616,Brissopsis pacifica,species,Animalia,80610,Brissopsis,2,"DISA/4011_2017_02_02_13_56_03_[B,Radius8,Smoothing4]+1486072574.jpg",1.499,Brissopsis pacifica
+Bruzelia tuberculata,597892,Bruzelia tuberculata,species,Animalia,597891,Bruzelia,1,AMPNB/UMB_NB_amph155+1391008518.jpg,1.331,Bruzelia tuberculata
+Bugula neritina,31585,Bugula neritina,species,Animalia,31582,Bugula,277,DISA/7012_img_011+1522453400.jpg,1.499,Bugula neritina
+Bulla gouldiana,33125,Bulla gouldiana,species,Animalia,4572,Bulla,18,ARIT/IMG_9552+1595216838.jpg,0.75,Bulla gouldiana
+Byblis millsi,370393,Byblis millsi,species,Animalia,4689,Byblis,2,CMBIA/00111Byblis_millsiVRRWScale+1321990424.jpg,1.333,Byblis millsi
+Byblis veleronis,299399,Byblis veleronis,species,Animalia,4689,Byblis,1,CMBIA/IMGP7958Corr+1282151908.jpg,1.478,Byblis veleronis
+Caecognathia,299409,Caecognathia,genus,Animalia,84138,Gnathiidae,23,CMBIA/IMGP7975Corr+1282248446.jpg,1.939,Caecognathia
+Caecognathia crenulatifrons,299410,Caecognathia crenulatifrons,species,Animalia,299409,Caecognathia,13,CMBIA/IMGP7975Corr+1282248446.jpg,1.939,Caecognathia crenulatifrons
+Caecum crebricinctum,978660,Caecum crebricinctum,species,Animalia,148875,Caecum,6,BHAK/dHAKB_00717a+1582145991.jpg,2.019,Caecum crebricinctum
+Californiconus californicus,786509,Californiconus californicus,species,Animalia,786508,Californiconus,28,DISA/3910_DISCO3910_dor_8.5Xmagnification_2017_08_22+1503442522.jpg,1.783,Californiconus californicus
+Callianax,499228,Callianax,genus,Animalia,387498,Olivellinae,20,NA,NA,NA
+Callibaetis,5681,Callibaetis,genus,Animalia,155786,Baetinae,438,ECEPH/10bgmay-0080+1270058486.JPG,1.333,Callibaetis
+Calliostoma,149482,Calliostoma,genus,Animalia,484163,Calliostomatinae,332,AKMOL/11BIOAK-0738b+1320082110.JPG,1.441,Calliostoma
+Calliostoma variegatum,722696,Calliostoma variegatum,species,Animalia,149482,Calliostoma,2,RBCMI/DSC_2409+1443647075.JPG,1.499,Calliostoma variegatum
+Callithaca tenerrima,955424,Callithaca tenerrima,species,Animalia,955423,Callithaca,3,NA,NA,NA
+Calocarides,4939,Calocarides,genus,Animalia,1503,Axiidae,9,SWEMA/GNM7462_228Crust19080V+1429803872.JPG,1.499,NA
+Calyptogena,701707,Calyptogena,genus,Bacteria,162906,Gammaproteobacteria,1,NA,NA,NA
+Calyptogena,2344,Calyptogena,genus,Animalia,950301,Pliocardiinae,232,RBCMI/IMG_0603+1396631494.JPG,1.413,Calyptogena
+Calyptraea fastigiata,808599,Calyptraea fastigiata,species,Animalia,6196,Calyptraea,2,FHL/BMBM-0365+1522880308.JPG,1.143,Calyptraea fastigiata
+Campylaspis,5678,Campylaspis,genus,Animalia,1684,Nannastacidae,116,CUMNB/UMBergen_NB_cuma195+1392393032.jpg,1.331,Campylaspis
+Cancellaria crawfordiana,293178,Cancellaria crawfordiana,species,Animalia,1958,Cancellaria,1,LACSA/DNA_trawl_invert_Cancellaria_crawfordiana_T0-305_plate_1_cell_H4Lev+1284581356.jpg,1.333,Cancellaria crawfordiana
+Cancer,5094,Cancer,genus,Animalia,1521,Cancridae,307,RBCMI/IMG_8228+1401974128.JPG,1.499,Cancer
+Cancer productus,15841,Cancer productus,species,Animalia,5094,Cancer,91,NJCGS/IMG_7601b+1297961784.JPG,1.499,Cancer productus
+Capitella capitata,299355,Capitella capitata,species,Animalia,190326,Capitella,82,ATCPO/HMSC174_00253+1691064979.jpg,1.333,Capitella capitata
+Caprella,4737,Caprella,genus,Animalia,263338,Caprellinae,2039,NJCGS/10biobc-0910+1291909134.jpg,1.325,Caprella
+Caprella alaskana,940162,Caprella alaskana,species,Animalia,4737,Caprella,8,BHAK/dHAKB_01694a+1646090892.jpg,1.168,Caprella alaskana
+Caprella californica,649919,Caprella californica,species,Animalia,4737,Caprella,55,BHAK/dHAKB_00188a+1582145905.jpg,1.829,Caprella californica
+Caprella mendax,299411,Caprella mendax,species,Animalia,4737,Caprella,7,CMBIA/IMGP7979+1280250176.jpg,1.507,Caprella mendax
+Caprella simia,649920,Caprella simia,species,Animalia,4737,Caprella,15,NA,NA,NA
+Caprella verrucosa,386290,Caprella verrucosa,species,Animalia,4737,Caprella,11,NJCGS/10biobc-0910+1291909134.jpg,1.325,Caprella verrucosa
+Cardiomya,194400,Cardiomya,genus,Animalia,712,Cuspidariidae,20,BHAK/11_06116a+1669421898.jpg,1.14,NA
+Cardiomya pectinata,808191,Cardiomya pectinata,species,Animalia,194400,Cardiomya,7,BHAK/11_06116a+1669421898.jpg,1.14,Cardiomya pectinata
+Carinoma mutabilis,25875,Carinoma mutabilis,species,Animalia,25873,Carinoma,14,POIMB/dOIMB_00529a+1565349972.jpg,2.068,Carinoma mutabilis
+Carinomella lactea,1122134,Carinomella lactea,species,Animalia,1122133,Carinomella,3,NA,NA,NA
+Carpoapseudes,527989,Carpoapseudes,genus,Animalia,300398,Apseudidae,33,NA,NA,NA
+Caryocorbula,901340,Caryocorbula,genus,Animalia,636,Corbulidae,1,NA,NA,NA
+Caulleriella,776860,Caulleriella,genus,Animalia,83730,Cirratulidae,46,ATCPO/HMSC174_00254+1691065105.jpg,1.333,Caulleriella
+Caulleriella pacifica,955682,Caulleriella pacifica,species,Animalia,776860,Caulleriella,5,BBPS/dFHL_12732a+1581557302.jpg,1.088,Caulleriella pacifica
+Cephalophoxoides homilis,499253,Cephalophoxoides homilis,species,Animalia,499252,Cephalophoxoides,1,CMBIA/00628Cephalophoxoides_homilisVRR+1351801174.jpg,1.333,Cephalophoxoides homilis
+Ceratocephale loveni,264648,Ceratocephale loveni,species,Animalia,264647,Ceratocephale,36,SKAG/NTNU-VM-TB347+1340076150.jpg,1.333,Ceratocephale loveni
+Cerebratulus,25888,Cerebratulus,genus,Animalia,1819,Lineidae,248,POIMB/dOIMB_04913a+1569537364.jpg,1.96,Cerebratulus
+Cerebratulus albifrons,939050,Cerebratulus albifrons,species,Animalia,25888,Cerebratulus,6,NA,NA,NA
+Cerebratulus californiensis,293183,Cerebratulus californiensis,species,Animalia,25888,Cerebratulus,19,CMBIA/00363Cerebratulus_californiensisB_VRR+1324594918.jpg,1.333,Cerebratulus californiensis
+Cerebratulus lineolatus,966378,Cerebratulus lineolatus,species,Animalia,25888,Cerebratulus,1,NA,NA,NA
+Cerebratulus marginatus,25889,Cerebratulus marginatus,species,Animalia,25888,Cerebratulus,6,NA,NA,NA
+Cerebratulus montgomeryi,939051,Cerebratulus montgomeryi,species,Animalia,25888,Cerebratulus,1,NA,NA,NA
+Cerithideopsis californica,893608,Cerithideopsis californica,species,Animalia,657556,Cerithideopsis,12,"DISA/6177_2017_02_07_16_03_43_[B,Radius8,Smoothing4]+1486512232.jpg",1.499,Cerithideopsis californica
+Cerithiopsis,276043,Cerithiopsis,genus,Animalia,964,Cerithiopsidae,112,HABFA/ZMBN_131472_v+1572371088.JPG,1.499,Cerithiopsis
+Chaetoderma pacificum,981328,Chaetoderma pacificum,species,Animalia,2036,Chaetoderma,1,NA,NA,NA
+Chaetopterus variopedatus,104907,Chaetopterus variopedatus,species,Animalia,24832,Chaetopterus,27,KBPOL/11BIOAK-1581+1305788502.JPG,1.499,Chaetopterus variopedatus
+Chaetozone,190362,Chaetozone,genus,Animalia,83730,Cirratulidae,690,CMBIA/00160Chaetozone_hartmanaeMixedVRR+1321990472.jpg,1.333,Chaetozone
+Chaetozone acuta,809281,Chaetozone acuta,species,Animalia,190362,Chaetozone,4,BHAK/dHAK_05323a+1517658410.jpg,1.275,Chaetozone acuta
+Chaetozone columbiana,370435,Chaetozone columbiana,species,Animalia,190362,Chaetozone,1,CMBIA/00158Chaetozone_columbianaMixedVRR+1321990468.jpg,1.333,Chaetozone columbiana
+Chaetozone corona,370436,Chaetozone corona,species,Animalia,190362,Chaetozone,1,CMBIA/00159Chaetozone_coronaMixedVRR+1321990470.jpg,1.333,Chaetozone corona
+Chaetozone hartmanae,299367,Chaetozone hartmanae,species,Animalia,190362,Chaetozone,8,CMBIA/00160Chaetozone_hartmanaeMixedVRR+1321990472.jpg,1.333,Chaetozone hartmanae
+Chaetozone setosa,190363,Chaetozone setosa,species,Animalia,190362,Chaetozone,51,WSPO/ws0276+1265136208.JPG,1.333,Chaetozone setosa
+Chelura terebrans,371000,Chelura terebrans,species,Animalia,370999,Chelura,4,NA,NA,NA
+Chelyosoma columbianum,981080,Chelyosoma columbianum,species,Animalia,3981,Chelyosoma,1,BHAK/dHAKB_00641a+1582146178.jpg,1.461,Chelyosoma columbianum
+Chiridota,84382,Chiridota,genus,Animalia,84381,Chiridotidae,252,DSPEC/Huntsman_08_281+1225916768.jpg,1.818,Chiridota
+Chirimia biceps,516098,Chirimia biceps,species,Animalia,516097,Chirimia,29,CHONE/IMG_8588+1301084202.jpg,1.499,Chirimia biceps
+Chlamys,82822,Chlamys,genus,Animalia,950391,Chlamydini,106,AKMOL/11BIOAK-0563+1320079848.JPG,1.379,Chlamys
+Chloeia pinnata,370437,Chloeia pinnata,species,Animalia,109613,Chloeia,12,CMBIA/00163Chloeia_pinnataVRR+1321990474.jpg,1.333,Chloeia pinnata
+Chondrochelia dubia,981349,Chondrochelia dubia,species,Animalia,747303,Chondrochelia,9,NA,NA,Chondrochelia dubia
+Chone magna,929416,Chone magna,species,Animalia,160013,Chone,1,NA,NA,NA
+Chrysopetalum occidentale,299374,Chrysopetalum occidentale,species,Animalia,285917,Chrysopetalum,4,CMBIA/DSC_1218+1288127404.jpg,1.194,Chrysopetalum occidentale
+Cidarina cidaris,159962,Cidarina cidaris,species,Animalia,159203,Cidarina,9,MXQCS/JLKS-004__014+1214487790.JPG,1.499,Cidarina cidaris
+Cingula,361885,Cingula,genus,Animalia,856,Rissoidae,84,NA,NA,NA
+Ciona robusta,731547,Ciona robusta,species,Animalia,26211,Ciona,69,ASCMA/ASC181+1452721836.jpg,1.333,Ciona robusta
+Cirratulus,195024,Cirratulus,genus,Animalia,83730,Cirratulidae,118,WSPO/ws0230+1265141248.JPG,1.333,Cirratulus
+Cirriformia,305068,Cirriformia,genus,Animalia,83730,Cirratulidae,61,HZPLY/BIOUG06646-G06-3+1373928346.jpg,1.333,Cirriformia
+Cirrophorus,541662,Cirrophorus,genus,Animalia,122725,Paraonidae,20,HZPLY/BIOUG06647-E04-1+1373415912.jpg,1.236,NA
+Cirrophorus branchiatus,674525,Cirrophorus branchiatus,species,Animalia,541662,Cirrophorus,2,NA,NA,NA
+Cirrophorus furcatus,541663,Cirrophorus furcatus,species,Animalia,541662,Cirrophorus,3,HZPLY/BIOUG06647-E05-1+1373415978.jpg,1.111,Cirrophorus furcatus
+Pectinaria granulata,81189,Pectinaria granulata,species,Animalia,79899,Pectinaria,25,POLNB/ZMBN_98301+1421091322.JPG,1.502,Pectinaria granulata
+Clymenella,27309,Clymenella,genus,Animalia,27308,Maldanidae,59,NBPOL/HP_0123+1221060240.JPG,1.499,NA
+Clytia,79642,Clytia,genus,Animalia,27175,Campanulariidae,278,CNIDC/H07_Medusa+1414362544.jpg,1.4,Clytia
+Coboldus hedgpethi,803401,Coboldus hedgpethi,species,Animalia,803400,Coboldus,1,BHAK/dHAK_07400+1502160418.JPG,1.509,Coboldus hedgpethi
+Compsomyax subdiaphana,83703,Compsomyax subdiaphana,species,Animalia,83702,Compsomyax,17,RBCMI/IMG_0635+1396632230.JPG,1.265,Compsomyax subdiaphana
+Conopeum,400031,Conopeum,genus,Animalia,33143,Membraniporidae,20,MLMLA/bioug01534-a05+1320254128.JPG,1.333,NA
+Cooperella subdiaphana,277727,Cooperella subdiaphana,species,Animalia,277726,Cooperella,2,CMBIA/00324Cooperella_subdiaphanaVRR+1324594872.jpg,1.333,Cooperella subdiaphana
+Corymorpha bigelowi,668068,Corymorpha bigelowi,species,Animalia,650425,Corymorpha,25,CNIDC/F12_Medusa+1413921664.jpg,1.4,Corymorpha bigelowi
+Corynactis californica,200239,Corynactis californica,species,Animalia,200238,Corynactis,38,CNOI/KFM-28+1257390040.jpg,1.569,Corynactis californica
+Cossura,497215,Cossura,genus,Animalia,125439,Cossuridae,75,POLNB/ZMBN_95710+1402938166.jpg,1.333,Cossura
+Cossura pygodactylata,955693,Cossura pygodactylata,species,Animalia,497215,Cossura,15,LHABC/BIOUG48554_B08.1+1640372011.jpg,1.502,Cossura pygodactylata
+Crangon,5537,Crangon,genus,Animalia,1510,Crangonidae,360,NJCGS/10BIOBC-00793+1288714188.jpg,1.336,Crangon
+Crangon alaskensis,8486,Crangon alaskensis,species,Animalia,5537,Crangon,16,CAISN/BIOUG03171-G03+1362362624.jpg,1.333,Crangon alaskensis
+Crangon nigromaculata,893614,Crangon nigromaculata,species,Animalia,5537,Crangon,6,DISA/3899_img_017+1486077426.jpg,1.499,Crangon nigromaculata
+Crenella decussata,948211,Crenella decussata,species,Animalia,306810,Crenella,6,ICBA/ZMBN_140426+1625758626.jpg,1.333,Crenella decussata
+Crepidula,6176,Crepidula,genus,Animalia,1305,Calyptraeidae,645,MXQCS/IMG_8502a+1336749284.jpg,1.499,Crepidula
+Crepidula onyx,31493,Crepidula onyx,species,Animalia,6176,Crepidula,75,PMINV/IMG_6236+1604036212.JPG,1.499,Crepidula onyx
+Crepipatella lingulata,31468,Crepipatella lingulata,species,Animalia,6227,Crepipatella,121,BCMOL/10BCMOL-00049b+1300905654.JPG,1.455,Crepipatella lingulata
+Crucigera,160496,Crucigera,genus,Animalia,109609,Serpulidae,27,BHAK/dHAK_02866a+1518499015.jpg,1.465,NA
+Cryptomya californica,799826,Cryptomya californica,species,Animalia,799825,Cryptomya,8,POIMB/dOIMB_01885a+1568828066.jpg,1.628,Cryptomya californica
+Cryptonatica affinis,449243,Cryptonatica affinis,species,Animalia,151133,Cryptonatica,37,AKMOL/11BIOAK-0487+1320077686.JPG,1.509,Cryptonatica affinis
+Cucumaria,2866,Cucumaria,genus,Animalia,905,Cucumariidae,598,EQCS/IMG_8911+1303334634.JPG,1.499,Cucumaria
+Cucumaria piperata,33454,Cucumaria piperata,species,Animalia,2866,Cucumaria,10,EQCS/IMG_8816+1303395328.JPG,1.5,Cucumaria piperata
+Cumella,5679,Cumella,genus,Animalia,1684,Nannastacidae,19,CUMNB/UMBergen_NB_cuma63+1359642798.jpg,1.333,Cumella
+Cuspidaria parapodema,370501,Cuspidaria parapodema,species,Animalia,2444,Cuspidaria,2,CMBIA/00326Cuspidaria_parapodemaVRR+1324594874.jpg,1.333,Cuspidaria parapodema
+Cyathodonta pedroana,1075766,Cyathodonta pedroana,species,Animalia,1075765,Cyathodonta,1,NA,NA,NA
+Cyclaspis,5690,Cyclaspis,genus,Animalia,1679,Bodotriidae,17,CUMNB/UMBergen_NB_cuma71+1359642800.jpg,1.333,Cyclaspis
+Cyclocardia,194393,Cyclocardia,genus,Animalia,170183,Carditidae,57,LACSA/DNA_trawl_invert_Cyclocardia_affinis_T1-305_plate_2_cell_B7Crop+1287605268.jpg,1.333,Cyclocardia
+Cyclocardia crebricostata,893726,Cyclocardia crebricostata,species,Animalia,194393,Cyclocardia,2,ARCMI/BIOUG14667-A11+1414773970.jpg,1.333,Cyclocardia crebricostata
+Cyclocardia gouldii,981354,Cyclocardia gouldii,species,Animalia,194393,Cyclocardia,2,NA,NA,NA
+Cyclocardia ventricosa,394946,Cyclocardia ventricosa,species,Animalia,194393,Cyclocardia,13,LACSA/DNA_trawl_invert_Cyclocardia_affinis_T1-305_plate_2_cell_B7Crop+1287605268.jpg,1.333,Cyclocardia ventricosa
+Cyclopecten,2248,Cyclopecten,genus,Animalia,169741,Propeamussiidae,11,ICBA/ZMBN_140450+1625758626.jpg,1.333,NA
+Cylichna,194469,Cylichna,genus,Animalia,194468,Cylichnidae,154,NBC/MMCN_55_Cylichna_alba_shell_apertural+1395493832.jpg,1.331,Cylichna
+Cylichna diegensis,299420,Cylichna diegensis,species,Animalia,194469,Cylichna,2,CMBIA/00327Cylichna_diegensisVRR+1324594874.jpg,1.333,Cylichna diegensis
+Cymatioa electilis,1057276,Cymatioa electilis,species,Animalia,1057275,Cymatioa,13,NA,NA,NA
+Dasybranchus,187329,Dasybranchus,genus,Animalia,122706,Capitellidae,16,POLNB/UMBergen_NB_polych560+1399050902.JPG,1.499,NA
+Decamastus gracilis,205783,Decamastus gracilis,species,Animalia,205782,Decamastus,16,CMBIA/00170Decamastus_gracilisMixedVRR+1321995532.jpg,1.333,Decamastus gracilis
+Deflexilodes norvegicus,299397,Deflexilodes norvegicus,species,Animalia,299396,Deflexilodes,3,CMBIA/IMGP7943+1280185086.jpg,1.778,Deflexilodes norvegicus
+Deilocerus,323188,Deilocerus,genus,Animalia,323184,Cyclodorippinae,1,NA,NA,NA
+Deilocerus planus,1075768,Deilocerus planus,species,Animalia,323188,Deilocerus,1,NA,NA,NA
+Delectopecten vancouverensis,799832,Delectopecten vancouverensis,species,Animalia,223199,Delectopecten,2,OOBKJ/IMG_4163+1549551166.JPG,1.499,Delectopecten vancouverensis
+Dendraster,160337,Dendraster,genus,Animalia,160336,Dendrasteridae,44,DSPEC/IMG_0964+1225416240.JPG,1.231,Dendraster
+Dendraster excentricus,160338,Dendraster excentricus,species,Animalia,160337,Dendraster,37,DSPEC/IMG_0964+1225416240.JPG,1.231,Dendraster excentricus
+Dendronotus,5953,Dendronotus,genus,Animalia,1839,Dendronotidae,503,RBCMI/ccdb-22758-h03+1401459414.jpg,1.333,Dendronotus
+Diaphana californica,722700,Diaphana californica,species,Animalia,164983,Diaphana,3,RBCMI/DSC_2511+1443642278.JPG,1.499,Diaphana californica
+Diaphorodoris lirulatocauda,507883,Diaphorodoris lirulatocauda,species,Animalia,266299,Diaphorodoris,4,BHAK/dHAK_06784a+1518030860.jpg,1.509,Diaphorodoris lirulatocauda
+Diastylis,5675,Diastylis,genus,Animalia,1682,Diastylidae,207,CUMNB/UMBergen_NB_cuma73+1359642802.jpg,1.333,Diastylis
+Diastylis californica,1075769,Diastylis californica,species,Animalia,5675,Diastylis,2,NA,NA,NA
+Diastylis crenellata,32461,Diastylis crenellata,species,Animalia,5675,Diastylis,5,CMBIA/00115Diasylopsis_tenuisWScaleVRR+1321990428.jpg,1.333,Diastylis crenellata
+Diastylis pellucida,370394,Diastylis pellucida,species,Animalia,5675,Diastylis,3,LHABC/CCDB31224_F01.2+1632763155.JPG,1.499,Diastylis pellucida
+Diastylis sentosa,996401,Diastylis sentosa,species,Animalia,5675,Diastylis,5,LHABC/CCDB31224_C07.2+1632338583.JPG,1.499,Diastylis sentosa
+Diastylopsis tenuis,299390,Diastylopsis tenuis,species,Animalia,5673,Diastylopsis,3,CMBIA/IMGP7926Corr+1282762312.jpg,1.416,Diastylopsis tenuis
+Diopatra,79670,Diopatra,genus,Animalia,214468,Onuphinae,393,MIWAP/UMBergen_MBOWA_onup28+1366135930.jpg,1.499,Diopatra
+Diopatra ornata,370440,Diopatra ornata,species,Animalia,79670,Diopatra,15,BHAK/dHAKB-01627a+1598295090.jpg,1.441,Diopatra ornata
+Diplocirrus,256920,Diplocirrus,genus,Animalia,125434,Flabelligeridae,63,POLNB/UMBergen_NB_polych192+1391722952.jpg,1.499,Diplocirrus
+Diplodonta,901236,Diplodonta,genus,Animalia,533191,Ungulinidae,2,NA,NA,NA
+Dipolydora,370441,Dipolydora,genus,Animalia,32473,Spionidae,98,BHAK/BHAK-2363_B2+1569446600.jpg,1.325,Dipolydora
+Dipolydora bidentata,370442,Dipolydora bidentata,species,Animalia,370441,Dipolydora,9,CMBIA/00173Dipolydora_bidentataDorsalVRRAnterior_bWScale+1321995536.jpg,1.333,Dipolydora bidentata
+Dipolydora caulleryi,955703,Dipolydora caulleryi,species,Animalia,370441,Dipolydora,8,BBPS/dFHL_14489a+1585410126.jpg,1.471,Dipolydora caulleryi
+Dipolydora socialis,370443,Dipolydora socialis,species,Animalia,370441,Dipolydora,7,CMBIA/00174Dipolydora_socialisDorsalWScaleVRR+1321995538.jpg,1.333,Dipolydora socialis
+Disporella,247905,Disporella,genus,Animalia,247904,Lichenoporidae,22,BHAK/DSC_6201+1632259654.JPG,1.5,Disporella
+Dodecaceria concharum,152842,Dodecaceria concharum,species,Animalia,83731,Dodecaceria,29,POLNB/ZMBN_104690+1431535874.jpg,1.502,Dodecaceria concharum
+Dodecaceria fewkesi,160498,Dodecaceria fewkesi,species,Animalia,83731,Dodecaceria,21,HZPLY/BIOUG06646-H01+1373328062.jpg,1.432,Dodecaceria fewkesi
+Dorvillea,79664,Dorvillea,genus,Animalia,79663,Dorvilleidae,81,POLNB/_93A6509+1431102672.jpg,1.499,Dorvillea
+Schistomeringos annulata,955730,Schistomeringos annulata,species,Animalia,205759,Schistomeringos,4,BBPS/dFHL_14478a+1585410176.jpg,1.902,Schistomeringos annulata
+Schistomeringos longicornis,205760,Schistomeringos longicornis,species,Animalia,205759,Schistomeringos,12,BCPOL/BAMPOL0038+1217006242.JPG,1.333,Schistomeringos longicornis
+Doto,212387,Doto,genus,Animalia,266260,Dotidae,249,BNAGB/MT09696+1411403630.jpg,1.333,Doto
+Doto columbiana,507568,Doto columbiana,species,Animalia,212387,Doto,4,BHAK/dHAK_05363a+1517743812.jpg,1.608,Doto columbiana
+Doto kya,808602,Doto kya,species,Animalia,212387,Doto,7,POIMB/dOIMB_01441a+1568661744.jpg,1.711,Doto kya
+Dougaloplus,218865,Dougaloplus,genus,Animalia,80325,Amphiuridae,8,NA,NA,NA
+Dougaloplus amphacanthus,218867,Dougaloplus amphacanthus,species,Animalia,218865,Dougaloplus,5,NA,NA,NA
+Drilonereis,81499,Drilonereis,genus,Animalia,81498,Oenonidae,19,HZPLY/bioug03501-f01+1351869256.jpg,1.333,Drilonereis
+Drilonereis filum,529977,Drilonereis filum,species,Animalia,81499,Drilonereis,5,HZPLY/bioug03501-f01+1351869256.jpg,1.333,Drilonereis filum
+Drilonereis longa,81500,Drilonereis longa,species,Animalia,81499,Drilonereis,5,NA,NA,Drilonereis longa
+Dromalia alexandri,293170,Dromalia alexandri,species,Animalia,293169,Dromalia,2,LACSA/DNA_trawl_invert_Dromalia_alexandri_plate_1_cell_G7+1281013842.jpg,1.333,Dromalia alexandri
+Eclysippe trilobata,1075772,Eclysippe trilobata,species,Animalia,164397,Eclysippe,4,NA,NA,NA
+Ectopleura crocea,642110,Ectopleura crocea,species,Animalia,516111,Ectopleura,39,CNIDC/E05_Cerinula+1395706804.jpg,1.4,Ectopleura crocea
+Edotia,111723,Edotia,genus,Animalia,1612,Idoteidae,31,CMBIA/IMGP7939+1280248030.jpg,0.769,NA
+Edotia sublittoralis,299395,Edotia sublittoralis,species,Animalia,111723,Edotia,2,CMBIA/IMGP7939+1280248030.jpg,0.769,Edotia sublittoralis
+Edwardsia juliae,807873,Edwardsia juliae,species,Animalia,592472,Edwardsia,1,NA,NA,NA
+Elasmopus,267164,Elasmopus,genus,Animalia,469353,Maeridae,125,DISA/6110_DISCO6110_Dorsal+1485299890.jpg,1.499,Elasmopus
+Elasmopus bampo,1075773,Elasmopus bampo,species,Animalia,267164,Elasmopus,1,NA,NA,NA
+Elthusa vulgaris,104999,Elthusa vulgaris,species,Animalia,104998,Elthusa,9,CMBIA/IMGP8019+1279571676.jpg,1.557,Elthusa vulgaris
+Emerita analoga,503268,Emerita analoga,species,Animalia,173252,Emerita,1762,ZPC/bioug01207-f04+1386171344.jpg,1.333,Emerita analoga
+Enchiridium punctatum,1075774,Enchiridium punctatum,species,Animalia,149516,Enchiridium,1,NA,NA,NA
+Ennucula tenuis,154208,Ennucula tenuis,species,Animalia,154207,Ennucula,102,ARMOL/11ARMOL-00015+1335235692.JPG,1.425,Ennucula tenuis
+Ensis myrae,1075775,Ensis myrae,species,Animalia,326828,Ensis,1,NA,NA,NA
+Entodesma navicula,600781,Entodesma navicula,species,Animalia,387495,Entodesma,3,RBCMI/IMG_0711+1396633906.JPG,1.531,Entodesma navicula
+Eobrolgus,803358,Eobrolgus,genus,Animalia,178055,Phoxocephalidae,11,BHAK/dHAK_06354a+1517882194.jpg,1.429,Eobrolgus
+Eobrolgus chumashi,803359,Eobrolgus chumashi,species,Animalia,803358,Eobrolgus,6,BHAK/dHAK_06354a+1517882194.jpg,1.429,Eobrolgus chumashi
+Eochelidium,1148012,Eochelidium,genus,Animalia,1607,Oedicerotidae,3,NA,NA,NA
+Ephesiella brevicapitis,370445,Ephesiella brevicapitis,species,Animalia,370444,Ephesiella,1,NA,NA,NA
+Epitonium,2641,Epitonium,genus,Animalia,820,Epitoniidae,48,CMBIA/00329Epitonium_sawinaeMoreSharpVRR+1324594876.jpg,1.333,Epitonium
+Epitonium sawinae,370502,Epitonium sawinae,species,Animalia,2641,Epitonium,9,CMBIA/00329Epitonium_sawinaeMoreSharpVRR+1324594876.jpg,1.333,Epitonium sawinae
+Eranno,1075776,Eranno,genus,Animalia,82852,Lumbrineridae,3,NA,NA,NA
+Eranno bicirrata,1075777,Eranno bicirrata,species,Animalia,1075776,Eranno,3,NA,NA,Eranno bicirrata
+Ericerodes hemphillii,1075778,Ericerodes hemphillii,species,Animalia,321935,Ericerodes,1,NA,NA,NA
+Ericthonius,4704,Ericthonius,genus,Animalia,455773,Ischyrocerinae,117,NBAMP/HA_0205+1221143522.JPG,1.5,Ericthonius
+Ericthonius brasiliensis,668749,Ericthonius brasiliensis,species,Animalia,4704,Ericthonius,33,DISMA/DISCO3463_lat_18Xmagnification_2017_08_15+1502820278.jpg,1.783,Ericthonius brasiliensis
+Ericthonius rubricornis,808520,Ericthonius rubricornis,species,Animalia,4704,Ericthonius,7,ATCAR/HMSC174_00454+1690308677.jpg,1.333,Ericthonius rubricornis
+Eteone,190324,Eteone,genus,Animalia,214498,Eteoninae,270,CCANN/08PROBE_0053+1219772334.JPG,1.499,Eteone
+Eteone californica,996318,Eteone californica,species,Animalia,190324,Eteone,12,NA,NA,Eteone californica
+Eteone pacifica,801770,Eteone pacifica,species,Animalia,190324,Eteone,12,BHAK/BHAK-0441+1549036938.jpg,1.325,Eteone pacifica
+Eualus,5583,Eualus,genus,Animalia,1517,Hippolytidae,302,KBINV/BIOUG02301-E10+1336054294.JPG,1.499,Eualus
+Eualus subtilis,808512,Eualus subtilis,species,Animalia,5583,Eualus,12,BBPS/dFHL_13064a+1585355004.jpg,1.419,Eualus subtilis
+Euchone,266392,Euchone,genus,Animalia,100787,Sabellinae,41,POLNB/ZMBN_108069_1+1518197310.JPG,1.499,Euchone
+Euchone incolor,1263367,Euchone incolor,species,Animalia,266392,Euchone,5,NA,NA,Euchone incolor
+Eudistylia vancouveri,160502,Eudistylia vancouveri,species,Animalia,160501,Eudistylia,36,KBPOL/11BIOAK-1546+1308675714.jpg,1.333,Eudistylia vancouveri
+Eudorella pacifica,955722,Eudorella pacifica,species,Animalia,5680,Eudorella,8,BBPS/dFHL_10540a+1585209410.jpg,1.664,Eudorella pacifica
+Eudorellopsis longirostris,981070,Eudorellopsis longirostris,species,Animalia,973587,Eudorellopsis,3,LHABC/CCDB31224_C11.3+1632340665.JPG,1.499,Eudorellopsis longirostris
+Eulalia californiensis,981030,Eulalia californiensis,species,Animalia,195081,Eulalia,4,BHAK/dHAKB_00491a+1582145723.jpg,2.23,Eulalia californiensis
+Eulalia levicornuta,205794,Eulalia levicornuta,species,Animalia,195081,Eulalia,4,CMBIA/00178Eulalia_levicornutaDorsalVRRAnteriorWScale+1321995544.jpg,1.333,Eulalia levicornuta
+Eulalia quadrioculata,495345,Eulalia quadrioculata,species,Animalia,195081,Eulalia,42,KBPOL/11bioak-0995+1308081508.jpg,1.334,Eulalia quadrioculata
+Eulima raymondi,895654,Eulima raymondi,species,Animalia,708838,Eulima,2,"DISA/6713_2018_01_16_13_46_36_[B,Radius8,Smoothing4]+1516128410.jpg",1.499,Eulima raymondi
+Eulithidium,795399,Eulithidium,genus,Animalia,500913,Phasianellidae,8,BHAK/dHAK_04602+1501655682.JPG,1.509,Eulithidium
+Eulithidium pulloides,801297,Eulithidium pulloides,species,Animalia,795399,Eulithidium,1,BHAK/dHAK_04602+1501655682.JPG,1.509,Eulithidium pulloides
+Eumida,205796,Eumida,genus,Animalia,214498,Eteoninae,392,POLNB/_93A6542+1431102672.jpg,1.499,Eumida
+Eumida longicornuta,299354,Eumida longicornuta,species,Animalia,205796,Eumida,22,BCPOL/BAMPOL0220+1217282108.JPG,1.499,Eumida longicornuta
+Eunice,80788,Eunice,genus,Animalia,28561,Eunicidae,513,POLYC/ECOSUR-OH-P647+1390236360.JPG,1.793,Eunice
+Eunoe,177383,Eunoe,genus,Animalia,28521,Polynoidae,158,CCPOL/NUNAV-0261+1211478440.jpg,1.499,Eunoe
+Euphilomedes carcharodonta,299402,Euphilomedes carcharodonta,species,Animalia,299401,Euphilomedes,34,CMBIA/00588bEuphilomedes_carcharodontaIntExtVRR+1351801106.jpg,1.333,Euphilomedes carcharodonta
+Euphilomedes producta,374263,Euphilomedes producta,species,Animalia,299401,Euphilomedes,25,CMBIA/00537Euphilomedes_productaIntShell_IntVRR+1326752824.jpg,1.333,Euphilomedes producta
+Euphysa,303008,Euphysa,genus,Animalia,303007,Corymorphidae,89,CMBIA/00098Euphysa_spA_HochbergWScaleVRR+1320969388.jpg,1.333,Euphysa
+Eupolymnia heterobranchia,205795,Eupolymnia heterobranchia,species,Animalia,100791,Eupolymnia,23,BCPOL/BAMPOL0204+1217281570.JPG,1.499,Eupolymnia heterobranchia
+Eusarsiella,715657,Eusarsiella,genus,Animalia,276673,Sarsiellidae,7,NA,NA,NA
+Eusirus,5306,Eusirus,genus,Animalia,1597,Eusiridae,243,CCNUN/nun-0009_+1206906704.JPG,1.499,Eusirus
+Eusyllis,153159,Eusyllis,genus,Animalia,125418,Syllidae,62,KBPOL/11bioak-1620+1316099238.jpg,1.333,Eusyllis
+Eusyllis blomstrandi,153160,Eusyllis blomstrandi,species,Animalia,153159,Eusyllis,34,HABFA/ZMBN_136792+1594133358.jpg,1.333,Eusyllis blomstrandi
+Eusyllis habei,955705,Eusyllis habei,species,Animalia,153159,Eusyllis,5,BBPS/dFHL_12140a+1585343056.jpg,1.24,Eusyllis habei
+Eusyllis transecta,299425,Eusyllis transecta,species,Animalia,153159,Eusyllis,1,CMBIA/DSC_1295+1288127438.jpg,1.675,Eusyllis transecta
+Excirolana chiltoni,8644,Excirolana chiltoni,species,Animalia,4851,Excirolana,26,SDP80/ES120214c+1370029433.jpg,1.499,Excirolana chiltoni
+Exogone,205784,Exogone,genus,Animalia,125418,Syllidae,90,BCPOL/bp2010-214+1288894774.jpg,1.333,Exogone
+Exogone dwisula,955706,Exogone dwisula,species,Animalia,205784,Exogone,8,BBPS/dFHL_12162a+1585342916.jpg,1.336,Exogone dwisula
+Exogone lourei,955726,Exogone lourei,species,Animalia,205784,Exogone,13,LHABC/BIOUG48554_A01.1+1640366303.jpg,1.502,Exogone lourei
+Exosphaeroma,5467,Exosphaeroma,genus,Animalia,1630,Sphaeromatidae,103,POIMB/dOIMB_03851a+1570411520.jpg,1.205,NA
+Eyakia,983599,Eyakia,genus,Animalia,370395,Brolginae,1,NA,NA,NA
+Fabia subquadrata,197655,Fabia subquadrata,species,Animalia,197654,Fabia,18,BHAK/A_Fabia_subquadrata_47391BHAK-0419dHAK_01282+1602546698.JPG,1.953,Fabia subquadrata
+Fauveliopsis,598181,Fauveliopsis,genus,Animalia,125433,Fauveliopsidae,19,POLNB/UMBergen_NB_polych395+1391033018.jpg,1.331,NA
+Fauveliopsis glabra,1129601,Fauveliopsis glabra,species,Animalia,598181,Fauveliopsis,7,NA,NA,NA
+Fissidentalium,2274,Fissidentalium,genus,Animalia,572,Dentaliidae,8,NA,NA,NA
+Tanyptera,180895,Tanyptera,genus,Animalia,399985,Ctenophorinae,62,FINTI/JES-20110119+1321889602.JPG,2.909,Tanyptera
+Flabelligella,941006,Flabelligella,genus,Animalia,125431,Acrocirridae,4,NA,NA,NA
+Flabelligera,190367,Flabelligera,genus,Animalia,125434,Flabelligeridae,76,POLNB/UMBergen_NB_polych396+1393267016.jpg,1.499,Flabelligera
+Flabelligera infundibularis,201267,Flabelligera infundibularis,species,Animalia,190367,Flabelligera,1,NA,NA,NA
+Foxiphalus,370396,Foxiphalus,genus,Animalia,370395,Brolginae,8,CMBIA/00121Foxiphalus_obtusidensWScaleVRR+1321990432.jpg,1.333,Foxiphalus
+Foxiphalus golfensis,370397,Foxiphalus golfensis,species,Animalia,370396,Foxiphalus,1,CMBIA/00120WScaleFoxiphalus_golfensisVRR+1321990432.jpg,1.333,Foxiphalus golfensis
+Foxiphalus obtusidens,370398,Foxiphalus obtusidens,species,Animalia,370396,Foxiphalus,2,CMBIA/00121Foxiphalus_obtusidensWScaleVRR+1321990432.jpg,1.333,Foxiphalus obtusidens
+Gadila aberrans,30824,Gadila aberrans,species,Animalia,2208,Gadila,2,NA,NA,NA
+Galathowenia,256918,Galathowenia,genus,Animalia,29433,Oweniidae,126,NBAAV/50+1405523420.jpg,1.333,Galathowenia
+Galathowenia oculata,256919,Galathowenia oculata,species,Animalia,256918,Galathowenia,83,CHONE/IMG_8682+1301084870.jpg,1.499,Galathowenia oculata
+Gammaropsis,84207,Gammaropsis,genus,Animalia,84206,Photidae,72,BNSA/MT03962+1414156932.jpg,1.333,Gammaropsis
+Gammaropsis thompsoni,786503,Gammaropsis thompsoni,species,Animalia,84207,Gammaropsis,9,DISMA/DISCO4140_Lat+1485289350.jpg,1.499,Gammaropsis thompsoni
+Gari,371324,Gari,genus,Animalia,85191,Psammobiidae,76,SWEMA/GNM7460_56MollOvr8535V+1415033172.JPG,1.499,Gari
+Garnotia,281301,Garnotia,genus,Plantae,907,Poaceae,6,NA,NA,NA
+Garveia,929414,Garveia,genus,Animalia,306799,Bougainvilliidae,3,NA,NA,NA
+Gastropteron pacificum,387496,Gastropteron pacificum,species,Animalia,103965,Gastropteron,22,AKMOL/11BIOAK-0196b+1320070754.JPG,1.499,Gastropteron pacificum
+Geukensia demissa,211965,Geukensia demissa,species,Animalia,28225,Geukensia,290,PBCB/S24495+1512428311.JPG,1.333,Geukensia demissa
+Gibberosus,370400,Gibberosus,genus,Animalia,370399,Megaluropidae,1,CMBIA/00122Gibberosus_myersiVRRWScale+1321990434.jpg,1.333,NA
+Gibberosus myersi,370401,Gibberosus myersi,species,Animalia,370400,Gibberosus,1,CMBIA/00122Gibberosus_myersiVRRWScale+1321990434.jpg,1.333,Gibberosus myersi
+Glebocarcinus oregonensis,606042,Glebocarcinus oregonensis,species,Animalia,323232,Glebocarcinus,151,NJCGS/IMG_7591b+1297974370.jpg,1.333,Glebocarcinus oregonensis
+Globivenus fordii,1075782,Globivenus fordii,species,Animalia,80100,Globivenus,1,NA,NA,NA
+Neverita reclusiana,151923,Neverita reclusiana,species,Animalia,151919,Neverita,3,NA,NA,NA
+Glycera,29423,Glycera,genus,Animalia,29422,Glyceridae,754,NBPOL/Huntsman_08_020+1218045114.JPG,1.499,Glycera
+Glycera americana,299356,Glycera americana,species,Animalia,29423,Glycera,53,CMBIA/00183Glycera_americanaMixedVRRWScale+1321995552.jpg,1.333,Glycera americana
+Glycera fallax,730982,Glycera fallax,species,Animalia,29423,Glycera,1,NA,NA,NA
+Glycera macrobranchia,955586,Glycera macrobranchia,species,Animalia,29423,Glycera,7,POIMB/dOIMB_03147a+1569441142.jpg,1.391,Glycera macrobranchia
+Glycera nana,205779,Glycera nana,species,Animalia,29423,Glycera,95,KBPOL/11bioak-1208+1308319426.jpg,1.333,Glycera nana
+Glycera oxycephala,955801,Glycera oxycephala,species,Animalia,29423,Glycera,4,NA,NA,NA
+Glycera robusta,205825,Glycera robusta,species,Animalia,29423,Glycera,4,KBPOL/11BIOAK-1263+1308333214.jpg,1.333,Glycera robusta
+Glycera tenuis,932056,Glycera tenuis,species,Animalia,29423,Glycera,4,POIMB/dOIMB_00362a+1565286056.jpg,1.622,Glycera tenuis
+Glycera tesselata,378414,Glycera tesselata,species,Animalia,29423,Glycera,11,DEEP/PGC00022_1+1305813842.jpg,1.333,Glycera tesselata
+Glycinde,204053,Glycinde,genus,Animalia,125405,Goniadidae,173,BCPOL/bp2010-032+1283888758.jpg,1.333,Glycinde
+Glycinde armigera,205807,Glycinde armigera,species,Animalia,204053,Glycinde,23,CMBIA/00192GlycindeArmigeraMixedVRRWScale+1321995570.jpg,1.333,Glycinde armigera
+Glycinde picta,385905,Glycinde picta,species,Animalia,204053,Glycinde,47,BCPOL/bp2010-032+1283888758.jpg,1.333,Glycinde picta
+Glycymeris septentrionalis,495418,Glycymeris septentrionalis,species,Animalia,2399,Glycymeris,15,AKMOL/11BIOAK-0146+1320069386.JPG,1.499,Glycymeris septentrionalis
+Glyphanostomum pallescens,516035,Glyphanostomum pallescens,species,Animalia,82543,Glyphanostomum,27,POLNB/UMBergen_NB_amphar94+1361197482.jpg,1.495,Glyphanostomum pallescens
+Gnathopleustes pugettensis,1075783,Gnathopleustes pugettensis,species,Animalia,314174,Gnathopleustes,1,NA,NA,NA
+Gnorimosphaeroma oregonense,9578,Gnorimosphaeroma oregonense,species,Animalia,5460,Gnorimosphaeroma,54,DFO/P5305084+1306783400.JPG,1.333,Gnorimosphaeroma oregonense
+Golfingia,83264,Golfingia,genus,Animalia,79163,Golfingiidae,58,KBINV/11bioak-1569+1308675846.jpg,1.333,Golfingia
+Golfingia margaritacea,106569,Golfingia margaritacea,species,Animalia,83264,Golfingia,22,KBINV/11bioak-1569+1308675846.jpg,1.333,Golfingia margaritacea
+Goniada,193550,Goniada,genus,Animalia,125405,Goniadidae,209,CMBIA/00196Goniada_maculataLateralVRRWScale+1321998050.jpg,1.333,Goniada
+Goniada littorea,299372,Goniada littorea,species,Animalia,193550,Goniada,3,CMBIA/DSC_1159Corr+1288127378.jpg,2.443,Goniada littorea
+Grandidierella japonica,675367,Grandidierella japonica,species,Animalia,675366,Grandidierella,358,ZPC/bioug01207-c04+1386098288.jpg,1.333,Grandidierella japonica
+Granulina margaritula,600862,Granulina margaritula,species,Animalia,600861,Granulina,21,RBCMI/IMG_7974+1396618092.JPG,1.55,Granulina margaritula
+Grubeopolynoe,387288,Grubeopolynoe,genus,Animalia,28521,Polynoidae,6,KBPOL/11bioak-1658+1316094652.jpg,1.333,NA
+Guernea reduncans,499248,Guernea reduncans,species,Animalia,499247,Guernea,2,CMBIA/00624bGuernea_reduncansVRR+1351801164.jpg,1.333,Guernea reduncans
+Gymnonereis crosslandi,893604,Gymnonereis crosslandi,species,Animalia,893603,Gymnonereis,5,DISA/6667_Branchiosyllis_exilis_complex_LACM_AHF_Poly_9409_Catalina_3Mar2017_[25]+1513726914.jpg,1.061,Gymnonereis crosslandi
+Gyptis brunnea,667906,Gyptis brunnea,species,Animalia,80339,Gyptis,1,NA,NA,NA
+Halcampa decemtentaculata,592477,Halcampa decemtentaculata,species,Animalia,592476,Halcampa,6,KBCSM/IMG_0796+1371499060.JPG,1.499,Halcampa decemtentaculata
+Halecium delicatulum,976405,Halecium delicatulum,species,Animalia,306797,Halecium,1,OOBKJ/cam1_20180713161319+1547670790.jpg,1.778,Halecium delicatulum
+Haliophasma geminata,370403,Haliophasma geminata,species,Animalia,370402,Haliophasma,5,CMBIA/00545DHaliophasma_geminatumLateralVRR+1326752834.jpg,1.333,Haliophasma geminata
+Halosydna,100805,Halosydna,genus,Animalia,214473,Lepidonotinae,120,BCPOL/bp2010-097+1284058264.jpg,1.333,Halosydna
+Halosydna brevisetosa,214476,Halosydna brevisetosa,species,Animalia,100805,Halosydna,98,BCPOL/bp2010-097+1284058264.jpg,1.333,Halosydna brevisetosa
+Halosydna johnsoni,786505,Halosydna johnsoni,species,Animalia,100805,Halosydna,4,"DISMA/3180_2017_11_09_14_13_25_[B,Radius8,Smoothing4]+1510265610.jpg",1.499,Halosydna johnsoni
+Halosydna latior,299376,Halosydna latior,species,Animalia,100805,Halosydna,1,CMBIA/DSC_1232+1288127410.jpg,2.199,Halosydna latior
+Hamatoscalpellum californicum,895639,Hamatoscalpellum californicum,species,Animalia,293131,Hamatoscalpellum,3,DISA/3958_DISCO3958_dor_20xMagnification_2017_12_14_11_40_57_[C]+1513269692.jpg,1.499,Hamatoscalpellum californicum
+Haminoea,5970,Haminoea,genus,Animalia,1848,Haminoeidae,363,RBCMI/IMG_7646+1396621554.JPG,1.432,Haminoea
+Haminoea vesicula,600853,Haminoea vesicula,species,Animalia,5970,Haminoea,34,RBCMI/IMG_7646+1396621554.JPG,1.432,Haminoea vesicula
+Hanleyella oldroydi,507668,Hanleyella oldroydi,species,Animalia,507667,Hanleyella,3,RBCMI/IMG_0960+1396641362.JPG,1.478,Hanleyella oldroydi
+Harbansus,683331,Harbansus,genus,Animalia,299400,Philomedidae,4,NA,NA,NA
+Harmothoe,177381,Harmothoe,genus,Animalia,194200,Polynoinae,1168,KBPOL/11bioak-1166+1308249508.jpg,1.333,Harmothoe
+Harmothoe fragilis,205830,Harmothoe fragilis,species,Animalia,177381,Harmothoe,11,BCPOL/BAMPOL0417+1217344594.JPG,1.499,Harmothoe fragilis
+Harmothoe imbricata,177382,Harmothoe imbricata,species,Animalia,177381,Harmothoe,225,CAISN/BIOUG04842-D04A+1375208426.jpg,1.301,Harmothoe imbricata
+Harpiniopsis,370405,Harpiniopsis,genus,Animalia,370404,Harpiniinae,23,MIAMP/ZMBN_107147+1455918336.jpg,1.331,Harpiniopsis
+Harpiniopsis fulgens,370406,Harpiniopsis fulgens,species,Animalia,370405,Harpiniopsis,1,CMBIA/00124Harpiniopsis_fulgensWScaleVRR+1321990434.jpg,1.333,Harpiniopsis fulgens
+Hartmanodes,370407,Hartmanodes,genus,Animalia,1607,Oedicerotidae,22,CMBIA/00125Hartmanodes_hartmanaeVRRWScale+1321990436.jpg,1.333,NA
+Hartmanodes hartmanae,370408,Hartmanodes hartmanae,species,Animalia,370407,Hartmanodes,12,CMBIA/00125Hartmanodes_hartmanaeVRRWScale+1321990436.jpg,1.333,Hartmanodes hartmanae
+Hemigrapsus,5543,Hemigrapsus,genus,Animalia,322513,Varuninae,1178,NJCGS/NJCS-00020+1267460718.JPG,1.499,Hemigrapsus
+Hemigrapsus oregonensis,99594,Hemigrapsus oregonensis,species,Animalia,5543,Hemigrapsus,495,NJCGS/NJCS-00020+1267460718.JPG,1.499,Hemigrapsus oregonensis
+Hemilamprops,5684,Hemilamprops,genus,Animalia,1689,Lampropidae,61,CUMNB/UMBergen_NB_cuma28+1359642784.jpg,1.333,Hemilamprops
+Hemilamprops californicus,32107,Hemilamprops californicus,species,Animalia,5684,Hemilamprops,3,CMBIA/00126Hemilamprops_californicusVRRWScale+1321990436.jpg,1.333,Hemilamprops californicus
+Hemipodia simplex,705515,Hemipodia simplex,species,Animalia,606436,Hemipodia,15,NA,NA,NA
+Hemisquilla californiensis,91939,Hemisquilla californiensis,species,Animalia,4903,Hemisquilla,7,LACSA/DNA_trawl_invert_Hemisquilla_californiensis_T4-23_plate_1_cell_E9Lighter+1284581706.jpg,1.333,Hemisquilla californiensis
+Henricia,99731,Henricia,genus,Animalia,99730,Echinasteridae,1008,DSPEC/NEOCAL07-0131+1183986006.JPG,1.499,Henricia
+Heptacarpus brevirostris,276730,Heptacarpus brevirostris,species,Animalia,88120,Heptacarpus,15,RBCMI/IMG_8069+1401972868.JPG,1.557,Heptacarpus brevirostris
+Heptacarpus palpator,955612,Heptacarpus palpator,species,Animalia,88120,Heptacarpus,6,POIMB/dOIMB_01062a+1565444968.jpg,1.844,Heptacarpus palpator
+Heptacarpus paludicola,607494,Heptacarpus paludicola,species,Animalia,88120,Heptacarpus,4,RBCMI/IMG_8179+1401973266.JPG,1.667,Heptacarpus paludicola
+Heptacarpus stimpsoni,955694,Heptacarpus stimpsoni,species,Animalia,88120,Heptacarpus,3,BBPS/dFHL_12057a+1585342316.jpg,1.379,Heptacarpus stimpsoni
+Hermundura fauveli,785164,Hermundura fauveli,species,Animalia,785163,Hermundura,7,BBPS/dFHL_13549a+1585364148.jpg,1.741,Hermundura fauveli
+Hesiospina,506746,Hesiospina,genus,Animalia,25266,Hesionidae,43,ICBA/ZMBN_140048_3+1669045730.jpg,1.333,NA
+Hespererato,1057330,Hespererato,genus,Animalia,788,Eratoidae,8,NA,NA,NA
+Hesperonoe,955588,Hesperonoe,genus,Animalia,28521,Polynoidae,5,POIMB/dOIMB_03270a+1569515310.jpg,1.722,NA
+Hesperonoe complanata,955589,Hesperonoe complanata,species,Animalia,955588,Hesperonoe,1,POIMB/dOIMB_03270a+1569515310.jpg,1.722,Hesperonoe complanata
+Heteromastus,370304,Heteromastus,genus,Animalia,122706,Capitellidae,147,POLNB/UMBergen_NB_polych46+1378476630.jpg,1.499,Heteromastus
+Heteromastus filiformis,370305,Heteromastus filiformis,species,Animalia,370304,Heteromastus,73,POLNB/UMBergen_NB_polych93+1379000366.jpg,1.499,Heteromastus filiformis
+Heteromastus filobranchus,804668,Heteromastus filobranchus,species,Animalia,370304,Heteromastus,32,BHAK/11_05343a+1675729574.jpg,1.136,Heteromastus filobranchus
+Heteromysis,91907,Heteromysis,genus,Animalia,1718,Mysidae,26,VAFIV/WCH_2321_0070_C+1417361710.jpeg,1,Heteromysis
+Heterophoxus,299414,Heterophoxus,genus,Animalia,370404,Harpiniinae,30,CMBIA/00127Heterophoxus_affinisVRRWScale+1321990436.jpg,1.333,NA
+Heterophoxus oculatus,299415,Heterophoxus oculatus,species,Animalia,299414,Heterophoxus,4,CMBIA/00127Heterophoxus_affinisVRRWScale+1321990436.jpg,1.333,Heterophoxus oculatus
+Heterophoxus conlanae,981060,Heterophoxus conlanae,species,Animalia,299414,Heterophoxus,5,LHABC/CCDB31224_A04.3+1631648854.JPG,1.499,Heterophoxus conlanae
+Heterophoxus ellisi,981324,Heterophoxus ellisi,species,Animalia,299414,Heterophoxus,3,LHABC/CCDB31224_A12.3+1631651449.JPG,1.499,Heterophoxus ellisi
+Heterospio catalinensis,299371,Heterospio catalinensis,species,Animalia,299370,Heterospio,1,CMBIA/DSC_1155Corr+1288127376.jpg,1.69,Heterospio catalinensis
+Hiatella arctica,81256,Hiatella arctica,species,Animalia,81255,Hiatella,208,BHAK/M_Hiatella_arctica_521611BHAK-3024dHAK_07122+1632964116.JPG,1.596,Hiatella arctica
+Hippolyte californiensis,895658,Hippolyte californiensis,species,Animalia,88122,Hippolyte,1,DISA/7179_img_001+1518191502.jpg,1.499,Hippolyte californiensis
+Hippomedon,273956,Hippomedon,genus,Animalia,890290,Tryphosidae,67,AMPNB/UMBergen_NB_amp41+1359559756.JPG,1.499,Hippomedon
+Hourstonius vilordes,981064,Hourstonius vilordes,species,Animalia,932091,Hourstonius,2,NA,NA,NA
+Hyalella azteca,8742,Hyalella azteca,species,Animalia,4741,Hyalella,1568,BBCRT/ccdb08345-e07+1347648312.jpg,1.333,Hyalella azteca
+Hyalinoecia juvenalis,370446,Hyalinoecia juvenalis,species,Animalia,193563,Hyalinoecia,1,CMBIA/00197Hyalinoecia_juvenalisVRRDorsalAnteriorWScale+1321998052.jpg,1.333,Hyalinoecia juvenalis
+Hydractinia,591129,Hydractinia,genus,Animalia,493982,Hydractiniidae,51,NOHYD/NH0094+1579991756.JPG,0.825,Hydractinia
+Hydroides,285914,Hydroides,genus,Animalia,109609,Serpulidae,331,FLBAR/FSBCI45997_Hydroides_microtis+1481211948.JPG,1.499,NA
+Hydroides elegans,658927,Hydroides elegans,species,Animalia,285914,Hydroides,59,INVMP/UNMdP_ZINV_109_A+1415381516.jpg,1.333,Hydroides elegans
+Idanthyrsus,24497,Idanthyrsus,genus,Animalia,24491,Sabellariidae,52,BCPOL/bp2010-110+1283973666.jpg,1.499,Idanthyrsus
+Idotea,5397,Idotea,genus,Animalia,1612,Idoteidae,863,FCCOM/SFC25-005+1305734508.jpg,1.333,Idotea
+Irusella lamellifera,1075793,Irusella lamellifera,species,Animalia,1075792,Irusella,1,NA,NA,NA
+Ischyrocerus,4710,Ischyrocerus,genus,Animalia,455773,Ischyrocerinae,206,CCNUN/nun-0053_+1206905574.JPG,1.499,Ischyrocerus
+Ischyrocerus anguipes,123302,Ischyrocerus anguipes,species,Animalia,4710,Ischyrocerus,126,CCNUN/nun-0053_+1206905574.JPG,1.499,Ischyrocerus anguipes
+Ischyrocerus pelagops,1140200,Ischyrocerus pelagops,species,Animalia,4710,Ischyrocerus,1,BHAK/dHAKB_02806a+1646090974.jpg,1.046,Ischyrocerus pelagops
+Isocheles pilosus,1164113,Isocheles pilosus,species,Animalia,323011,Isocheles,2,NA,NA,NA
+Isocirrus longiceps,955738,Isocirrus longiceps,species,Animalia,266398,Isocirrus,3,BBPS/dFHL_10929a+1585250478.jpg,2.215,Isocirrus longiceps
+Janiralata,803360,Janiralata,genus,Animalia,1618,Janiridae,4,BHAK/dHAK_06180+1501941982.JPG,1.509,NA
+Janiralata occidentalis,803361,Janiralata occidentalis,species,Animalia,803360,Janiralata,4,BHAK/dHAK_06180+1501941982.JPG,1.509,Janiralata occidentalis
+Jasmineira,494707,Jasmineira,genus,Animalia,100787,Sabellinae,13,NBAAV/ZMBN_130952+1545082538.jpg,1.333,NA
+Jassa,142576,Jassa,genus,Animalia,1141303,Ischyrocerini,798,NJCGS/10biobc-01014+1295364176.jpg,1.333,Jassa
+Jassa slatteryi,200668,Jassa slatteryi,species,Animalia,142576,Jassa,91,ZPC/bioug01207-g12+1386172384.jpg,1.333,Jassa slatteryi
+Jassa staudei,200669,Jassa staudei,species,Animalia,142576,Jassa,43,NJCGS/10biobc-01014+1295364176.jpg,1.333,Jassa staudei
+Joeropsis dubia,8684,Joeropsis dubia,species,Animalia,5441,Joeropsis,2,NA,NA,NA
+Keenaea centifilosa,955734,Keenaea centifilosa,species,Animalia,6144,Keenaea,6,BBPS/dFHL_12093a+1576786084.jpg,1.145,Keenaea centifilosa
+Kelletia kelletii,261134,Kelletia kelletii,species,Animalia,261133,Kelletia,21,LACSA/DNA_trawl_invert_Kelletia_kellettii_T5-23_plate_1_cell_H7Lev+1284581964.jpg,1.333,Kelletia kelletii
+Kellia suborbicularis,495427,Kellia suborbicularis,species,Animalia,495426,Kellia,25,RBCMI/IMG_0714+1396634200.JPG,1.29,Kellia suborbicularis
+Kirkegaardia,776858,Kirkegaardia,genus,Animalia,83730,Cirratulidae,26,POLNB/ZMBN_117832+1499272984.JPG,1.499,NA
+Kirkegaardia cryptica,1075794,Kirkegaardia cryptica,species,Animalia,776858,Kirkegaardia,1,NA,NA,NA
+Kirkegaardia serratiseta,1075795,Kirkegaardia serratiseta,species,Animalia,776858,Kirkegaardia,1,NA,NA,NA
+Kirkegaardia siblina,1075796,Kirkegaardia siblina,species,Animalia,776858,Kirkegaardia,4,NA,NA,NA
+Kurtiella,642792,Kurtiella,genus,Animalia,893967,Montacutinae,66,ICBA/ZMBN_139749+1625758616.jpg,1.333,Kurtiella
+Kurtiella tumida,786733,Kurtiella tumida,species,Animalia,642792,Kurtiella,33,LHABC/BIOUG48552_A07.2+1631289540.JPG,1.499,Kurtiella tumida
+Kurtzia arteaga,955740,Kurtzia arteaga,species,Animalia,955739,Kurtzia,2,BBPS/dFHL_11036a+1585259610.jpg,1.432,Kurtzia arteaga
+Kurtziella plumbea,499231,Kurtziella plumbea,species,Animalia,149471,Kurtziella,3,NA,NA,Kurtziella plumbea
+Kurtzina beta,370505,Kurtzina beta,species,Animalia,370504,Kurtzina,5,CMBIA/00331Kurtzina_beta3VRR+1324594878.jpg,1.333,Kurtzina beta
+Lacuna,82689,Lacuna,genus,Animalia,306754,Lacuninae,237,ARCMI/BIOUG14670-H02b+1414093072.jpg,1.333,Lacuna
+Lacuna unifasciata,1075798,Lacuna unifasciata,species,Animalia,82689,Lacuna,1,NA,NA,NA
+Lacydonia,729478,Lacydonia,genus,Animalia,125408,Lacydoniidae,30,CRYNO/HM178a+1445584941.jpg,2.078,Lacydonia
+Lanassa,524774,Lanassa,genus,Animalia,100790,Terebellinae,31,BBPS/dFHL_12830a+1585353588.jpg,1.458,Lanassa
+Lanassa gracilis,955683,Lanassa gracilis,species,Animalia,524774,Lanassa,1,BBPS/dFHL_12830a+1585353588.jpg,1.458,Lanassa gracilis
+Lanice conchilega,369321,Lanice conchilega,species,Animalia,369320,Lanice,27,GEANS/373_2c1+1647273953.jpg,1.333,Lanice conchilega
+Laomedea calceolifera,80782,Laomedea calceolifera,species,Animalia,80781,Laomedea,8,NA,NA,Laomedea calceolifera
+Laonice,122703,Laonice,genus,Animalia,32473,Spionidae,468,CMBIA/00202Laonice_nuchalaVRRDorsal+1321998060.jpg,1.333,Laonice
+Laonice cirrata,214482,Laonice cirrata,species,Animalia,122703,Laonice,93,CMBIA/00200Laonice_nuchalaVRRDorsal+1321998056.jpg,1.333,Laonice cirrata
+Laonice nuchala,370447,Laonice nuchala,species,Animalia,122703,Laonice,6,CMBIA/00202Laonice_nuchalaVRRDorsal+1321998060.jpg,1.333,Laonice nuchala
+Laphania,524772,Laphania,genus,Animalia,100790,Terebellinae,13,POLNB/UMBergen_NB_polych229+1391037382.jpg,1.331,Laphania
+Laphania boecki,524773,Laphania boecki,species,Animalia,524772,Laphania,12,POLNB/UMBergen_NB_polych229+1391037382.jpg,1.331,Laphania boecki
+Laticorophium baconi,752225,Laticorophium baconi,species,Animalia,752224,Laticorophium,23,ZPC/bioug01207-h02+1386173546.jpg,1.333,Laticorophium baconi
+Latulambrus occidentalis,895649,Latulambrus occidentalis,species,Animalia,322029,Latulambrus,1,"DISA/4097_DISCO4097_2017_02_01_12_58_38_[B,Radius8,Smoothing4]+1485971924.jpg",1.499,Latulambrus occidentalis
+Leaena,770594,Leaena,genus,Animalia,28571,Terebellidae,4,POLNB/ZMBN_116167+1492790466.JPG,1.499,NA
+Lebbeus,5585,Lebbeus,genus,Animalia,1517,Hippolytidae,206,NNMC/IMG_6365+1227799694.JPG,1.499,Lebbeus
+Ledella,600722,Ledella,genus,Animalia,600721,Ledellinae,14,ICBA/ZMBN_140495+1625758628.jpg,1.333,NA
+Leiochrides,923553,Leiochrides,genus,Animalia,122706,Capitellidae,1,NA,NA,NA
+Leitoscoloplos,193060,Leitoscoloplos,genus,Animalia,893969,Orbiniinae,166,NBPOL/HP_0179+1221833236.JPG,1.499,Leitoscoloplos
+Leitoscoloplos pugettensis,204052,Leitoscoloplos pugettensis,species,Animalia,193060,Leitoscoloplos,79,CMBIA/00204Leitoscoloplos_pugettensisVRRLateralToDorsal+1323113828.jpg,1.333,Leitoscoloplos pugettensis
+Eunice americana,300523,Eunice americana,species,Animalia,80788,Eunice,3,CMBIA/00180Eunice_americanaDorsalAnteriorWScaleVRR+1321995548.jpg,1.333,Eunice americana
+Lepidasthenia,205809,Lepidasthenia,genus,Animalia,28521,Polynoidae,20,DEEP/PAS00007+1305928762.jpg,1.333,NA
+Lepidasthenia berkeleyae,205810,Lepidasthenia berkeleyae,species,Animalia,205809,Lepidasthenia,4,BBPS/dFHL_10820a+1585247474.jpg,2.598,Lepidasthenia berkeleyae
+Lepidasthenia longicirrata,370448,Lepidasthenia longicirrata,species,Animalia,205809,Lepidasthenia,6,CMBIA/00205Lepidasthenia_longicirrataVRRDorsal+1323113830.jpg,1.333,Lepidasthenia longicirrata
+Lepidepecreum garthi,996407,Lepidepecreum garthi,species,Animalia,88681,Lepidepecreum,3,NA,NA,Lepidepecreum garthi
+Lepidepecreum gurjanovae,803357,Lepidepecreum gurjanovae,species,Animalia,88681,Lepidepecreum,1,BHAK/dHAK_06497a+1517968578.jpg,1.675,Lepidepecreum gurjanovae
+Lepidonotus,88420,Lepidonotus,genus,Animalia,214473,Lepidonotinae,194,NBPOL/HP_411+1221057978.JPG,1.499,Lepidonotus
+Lepidozona,4596,Lepidozona,genus,Animalia,1474,Ischnochitonidae,223,RBCMI/IMG_0982+1396641928.JPG,1.499,Lepidozona
+Lepidozona radians,105254,Lepidozona radians,species,Animalia,4596,Lepidozona,20,BCMOL/10BCMOL-00286+1335233166.JPG,1.502,Lepidozona radians
+Leptochelia,276481,Leptochelia,genus,Animalia,276480,Leptocheliinae,374,CMBIA/IMGP7968+1280248214.jpg,1.236,Leptochelia
+Leptochiton nexus,981326,Leptochiton nexus,species,Animalia,105263,Leptochiton,6,NA,NA,NA
+Leptochiton rugatus,105264,Leptochiton rugatus,species,Animalia,105263,Leptochiton,57,RBCMI/IMG_0990+1396879584.JPG,1.471,Leptochiton rugatus
+Leptopecten latiauratus,1061807,Leptopecten latiauratus,species,Animalia,1061806,Leptopecten,1,NA,NA,NA
+Leptostylis abditis,996402,Leptostylis abditis,species,Animalia,514433,Leptostylis,1,NA,NA,Leptostylis abditis
+Leptosynapta,160323,Leptosynapta,genus,Animalia,84372,Synaptidae,119,NSECH/MT03711+1317148392.jpg,1.333,Leptosynapta
+Leucilla nuttingi,237717,Leucilla nuttingi,species,Animalia,237709,Leucilla,3,POIMB/dOIMB_00711a+1565360394.jpg,1.773,Leucilla nuttingi
+Leucon falcicosta,996400,Leucon falcicosta,species,Animalia,514436,Leucon,3,NA,NA,Leucon falcicosta
+Leucosolenia nautilia,238086,Leucosolenia nautilia,species,Animalia,238053,Leucosolenia,1,NA,NA,NA
+Leucothoe nagatai,931963,Leucothoe nagatai,species,Animalia,88704,Leucothoe,6,NA,NA,NA
+Leukoma,371340,Leukoma,genus,Animalia,1141899,Venerinae,78,RBCMI/IMG_7571+1396619626.JPG,1.499,Leukoma
+Leukoma staminea,484121,Leukoma staminea,species,Animalia,371340,Leukoma,51,RBCMI/IMG_7571+1396619626.JPG,1.499,Leukoma staminea
+Leuroleberis sharpei,370411,Leuroleberis sharpei,species,Animalia,370410,Leuroleberis,1,CMBIA/00130WLeuroleberis_sharpeiVRRScale+1321990440.jpg,1.333,Leuroleberis sharpei
+Levinsenia,122731,Levinsenia,genus,Animalia,122725,Paraonidae,97,POLNB/ZMBN_95711+1402938164.jpg,1.333,NA
+Levinsenia gracilis,122732,Levinsenia gracilis,species,Animalia,122731,Levinsenia,50,POLNB/ZMBN_95711+1402938164.jpg,1.333,Levinsenia gracilis
+Liljeborgia,213269,Liljeborgia,genus,Animalia,527084,Liljeborgiinae,50,AMPNB/UMB_NB_amph112+1390926300.jpg,1.331,Liljeborgia
+Limaria hemphilli,895634,Limaria hemphilli,species,Animalia,2078,Limaria,5,DISA/3612_img_013+1473374144.jpg,1.499,Limaria hemphilli
+Lineus,25882,Lineus,genus,Animalia,1819,Lineidae,579,NORGE/1373+1395951942.jpg,1.333,Lineus
+Lineus bilineatus,110005,Lineus bilineatus,species,Animalia,25882,Lineus,15,CMBIA/00364Lineus_bilineatusAnteriorVRR+1324594920.jpg,1.333,Lineus bilineatus
+Lineus flavescens,939090,Lineus flavescens,species,Animalia,25882,Lineus,41,NA,NA,NA
+Lirobarleeia kelseyi,1075801,Lirobarleeia kelseyi,species,Animalia,1075800,Lirobarleeia,1,NA,NA,NA
+Lirobittium,370507,Lirobittium,genus,Animalia,370506,Bittiinae,29,CMBIA/00333Lirobittium_spVRR+1324594880.jpg,1.333,Lirobittium
+Idunella,348699,Idunella,genus,Animalia,527083,Idunellinae,35,MIAMP/ZMBN_107206+1456149434.jpg,1.333,NA
+Listriolobus,293149,Listriolobus,genus,Animalia,293148,Thalassematinae,5,CMBIA/00322Listriolobus_pelodesVRR+1324594870.jpg,1.333,NA
+Listriolobus pelodes,293150,Listriolobus pelodes,species,Animalia,293149,Listriolobus,3,CMBIA/00322Listriolobus_pelodesVRR+1324594870.jpg,1.333,Listriolobus pelodes
+Littorina keenae,80582,Littorina keenae,species,Animalia,6357,Littorina,26,POIMB/dOIMB_04151a+1570142414.jpg,1.356,Littorina keenae
+Loimia,28572,Loimia,genus,Animalia,28571,Terebellidae,81,HZPLY/BIOUG06647-C07+1373418894.jpg,1.054,NA
+Lophopanopeus,322344,Lophopanopeus,genus,Animalia,1543,Panopeidae,146,DFO/P6145526+1308075520.JPG,1.333,Lophopanopeus
+Lophopanopeus bellus,395161,Lophopanopeus bellus,species,Animalia,322344,Lophopanopeus,128,DFO/P6145526+1308075520.JPG,1.333,Lophopanopeus bellus
+Tectura depicta,1078988,Tectura depicta,species,Animalia,2022,Tectura,1,NA,NA,Tectura depicta
+Lottia instabilis,801294,Lottia instabilis,species,Animalia,80071,Lottia,6,BHAK/dHAK_01180a+1516965954.jpg,1.336,Lottia instabilis
+Lovenia cordiformis,82716,Lovenia cordiformis,species,Animalia,82715,Lovenia,11,DISA/3352_DISCO3352_label+1515513252.jpg,1.499,Lovenia cordiformis
+Loxorhynchus crispatus,201406,Loxorhynchus crispatus,species,Animalia,201405,Loxorhynchus,10,LACSA/DNA_trawl_invert_Loxorhynchus_crispatus_T4-23_plate_1_cell_E7Lighter+1285275892.jpg,1.333,Loxorhynchus crispatus
+Loxosomella,302864,Loxosomella,genus,Animalia,302863,Loxosomatidae,7,NA,NA,NA
+Loy thompsoni,955691,Loy thompsoni,species,Animalia,955690,Loy,1,BBPS/dFHL_11655a+1585281364.jpg,1.4,Loy thompsoni
+Lucinisca nuttalli,1075803,Lucinisca nuttalli,species,Animalia,987900,Lucinisca,1,NA,NA,NA
+Lucinoma annulata,600757,Lucinoma annulata,species,Animalia,600729,Lucinoma,13,LHABC/BIOUG48552_H04.0+1634159125.JPG,1.499,Lucinoma annulata
+Luidia,24753,Luidia,genus,Animalia,24752,Luidiidae,243,DSPEC/NEOCAL07-0114+1186599302.jpg,1.499,Luidia
+Luidia armata,220780,Luidia armata,species,Animalia,24753,Luidia,1,"DISA/4105_DISCO4105_2017_01_31_16_08_28_[B,Radius8,Smoothing4]+1485907724.jpg",1.499,Luidia armata
+Luidia asthenosoma,220782,Luidia asthenosoma,species,Animalia,24753,Luidia,2,LACSA/DNA_trawl_invert_Luidia_asthenosoma_T1-61_plate_1_cell_E4_not_E3_as_in_photo+1281019706.jpg,1.333,Luidia asthenosoma
+Luidia foliolata,32894,Luidia foliolata,species,Animalia,24753,Luidia,25,DSPEC/NEOCAL07-0114+1186599302.jpg,1.499,Luidia foliolata
+Lumbrinerides,560288,Lumbrinerides,genus,Animalia,82852,Lumbrineridae,39,MIWAP/UMBergen_MBOWA_miwa43+1378835774.jpg,1.506,Lumbrinerides
+Lumbrineriopsis,942332,Lumbrineriopsis,genus,Animalia,82852,Lumbrineridae,5,MIWAP/UMBergen_MBOWA_miwa45+1378835774.jpg,1.506,Lumbrineriopsis
+Lumbrineris,152863,Lumbrineris,genus,Animalia,82852,Lumbrineridae,387,BCPOL/BAMPOL0203+1217344456.JPG,1.499,Lumbrineris
+Lumbrineris cruzensis,370449,Lumbrineris cruzensis,species,Animalia,152863,Lumbrineris,41,CMBIA/00207Lumbreneris_cruzensisAnteriorOnLeftVRR+1323113832.jpg,1.333,Lumbrineris cruzensis
+Lumbrineris inflata,535665,Lumbrineris inflata,species,Animalia,152863,Lumbrineris,9,HZPLY/BIOUG06397-D12-6+1372346826.jpg,0.98,Lumbrineris inflata
+Lumbrineris japonica,205757,Lumbrineris japonica,species,Animalia,152863,Lumbrineris,37,BCPOL/BAMPOL0203+1217344456.JPG,1.499,Lumbrineris japonica
+Lumbrineris latreilli,171871,Lumbrineris latreilli,species,Animalia,152863,Lumbrineris,11,HZPLY/LP20201-2+1528749562.jpg,1.641,Lumbrineris latreilli
+Lumbrineris ligulata,370450,Lumbrineris ligulata,species,Animalia,152863,Lumbrineris,1,CMBIA/00210Lumbrineris_lingulataDorsalAtAnteriorVRR+1323113838.jpg,1.333,Lumbrineris ligulata
+Lumbrineris cingulata,1129665,Lumbrineris cingulata,species,Animalia,152863,Lumbrineris,8,NA,NA,NA
+Lyonsia californica,370509,Lyonsia californica,species,Animalia,2447,Lyonsia,7,BHAK/11_06103a+1669421839.jpg,1.27,Lyonsia californica
+Lysippe,299362,Lysippe,genus,Animalia,214495,Ampharetinae,43,POLNB/ZMBN_95366+1396981436.JPG,1.499,Lysippe
+Lytechinus pictus,172032,Lytechinus pictus,species,Animalia,148892,Lytechinus,21,LACSA/DNA_trawl_invert_Lytechinus_pictus_T5-61_plate_1_cell_A12+1257888684.jpg,1.333,Lytechinus pictus
+Macoma,88399,Macoma,genus,Animalia,646949,Macominae,885,ARMOL/11ARMOL-00024+1335235786.JPG,1.451,Macoma
+Macoma carlottensis,804666,Macoma carlottensis,species,Animalia,88399,Macoma,26,LHABC/BIOUG48552_A12.1+1637089666.jpg,1.502,Macoma carlottensis
+Macoma nasuta,387497,Macoma nasuta,species,Animalia,88399,Macoma,45,DFO/P6165625+1308245330.JPG,1.333,Macoma nasuta
+Rexithaerus secta,932053,Rexithaerus secta,species,Animalia,932052,Rexithaerus,2,WIZCO/OIMB-054-P1+1530134518.jpg,1.778,Rexithaerus secta
+Macoploma yoldiformis,955699,Macoploma yoldiformis,species,Animalia,955698,Macoploma,8,BBPS/dFHL_11440a+1585277856.jpg,1.633,Macoploma yoldiformis
+Macrochaeta,201037,Macrochaeta,genus,Animalia,125431,Acrocirridae,86,POLNB/ZMBN_95733+1402938170.jpg,1.333,Macrochaeta
+Mactromeris,499232,Mactromeris,genus,Animalia,888913,Mactrinae,8,AKMOL/11BIOAK-0360+1320076750.JPG,1.425,NA
+Mactromeris catilliformis,499233,Mactromeris catilliformis,species,Animalia,499232,Mactromeris,3,NA,NA,NA
+Mactrotoma,1143270,Mactrotoma,genus,Animalia,888913,Mactrinae,1,NA,NA,NA
+Maculaura alaskensis,852484,Maculaura alaskensis,species,Animalia,852483,Maculaura,59,WIZFB/LFHL02_pilidium_larva_of_Maculaura_alaskensis+1653663991.jpg,0.78,Maculaura alaskensis
+Maera similis,981067,Maera similis,species,Animalia,123299,Maera,6,BHAK/dHAK_04712a+1517278555.jpg,1.535,Maera similis
+Magelona,122723,Magelona,genus,Animalia,122722,Magelonidae,337,BNSP/MT03461+1314902080.jpg,1.333,Magelona
+Magelona berkeleyi,981317,Magelona berkeleyi,species,Animalia,122723,Magelona,1,NA,NA,NA
+Magelona pitelkai,932054,Magelona pitelkai,species,Animalia,122723,Magelona,2,WIZCO/OIMB-059p2+1531941342.jpg,1.333,Magelona pitelkai
+Magelona sacculata,385906,Magelona sacculata,species,Animalia,122723,Magelona,11,CMBIA/00392Magelona_sacculataLateralVRR+1328213812.jpg,1.333,Magelona sacculata
+Makrokylindrus,1203635,Makrokylindrus,genus,Animalia,1682,Diastylidae,15,NA,NA,Makrokylindrus
+Malacoceros indicus,920934,Malacoceros indicus,species,Animalia,190358,Malacoceros,4,NA,NA,NA
+Malacoplax californiensis,934589,Malacoplax californiensis,species,Animalia,322333,Malacoplax,3,NA,NA,NA
+Maldane,204050,Maldane,genus,Animalia,204049,Maldaninae,157,POLNB/UMBergen_NB_mald84+1361203094.JPG,1.499,NA
+Maldane sarsi,204051,Maldane sarsi,species,Animalia,204050,Maldane,71,CMBIA/00517Maldane_sarsiDorsoLateralVRR+1326752796.jpg,1.333,Maldane sarsi
+Malletia,600734,Malletia,genus,Animalia,532442,Malletiidae,8,ICBA/ZMBN_139779+1625758618.jpg,1.333,NA
+Malletia faba,600750,Malletia faba,species,Animalia,600734,Malletia,1,RBCMI/IMG_0552+1396626574.JPG,1.379,Malletia faba
+Malmgreniella,190328,Malmgreniella,genus,Animalia,28521,Polynoidae,39,CMBIA/00219Malmgreniella_baschiDorsalVRR+1323113850.jpg,1.333,Malmgreniella
+Malmgreniella baschi,370453,Malmgreniella baschi,species,Animalia,190328,Malmgreniella,4,CMBIA/00219Malmgreniella_baschiDorsalVRR+1323113850.jpg,1.333,Malmgreniella baschi
+Malmgreniella macginitiei,981319,Malmgreniella macginitiei,species,Animalia,190328,Malmgreniella,2,NA,NA,NA
+Malmgreniella nigralba,205758,Malmgreniella nigralba,species,Animalia,190328,Malmgreniella,10,CMBIA/00220Malmgreniella_nigralbaWholeVRR+1323113852.jpg,1.333,Malmgreniella nigralba
+Margarites,151128,Margarites,genus,Animalia,532447,Margaritidae,316,BEAUF/beau2011-202d+1324657378.jpg,1.333,Margarites
+Marphysa,28562,Marphysa,genus,Animalia,28561,Eunicidae,501,CMBIA/00223Marphysa_disjunctaDorsalVRR+1323113858.jpg,1.333,Marphysa
+Marphysa disjuncta,300497,Marphysa disjuncta,species,Animalia,28562,Marphysa,6,CMBIA/00223Marphysa_disjunctaDorsalVRR+1323113858.jpg,1.333,Marphysa disjuncta
+Marphysa stylobranchiata,854051,Marphysa stylobranchiata,species,Animalia,28562,Marphysa,1,WIZCO/OIMB-006-p2+1526934626.jpg,1.333,Marphysa stylobranchiata
+Mayerella banksia,996408,Mayerella banksia,species,Animalia,955680,Mayerella,4,LHABC/CCDB31224_C05.3+1632341457.JPG,1.499,Mayerella banksia
+Mediomastus,156427,Mediomastus,genus,Animalia,122706,Capitellidae,126,HZPLY/bioug03501-f08+1351869910.jpg,1.333,Mediomastus
+Megabalanus californicus,979125,Megabalanus californicus,species,Animalia,27792,Megabalanus,3,NA,NA,Megabalanus californicus
+Megamoera subtener,534525,Megamoera subtener,species,Animalia,512579,Megamoera,8,NJCGS/10biobc-01062+1295633110.jpg,1.333,Megamoera subtener
+Megastraea undosa,803098,Megastraea undosa,species,Animalia,803097,Megastraea,13,DISA/7305_DISCO7305_dor_2017_10_17_12_08_16_[C]+1508256510.jpg,1.499,Megastraea undosa
+Megasurcula,370511,Megasurcula,genus,Animalia,353048,Pseudomelatomidae,1,CMBIA/00336Megasurcula_carpenteriVRR+1324496470.jpg,1.499,NA
+Megasurcula carpenteriana,370512,Megasurcula carpenteriana,species,Animalia,370511,Megasurcula,1,CMBIA/00336Megasurcula_carpenteriVRR+1324496470.jpg,1.499,Megasurcula carpenteriana
+Megasyllis nipponica,893607,Megasyllis nipponica,species,Animalia,506769,Megasyllis,6,"DISA/7439_DISCO7439_2018_10_04_10_49_58_[B,Radius9,Smoothing4]+1538679016.jpg",1.499,Megasyllis nipponica
+Melampus olivaceus,682508,Melampus olivaceus,species,Animalia,85015,Melampus,1,NA,NA,NA
+Melanochlamys diomedea,103964,Melanochlamys diomedea,species,Animalia,103962,Melanochlamys,6,LHABC/BIOUG48552_C04.1+1637091345.jpg,1.502,Melanochlamys diomedea
+Melinna,299360,Melinna,genus,Animalia,82542,Ampharetidae,93,POLNB/UMBergen_NB_polych510+1399058146.JPG,1.499,Melinna
+Melinna heterodonta,370456,Melinna heterodonta,species,Animalia,299360,Melinna,2,CMBIA/00226Melinna_heterodontaVRRDorsal+1323113864.jpg,1.333,Melinna heterodonta
+Melinna oculata,299361,Melinna oculata,species,Animalia,299360,Melinna,4,CMBIA/DSC_1068Corr+1288127348.jpg,1.602,Melinna oculata
+Mendicula ferruginosa,673986,Mendicula ferruginosa,species,Animalia,673985,Mendicula,19,ICBA/ZMBN_140379+1625758624.jpg,1.333,Mendicula ferruginosa
+Merona,726311,Merona,genus,Animalia,532613,Oceaniidae,1,SWEMA/GNM7464_156Hydrozoa1589V+1442846542.JPG,1.499,NA
+Mesocentrotus franciscanus,592169,Mesocentrotus franciscanus,species,Animalia,592168,Mesocentrotus,119,DSPEC/Bamfield_08_279+1224348668.jpg,0.997,Mesocentrotus franciscanus
+Mesochaetopterus,80366,Mesochaetopterus,genus,Animalia,24831,Chaetopteridae,17,HZPLY/BIOUG06647-D03-5+1374285852.jpg,1.478,Mesochaetopterus
+Mesocrangon munitella,955719,Mesocrangon munitella,species,Animalia,322784,Mesocrangon,5,BBPS/dFHL_11722a+1585282422.jpg,1.698,Mesocrangon munitella
+Metacarcinus anthonyi,293160,Metacarcinus anthonyi,species,Animalia,100363,Metacarcinus,12,LACSA/DNA_trawl_invert_Metacarcinus_anthonyi_T0-61_plate_1_cell_F5+1281012684.jpg,1.333,Metacarcinus anthonyi
+Metacarcinus gracilis,201873,Metacarcinus gracilis,species,Animalia,100363,Metacarcinus,37,BHAK/A_Metacarcinus_gracilis_47399BHAK-0522dHAK_01427+1602546704.JPG,1.338,Metacarcinus gracilis
+Metaphoxus frequens,981348,Metaphoxus frequens,species,Animalia,735038,Metaphoxus,1,NA,NA,NA
+Metatiron tropakis,981351,Metatiron tropakis,species,Animalia,981350,Metatiron,1,NA,NA,NA
+Microcosmus squamiger,104612,Microcosmus squamiger,species,Animalia,104611,Microcosmus,365,NLGIM/RMNH.5013557+1457380152.jpg,1.333,Microcosmus squamiger
+Microjassa,808543,Microjassa,genus,Animalia,1602,Ischyroceridae,3,FHL/BMBM-0997+1522880862.JPG,1.509,NA
+Microjassa barnardi,973583,Microjassa barnardi,species,Animalia,808543,Microjassa,2,BHAK/dHAKB_02829a+1646090985.jpg,1.174,Microjassa barnardi
+Microphthalmus,714379,Microphthalmus,genus,Animalia,25266,Hesionidae,11,PONOR/NTNU-VM-75090+1576613556.jpg,1.333,Microphthalmus
+Micropleustes nautilus,803393,Micropleustes nautilus,species,Animalia,803392,Micropleustes,2,BHAK/dHAK_07791a+1518310058.jpg,1.509,Micropleustes nautilus
+Micropodarke dubia,190361,Micropodarke dubia,species,Animalia,190360,Micropodarke,29,BCPOL/BAMPOL0105+1217254738.JPG,1.333,Micropodarke dubia
+Micrura,25880,Micrura,genus,Animalia,1819,Lineidae,182,NORGE/1444b+1393436272.jpg,1.546,Micrura
+Micrura wilsoni,939103,Micrura wilsoni,species,Animalia,25880,Micrura,10,POIMB/dOIMB_00438a+1565290510.jpg,2.254,Micrura wilsoni
+Modiolus,2457,Modiolus,genus,Animalia,197311,Modiolinae,510,CBMB/00034+1271078644.jpg,1.633,Modiolus
+Modiolus sacculifer,1075809,Modiolus sacculifer,species,Animalia,2457,Modiolus,1,NA,NA,NA
+Molgula,210801,Molgula,genus,Animalia,101156,Molgulidae,227,ASCAN/S3MOLA390-b+1299596880.jpg,0.77,Molgula
+Molgula manhattensis,505893,Molgula manhattensis,species,Animalia,210801,Molgula,121,HABFA/ZMBN_147828+1656351498.JPG,1.5,Molgula manhattensis
+Molgula pugetiensis,981337,Molgula pugetiensis,species,Animalia,210801,Molgula,1,NA,NA,NA
+Molpadia arenicola,852449,Molpadia arenicola,species,Animalia,99741,Molpadia,1,NA,NA,NA
+Molpadia intermedia,99742,Molpadia intermedia,species,Animalia,99741,Molpadia,13,DSPEC/Bamfield_08_384+1223839620.jpg,1.499,Molpadia intermedia
+Monobrachium parasitum,669279,Monobrachium parasitum,species,Animalia,669278,Monobrachium,5,NA,NA,Monobrachium parasitum
+Monocorophium,306772,Monocorophium,genus,Animalia,299382,Corophiinae,217,BNSA/MT01189+1311360922.jpg,1.217,Monocorophium
+Monocorophium acherusicum,572676,Monocorophium acherusicum,species,Animalia,306772,Monocorophium,109,BNSA/MT01189+1311360922.jpg,1.217,Monocorophium acherusicum
+Monocorophium insidiosum,347149,Monocorophium insidiosum,species,Animalia,306772,Monocorophium,94,WWAMP/L191AR1-14b+1219781418.jpg,1.317,Monocorophium insidiosum
+Monocorophium uenoi,1124657,Monocorophium uenoi,species,Animalia,306772,Monocorophium,1,NA,NA,NA
+Monoculodes,5357,Monoculodes,genus,Animalia,1607,Oedicerotidae,75,CAISN/BIOUG00343-C08+1371223168.jpg,1.322,Monoculodes
+Monoculodes emarginatus,499246,Monoculodes emarginatus,species,Animalia,5357,Monoculodes,3,CMBIA/00620Monoculodes_emarginataVRR+1351801158.jpg,1.333,Monoculodes emarginatus
+Mooreonuphis,299346,Mooreonuphis,genus,Animalia,79669,Onuphidae,17,BHAK/dHAKB-01798a+1620252080.jpg,1.61,NA
+Mooreonuphis exigua,981343,Mooreonuphis exigua,species,Animalia,299346,Mooreonuphis,3,NA,NA,NA
+Mooreonuphis nebulosa,299347,Mooreonuphis nebulosa,species,Animalia,299346,Mooreonuphis,3,CMBIA/DSC_0941Corr+1288127318.jpg,1.488,Mooreonuphis nebulosa
+Mooreonuphis stigmatis,807537,Mooreonuphis stigmatis,species,Animalia,299346,Mooreonuphis,10,BHAK/dHAKB-01798a+1620252080.jpg,1.61,Mooreonuphis stigmatis
+Mopalia,4640,Mopalia,genus,Animalia,348865,Mopaliinae,515,RBCMI/IMG_0933+1396640204.JPG,1.499,Mopalia
+Munida quadrispina,8462,Munida quadrispina,species,Animalia,5552,Munida,27,DQCS/JLKS-001_009+1213293060.JPG,1.499,Munida quadrispina
+Munna,175077,Munna,genus,Animalia,122887,Munnidae,83,HABFA/ZMBN_132532_l+1573758158.jpg,1.333,Munna
+Munnopsurus,164156,Munnopsurus,genus,Animalia,88696,Munnopsidae,36,NOISO/ZMBN_98326+1425118730.jpg,1.296,NA
+Arcuatula senhousia,799824,Arcuatula senhousia,species,Animalia,752193,Arcuatula,43,DISA/6171_img_065+1486514480.jpg,1.499,Arcuatula senhousia
+Musculus,175657,Musculus,genus,Animalia,950294,Musculinae,136,SWEMA/GNM7460_112MollOvr7990V+1416511074.JPG,1.499,Musculus
+Mya arenaria,30912,Mya arenaria,species,Animalia,2363,Mya,272,MMMOL/11MMMOL-00047+1335380694.jpg,1.333,Mya arenaria
+Myrianida,153152,Myrianida,genus,Animalia,214511,Autolytinae,99,HABFA/ZMBN_130395_live_[3]+1594145516.jpg,1.495,Myrianida
+Myrianida pachycera,506669,Myrianida pachycera,species,Animalia,153152,Myrianida,3,NA,NA,NA
+Myriochele,210794,Myriochele,genus,Animalia,29433,Oweniidae,45,MIWAP/ZMBN_107461+1455906306.jpg,1.5,Myriochele
+Myriochele olgae,700415,Myriochele olgae,species,Animalia,210794,Myriochele,4,POLNB/ZMBN_98284+1424895566.JPG,1.499,Myriochele olgae
+Myriotrochus,217630,Myriotrochus,genus,Animalia,217629,Myriotrochidae,45,ECHNO/ZMBN_120551+1515703008.JPG,1.499,Myriotrochus
+Mysella,600736,Mysella,genus,Animalia,893967,Montacutinae,25,SWEMA/GNM7460_28MollOvr7997V+1413997660.JPG,1.499,Mysella
+Mysidopsis,50826,Mysidopsis,genus,Animalia,1718,Mysidae,27,CUMNB/UMBergen_NB_mysi03+1393868354.jpg,1.331,NA
+Mystides,599997,Mystides,genus,Animalia,214498,Eteoninae,35,CRYNO/MAREANO_13_028+1395844764.jpg,1.333,NA
+Mytilus,2434,Mytilus,genus,Animalia,79145,Mytilinae,4726,CCMLS/IMG_3004+1212595762.JPG,1.499,Mytilus
+Myxicola,160010,Myxicola,genus,Animalia,30549,Sabellidae,59,NBPOL/Huntsman_08_228+1218408316.JPG,1.499,Myxicola
+Myxoderma platyacanthum,30113,Myxoderma platyacanthum,species,Animalia,30112,Myxoderma,4,LACSA/DNA_trawl_invert_Myxoderma_platyacanthum_T4-305_plate_2_cell_B6+1258140504.jpg,1.333,Myxoderma platyacanthum
+Naineris,193063,Naineris,genus,Animalia,29417,Orbiniidae,197,KBPOL/11bioak-1071+1308233304.jpg,1.502,Naineris
+Naineris dendritica,205762,Naineris dendritica,species,Animalia,193063,Naineris,42,KBPOL/11BIOAK-1064+1305604410.JPG,1.485,Naineris dendritica
+Naineris grubei,923588,Naineris grubei,species,Animalia,193063,Naineris,1,NA,NA,NA
+Naineris quadricuspida,258924,Naineris quadricuspida,species,Animalia,193063,Naineris,41,KBPOL/11bioak-1071+1308233304.jpg,1.502,Naineris quadricuspida
+Naineris uncinata,807531,Naineris uncinata,species,Animalia,193063,Naineris,19,BHAK/dHAKB-01810a+1620252098.jpg,1.267,Naineris uncinata
+Nassarius,6418,Nassarius,genus,Animalia,276839,Nassariinae,1405,MIWAM/ZMBN_92206_2+1379076502.jpg,1.509,Nassarius
+Nassarius tiarula,980685,Nassarius tiarula,species,Animalia,6418,Nassarius,13,NA,NA,Nassarius tiarula
+Neaeromya compressa,1132739,Neaeromya compressa,species,Animalia,955918,Neaeromya,1,LHABC/BIOUG48552_D06.1+1637094203.jpg,1.502,Neaeromya compressa
+Neaeromya rugifera,1206943,Neaeromya rugifera,species,Animalia,955918,Neaeromya,1,BHAK/11_06069a+1669421632.jpg,1.153,Neaeromya rugifera
+Neanthes,33309,Neanthes,genus,Animalia,30439,Nereididae,308,POLV/ECOSUR-OH-0945+1452281980.JPG,1.499,NA
+Neanthes acuminata,652443,Neanthes acuminata,species,Animalia,33309,Neanthes,71,NA,NA,NA
+Neastacilla californica,1075811,Neastacilla californica,species,Animalia,1075810,Neastacilla,2,NA,NA,NA
+Nebalia,303329,Nebalia,genus,Animalia,1706,Nebaliidae,182,DECNB/ZMBN_108056+1499276242.jpg,1.5,Nebalia
+Nebalia hessleri,303355,Nebalia hessleri,species,Animalia,303329,Nebalia,8,NA,NA,NA
+Nebalia pugettensis,736346,Nebalia pugettensis,species,Animalia,303329,Nebalia,5,NA,NA,Nebalia pugettensis
+Neilonella,987906,Neilonella,genus,Animalia,532560,Neilonellidae,4,NA,NA,NA
+Nellobia eusoma,293175,Nellobia eusoma,species,Animalia,293174,Nellobia,2,LACSA/DNA_trawl_invert_Nellobia_eusoma_T5-305_plate_2_cell_B2Crop+1285101912.jpg,1.333,Nellobia eusoma
+Neocrangon resima,293146,Neocrangon resima,species,Animalia,293137,Neocrangon,4,LACSA/DNA_trawl_invert_Neocrangon_zacae_T5-137_plate_1_cell_B12Lighter+1285012678.jpg,1.333,Neocrangon resima
+Neodexiospira brasiliensis,591209,Neodexiospira brasiliensis,species,Animalia,591208,Neodexiospira,11,ARSPR/BIOUG03788-D02+1390408530.jpg,1.34,Neodexiospira brasiliensis
+Neosabellaria cementarium,807527,Neosabellaria cementarium,species,Animalia,807526,Neosabellaria,23,WIZFB/LFHL26_nectochaete_of_Neosabellaria_cementarium+1653664010.jpg,0.92,Neosabellaria cementarium
+Simnia avena,795975,Simnia avena,species,Animalia,6381,Simnia,11,NA,NA,NA
+Neotrypaea,322840,Neotrypaea,genus,Animalia,322835,Callianassinae,736,CAISN/BIOUG01717-F01+1345061612.jpg,1.333,NA
+Neotrypaea californiensis,595485,Neotrypaea californiensis,species,Animalia,322840,Neotrypaea,728,CAISN/BIOUG01717-F01+1345061612.jpg,1.333,Neotrypaea californiensis
+Neotrypaea gigas,955684,Neotrypaea gigas,species,Animalia,322840,Neotrypaea,7,BBPS/dFHL_11017a+1585258988.jpg,2.162,Neotrypaea gigas
+Nephasoma,79164,Nephasoma,genus,Animalia,79163,Golfingiidae,80,NBAAV/78+1405523410.jpg,1.333,Nephasoma
+Nephasoma diaphanes,106567,Nephasoma diaphanes,species,Animalia,79164,Nephasoma,19,BBPS/dFHL_12567a+1585348500.jpg,1.803,Nephasoma diaphanes
+Nephasoma pellucidum,106565,Nephasoma pellucidum,species,Animalia,79164,Nephasoma,4,NA,NA,NA
+Nephtys,122715,Nephtys,genus,Animalia,122714,Nephtyidae,825,HZPLY/BIOUG06397-A09-2+1372283840.jpg,1.425,Nephtys
+Nephtys caecoides,205778,Nephtys caecoides,species,Animalia,122715,Nephtys,51,BHAK/An_Nephtys_caecoides_BHAK-0018dHAK_00259+1602546740.JPG,1.513,Nephtys caecoides
+Nephtys ferruginea,370460,Nephtys ferruginea,species,Animalia,122715,Nephtys,64,BHAK/dHAKB-01399a+1598038282.jpg,1.52,Nephtys ferruginea
+Nephtys punctata,190378,Nephtys punctata,species,Animalia,122715,Nephtys,2,NA,NA,Nephtys punctata
+Nereiphylla,205814,Nereiphylla,genus,Animalia,29430,Phyllodocidae,79,BCPOL/BAMPOL0355+1217265972.JPG,1.333,Nereiphylla
+Nereis,160009,Nereis,genus,Animalia,214496,Nereidinae,707,ARCMI/BIOUG14663-E09+1416619680.JPG,1.499,Nereis
+Nereis latescens,955917,Nereis latescens,species,Animalia,160009,Nereis,3,POIMB/dOIMB_01626a+1572003480.jpg,2.807,Nereis latescens
+Nereis pelagica,177411,Nereis pelagica,species,Animalia,160009,Nereis,60,POLNB/UMBergen_NB_polych34+1378474758.jpg,1.499,Nereis pelagica
+Neverita,151919,Neverita,genus,Animalia,346033,Polinicinae,47,AKMOL/11BIOAK-0492+1320077944.JPG,1.499,NA
+Neverita lewisii,593199,Neverita lewisii,species,Animalia,151919,Neverita,11,AKMOL/11BIOAK-0492+1320077944.JPG,1.499,Neverita lewisii
+Nicippe tumida,370413,Nicippe tumida,species,Animalia,370412,Nicippe,8,CMBIA/00134Nicippe_tumidaVRRWScale+1321990444.jpg,1.333,Nicippe tumida
+Nicolea,256927,Nicolea,genus,Animalia,100790,Terebellinae,96,WSPO/ws0011+1259866942.JPG,1.333,Nicolea
+Nicomache,266407,Nicomache,genus,Animalia,266406,Nicomachinae,141,POLNB/ZMBN_98219_4+1424895450.JPG,1.499,NA
+Nicomache lumbricalis,516092,Nicomache lumbricalis,species,Animalia,266407,Nicomache,29,LABBI/IMG_0367+1243006552.JPG,1.499,Nicomache lumbricalis
+Nicomache personata,544199,Nicomache personata,species,Animalia,266407,Nicomache,16,HZPLY/BIOUG06837-F11+1428017460.jpg,1.339,Nicomache personata
+Ninoe,82853,Ninoe,genus,Animalia,82852,Lumbrineridae,95,NBPOL/HP_0296+1221834416.JPG,1.499,Ninoe
+Ninoe palmata,535666,Ninoe palmata,species,Animalia,82853,Ninoe,12,HZPLY/BIOUG06397-E04+1372347316.jpg,1.19,Ninoe palmata
+Ninoe tridentata,370463,Ninoe tridentata,species,Animalia,82853,Ninoe,3,CMBIA/00246Ninoe_tridentataLateralVRR+1323113904.jpg,1.333,Ninoe tridentata
+Notomastus,122707,Notomastus,genus,Animalia,122706,Capitellidae,177,HZPLY/BIOUG03550-a08b+1351633090.jpg,1.333,Notomastus
+Notomastus hemipodus,854052,Notomastus hemipodus,species,Animalia,122707,Notomastus,7,BBPS/dFHL_11283a+1585275132.jpg,1.852,Notomastus hemipodus
+Notomastus latericeus,415334,Notomastus latericeus,species,Animalia,122707,Notomastus,69,HZPLY/BIOUG03550-a08b+1351633090.jpg,1.333,Notomastus latericeus
+Notomastus lineatus,1263368,Notomastus lineatus,species,Animalia,122707,Notomastus,1,NA,NA,Notomastus lineatus
+Notomastus tenuis,942367,Notomastus tenuis,species,Animalia,122707,Notomastus,5,NA,NA,NA
+Notopoma,348717,Notopoma,genus,Animalia,455773,Ischyrocerinae,2,NA,NA,NA
+Nucula carlottensis,600743,Nucula carlottensis,species,Animalia,2066,Nucula,2,RBCMI/IMG_0536+1396623136.JPG,1.365,Nucula carlottensis
+Nuculana,2050,Nuculana,genus,Animalia,449236,Nuculaninae,170,BEAUF/beau2011-174+1325600938.jpg,1.333,Nuculana
+Nuculana hamata,600748,Nuculana hamata,species,Animalia,2050,Nuculana,18,RBCMI/IMG_0548+1396623758.JPG,1.382,Nuculana hamata
+Nutricola,80261,Nutricola,genus,Animalia,680,Veneridae,49,BHAK/dHAK_01833+1501117994.jpg,1.509,Nutricola
+Nutricola lordi,600764,Nutricola lordi,species,Animalia,80261,Nutricola,6,RBCMI/IMG_0639+1396632272.JPG,1.471,Nutricola lordi
+Nutricola tantilla,80262,Nutricola tantilla,species,Animalia,80261,Nutricola,12,BHAK/dHAK_01833+1501117994.jpg,1.509,Nutricola tantilla
+Nymphon pixellae,236579,Nymphon pixellae,species,Animalia,80510,Nymphon,7,FHL/BMBM-0824+1522880306.JPG,1.09,Nymphon pixellae
+Obelia,27176,Obelia,genus,Animalia,27175,Campanulariidae,418,CAISN/BIOUG01747-G09+1345402730.jpg,1.333,Obelia
+Obelia geniculata,27177,Obelia geniculata,species,Animalia,27176,Obelia,92,CCSMA/IMG_6964+1229005550.JPG,1.499,Obelia geniculata
+Ocinebrina,344000,Ocinebrina,genus,Animalia,269860,Ocenebrinae,410,BCMOL/10BCMOL-00304B+1335233748.JPG,1.383,Ocinebrina
+Octobranchus,156143,Octobranchus,genus,Animalia,83176,Trichobranchidae,102,POLNB/ZMBN_95724+1402938172.jpg,1.333,NA
+Octopus,4430,Octopus,genus,Animalia,502,Octopodidae,1847,MXQCS/IMG_5240+1227541294.JPG,1.499,Octopus
+Odontosyllis,153147,Odontosyllis,genus,Animalia,214480,Eusyllinae,121,POLNB/_93A6517+1431102672.jpg,1.499,NA
+Odontosyllis phosphorea,205823,Odontosyllis phosphorea,species,Animalia,153147,Odontosyllis,31,BCPOL/BAMPOL0352+1217262370.JPG,1.333,Odontosyllis phosphorea
+Odostomia,502832,Odostomia,genus,Animalia,81653,Pyramidellidae,120,RBCMI/BIOUG12670-H04+1401812160.jpg,1.333,Odostomia
+Oenopota,181438,Oenopota,genus,Animalia,532445,Mangeliidae,104,NNMX/IMG_6732+1228498766.JPG,1.499,Oenopota
+Oerstedia dorsalis,27101,Oerstedia dorsalis,species,Animalia,25909,Oerstedia,100,NORGE/1148+1370123064.jpg,1.123,Oerstedia dorsalis
+Ogyrides,322759,Ogyrides,genus,Animalia,322758,Ogyrididae,7,NA,NA,NA
+Olea hansineensis,808601,Olea hansineensis,species,Animalia,808600,Olea,2,FHL/BMBM-0955+1522880308.JPG,1.76,Olea hansineensis
+Onuphis,170532,Onuphis,genus,Animalia,214468,Onuphinae,81,HZPLY/BIOUG06836-H08-2+1375962450.jpg,1.275,Onuphis
+Onuphis elegans,170533,Onuphis elegans,species,Animalia,170532,Onuphis,14,BHAK/An_Onuphis_elegans_BHAK-3076dHAK_07275+1602546742.JPG,1.414,Onuphis elegans
+Onuphis iridescens,214485,Onuphis iridescens,species,Animalia,170532,Onuphis,19,BHAK/dHAKB-01634a+1598295470.jpg,1.504,Onuphis iridescens
+Opalia funiculata,996393,Opalia funiculata,species,Animalia,524833,Opalia,3,NA,NA,Opalia funiculata
+Ophelia limacina,256917,Ophelia limacina,species,Animalia,171869,Ophelia,20,SKAG/NTNU-VM-TB538+1340077176.jpg,1.333,Ophelia limacina
+Ophelina,164301,Ophelina,genus,Animalia,210796,Ophelininae,374,POLNO/NTNU-VM-TB573+1340078960.jpg,1.333,Ophelina
+Ophelina acuminata,195119,Ophelina acuminata,species,Animalia,164301,Ophelina,51,POLNO/NTNU-VM-TB594+1340080318.jpg,1.333,Ophelina acuminata
+Ophiacantha,99923,Ophiacantha,genus,Animalia,99922,Ophiacanthidae,2186,OPHNB/UMBergen_NB_ophiu75_2+1389722092.jpg,1.499,Ophiacantha
+Ophiactis simplex,164841,Ophiactis simplex,species,Animalia,84448,Ophiactis,51,ARIR/11450+1532472332.jpg,1.499,Ophiactis simplex
+Ophiodermella,722679,Ophiodermella,genus,Animalia,344167,Borsoniidae,3,RBCMI/DSC_1703+1443640119.JPG,1.499,NA
+Ophiodermella inermis,722680,Ophiodermella inermis,species,Animalia,722679,Ophiodermella,2,RBCMI/DSC_1703+1443640119.JPG,1.499,Ophiodermella inermis
+Ophionereis annulata,219914,Ophionereis annulata,species,Animalia,27579,Ophionereis,18,NA,NA,NA
+Ophionereis eurybrachiplax,219920,Ophionereis eurybrachiplax,species,Animalia,27579,Ophionereis,3,ECHCA/CCDB-25432_F05+1527507482.jpg,1.4,Ophionereis eurybrachiplax
+Ophiopteris papillosa,160334,Ophiopteris papillosa,species,Animalia,160333,Ophiopteris,23,CNOI/CNO_KFM-106+1260149094.jpg,0.632,Ophiopteris papillosa
+Ophioscolex corynetes,140253,Ophioscolex corynetes,species,Animalia,125337,Ophioscolex,4,DSPEC/IMG_0933+1220464294.JPG,1.079,Ophioscolex corynetes
+Ophiosphalma jolliense,220379,Ophiosphalma jolliense,species,Animalia,220374,Ophiosphalma,7,DSPEC/IMG_1047+1221261428.JPG,1.298,Ophiosphalma jolliense
+Ophiura,28797,Ophiura,genus,Animalia,193669,Ophiurinae,1091,OPHNB/UMBergen_NB_ophiu80_2+1389722258.jpg,1.499,Ophiura
+Ophiura luetkenii,220448,Ophiura luetkenii,species,Animalia,28797,Ophiura,43,DSPEC/IMG_0567+1225373788.JPG,1.164,Ophiura luetkenii
+Ophiura sarsii,220470,Ophiura sarsii,species,Animalia,28797,Ophiura,254,LABBI/IMG_0470+1243005462.JPG,1.499,Ophiura sarsii
+Ophryotrocha,80791,Ophryotrocha,genus,Animalia,79663,Dorvilleidae,340,TODAH/ZMBN_104821+1442341916.jpg,1.333,Ophryotrocha
+Opisa tridentata,499244,Opisa tridentata,species,Animalia,499243,Opisa,2,CMBIA/00617Opisa_tridentataVRRHiResWScale+1351801152.jpg,1.333,Opisa tridentata
+Opisthodonta,506782,Opisthodonta,genus,Animalia,125418,Syllidae,3,NA,NA,NA
+Orbinia johnsoni,606438,Orbinia johnsoni,species,Animalia,79727,Orbinia,10,NA,NA,NA
+Orchestia,5323,Orchestia,genus,Animalia,1601,Talitridae,601,WWAMP/TALOS02-16+1232985596.jpg,1.317,Orchestia
+Orchomene,123295,Orchomene,genus,Animalia,890290,Tryphosidae,45,WWAMP/BSM09T35-01+1248975148.JPG,1.333,Orchomene
+Orchomenella,111726,Orchomenella,genus,Animalia,890290,Tryphosidae,182,WWGSL/BSM07T6-09+1223925452.jpg,1.317,Orchomenella
+Orchomenella decipiens,981323,Orchomenella decipiens,species,Animalia,111726,Orchomenella,3,NA,NA,NA
+Orchomenella pinguis,111728,Orchomenella pinguis,species,Animalia,111726,Orchomenella,13,WWGSL/BSM07T6-09+1223925452.jpg,1.317,Orchomenella pinguis
+Orthopagurus minimus,803354,Orthopagurus minimus,species,Animalia,323062,Orthopagurus,2,BHAK/dHAK_07204a+1518113814.jpg,1.461,Orthopagurus minimus
+Ostrea,2016,Ostrea,genus,Animalia,950296,Ostreinae,428,CBMB/IMG_2546+1268311882.JPG,1.333,NA
+Ostrea lurida,600784,Ostrea lurida,species,Animalia,2016,Ostrea,61,RBCMI/IMG_7953+1396617762.JPG,1.432,Ostrea lurida
+Owenia collaris,807891,Owenia collaris,species,Animalia,29434,Owenia,25,BHAK/An_Owenia_collaris_BHAK-0958dHAK_02840+1602546742.JPG,1.502,Owenia collaris
+Owenia johnsoni,955710,Owenia johnsoni,species,Animalia,29434,Owenia,7,LHABC/CCDB31230_B03.4+1633570560.JPG,1.499,Owenia johnsoni
+Oxydromus pugettensis,715072,Oxydromus pugettensis,species,Animalia,529982,Oxydromus,61,BCPOL/BAMPOL0074+1217344308.JPG,1.499,Oxydromus pugettensis
+Pachycerianthus,526161,Pachycerianthus,genus,Animalia,81183,Cerianthidae,67,KHMS/IMG_8558+1390235256.JPG,1.495,NA
+Pachygrapsus crassipes,576218,Pachygrapsus crassipes,species,Animalia,84097,Pachygrapsus,189,ZPC/bioug01207-f12+1386171658.jpg,1.333,Pachygrapsus crassipes
+Pachynus barnardi,499223,Pachynus barnardi,species,Animalia,499222,Pachynus,3,LHABC/CCDB31224_E11.3+1632761929.JPG,1.499,Pachynus barnardi
+Pachythyone rubra,899942,Pachythyone rubra,species,Animalia,899941,Pachythyone,1,NA,NA,NA
+Pacifacanthomysis nephrophthalma,981066,Pacifacanthomysis nephrophthalma,species,Animalia,981065,Pacifacanthomysis,4,BHAK/dHAKB_01191a+1582145257.jpg,2.166,Pacifacanthomysis nephrophthalma
+Paguristes,5640,Paguristes,genus,Animalia,69691,Diogenidae,207,SEAKY/MBA066247+1441829916.jpg,1.509,Paguristes
+Paguristes turgidus,8377,Paguristes turgidus,species,Animalia,5640,Paguristes,17,DFO/P6055337+1307293932.JPG,1.333,Paguristes turgidus
+Paguristes ulreyi,1075822,Paguristes ulreyi,species,Animalia,5640,Paguristes,2,NA,NA,NA
+Pagurus,4927,Pagurus,genus,Animalia,1496,Paguridae,1795,BIM/DS_26_4_hermit_crab+1375623272.jpg,1.778,Pagurus
+Pagurus beringanus,395175,Pagurus beringanus,species,Animalia,4927,Pagurus,28,DFO/P6185840+1308426690.JPG,1.333,Pagurus beringanus
+Pagurus hartae,803346,Pagurus hartae,species,Animalia,4927,Pagurus,13,NJCGS/IMG_7452+1297964700.jpg,1.499,Pagurus hartae
+Pagurus quaylei,981679,Pagurus quaylei,species,Animalia,4927,Pagurus,1,BHAK/dHAK_06611a+1518031070.jpg,1.954,Pagurus quaylei
+Palaemon macrodactylus,500011,Palaemon macrodactylus,species,Animalia,5525,Palaemon,149,BNSDE/MT08136+1390415500.JPG,1.333,Palaemon macrodactylus
+Palaemonella holmesi,944150,Palaemonella holmesi,species,Animalia,276334,Palaemonella,2,NA,NA,NA
+Paleanotus bellis,786506,Paleanotus bellis,species,Animalia,211804,Paleanotus,15,BCPOL/bp2010-002+1283890258.jpg,1.333,Paleanotus bellis
+Pandora bilirata,600776,Pandora bilirata,species,Animalia,277774,Pandora,17,BHAK/M_Pandora_bilirata_545129BHAK-6748dHAKB_00435+1602546714.JPG,1.809,Pandora bilirata
+Pandora filosa,996397,Pandora filosa,species,Animalia,277774,Pandora,2,NA,NA,Pandora filosa
+Pannychia moseleyi,140291,Pannychia moseleyi,species,Animalia,140290,Pannychia,78,DSPEC/IMG_1310+1221400352.JPG,1.486,Pannychia moseleyi
+Panopea generosa,652946,Panopea generosa,species,Animalia,208524,Panopea,8,NA,NA,NA
+Paracaprella,306777,Paracaprella,genus,Animalia,263338,Caprellinae,422,VAFIV/WCH_0726_0278_C_ARMS4_10ml1+1400095174.jpg,1,NA
+Paracaudina chilensis,223148,Paracaudina chilensis,species,Animalia,223146,Paracaudina,8,POIMB/dOIMB_03084a+1569436908.jpg,2.045,Paracaudina chilensis
+Paracerceis,752218,Paracerceis,genus,Animalia,1630,Sphaeromatidae,65,ARIQ/specimen3316+1501105047.jpg,1.333,Paracerceis
+Paracerceis sculpta,891497,Paracerceis sculpta,species,Animalia,752218,Paracerceis,35,NA,NA,NA
+Paracyathus stearnsii,265669,Paracyathus stearnsii,species,Animalia,265668,Paracyathus,18,LACSA/DNA_trawl_invert_Paracyathus_stearnsii_T0-61_plate_1_cell_F7Lighter+1285617392.jpg,1.333,Paracyathus stearnsii
+Paradialychone bimaculata,955728,Paradialychone bimaculata,species,Animalia,807885,Paradialychone,1,BBPS/dFHL_13162a+1585356648.jpg,1.155,Paradialychone bimaculata
+Paradialychone ecaudata,807886,Paradialychone ecaudata,species,Animalia,807885,Paradialychone,31,BHAK/An_Paradialychone_ecaudata_8566BHAK-6836dHAKB_01178+1602546714.JPG,1.751,Paradialychone ecaudata
+Paradiopatra,300518,Paradiopatra,genus,Animalia,79669,Onuphidae,47,MIWAP/UMBergen_MBOWA_onup95+1365705008.jpg,1.331,NA
+Paradiopatra parva,370466,Paradiopatra parva,species,Animalia,300518,Paradiopatra,10,CMBIA/00254Paradiopatra_parvaDorsalVRR+1323113918.jpg,1.333,Paradiopatra parva
+Paradoneis,378442,Paradoneis,genus,Animalia,122725,Paraonidae,51,NBAAV/ZMBN_126864_1+1562359028.jpg,1.333,Paradoneis
+Paradoneis lyra,378443,Paradoneis lyra,species,Animalia,378442,Paradoneis,11,DEEP/PGC00056+1305904558.jpg,1.333,Paradoneis lyra
+Paralamprops,1203637,Paralamprops,genus,Animalia,1689,Lampropidae,1,NA,NA,Paralamprops
+Parametaphoxus,1132761,Parametaphoxus,genus,Animalia,499251,Phoxocephalinae,4,LHABC/CCDB31224_C10.3+1632339718.JPG,1.499,NA
+Paramunna,175109,Paramunna,genus,Animalia,122887,Munnidae,7,NOISO/ZMBN_120444+1505760368.jpg,1.333,NA
+Paranaitis,212282,Paranaitis,genus,Animalia,29430,Phyllodocidae,55,POLNB/ZMBN_104761+1431111978.jpg,1.499,Paranaitis
+Paranaitis polynoides,511734,Paranaitis polynoides,species,Animalia,212282,Paranaitis,1,CMBIA/00665TPP1Paranaitis_polynoidesDorsalClose-upVRR+1358190394.jpg,1.333,Paranaitis polynoides
+Paranemertes,25901,Paranemertes,genus,Animalia,1808,Emplectonematidae,180,OPQCS/bn2010-033+1289217538.jpg,1.333,NA
+Paranemertes peregrina,25904,Paranemertes peregrina,species,Animalia,25901,Paranemertes,112,OPQCS/bn2010-033+1289217538.jpg,1.333,Paranemertes peregrina
+Paranthura elegans,595486,Paranthura elegans,species,Animalia,195711,Paranthura,1,NA,NA,Paranthura elegans
+Paranthura japonica,558574,Paranthura japonica,species,Animalia,195711,Paranthura,4,NA,NA,NA
+Paraonides,889975,Paraonides,genus,Animalia,122725,Paraonidae,45,BHAK/BHAK2705_Paraonides_platybranchia_[2]+1527875598.JPG,1.499,NA
+Paraonides platybranchia,889976,Paraonides platybranchia,species,Animalia,889975,Paraonides,1,BHAK/BHAK2705_Paraonides_platybranchia_[2]+1527875598.JPG,1.499,Paraonides platybranchia
+Paraphoxus,512590,Paraphoxus,genus,Animalia,370395,Brolginae,11,AMPNB/UMBergen_NB_amp61+1359559760.JPG,1.499,NA
+Paraprionospio alata,370470,Paraprionospio alata,species,Animalia,370469,Paraprionospio,53,CMBIA/00261Paraprionospio_alataLateralVentralDorsalVRR+1323113934.jpg,1.333,Paraprionospio alata
+Parasabella,501445,Parasabella,genus,Animalia,100787,Sabellinae,43,FLFIV/FTP_0612_0622_C_ARMS1_10ml1+1400266028.jpg,1,Parasabella
+Paraxanthias taylori,668050,Paraxanthias taylori,species,Animalia,276254,Paraxanthias,10,DISA/7781_2018_03_05_14_13_30_[C]+1520277216.jpg,1.499,Paraxanthias taylori
+Pardalisca tenuipes,512595,Pardalisca tenuipes,species,Animalia,154892,Pardalisca,11,AMPNB/UMBergen_NB_amp64+1359559760.JPG,1.495,Pardalisca tenuipes
+Pardaliscella,706977,Pardaliscella,genus,Animalia,154891,Pardaliscidae,2,AMPNB/ZMBN_104518+1430846760.jpg,1.333,NA
+Pareurythoe californica,1075825,Pareurythoe californica,species,Animalia,378420,Pareurythoe,3,NA,NA,NA
+Parexogone,729488,Parexogone,genus,Animalia,125418,Syllidae,18,POLNB/ZMBN_125405+1543257406.JPG,1.333,NA
+Parougia caeca,1132745,Parougia caeca,species,Animalia,506639,Parougia,1,LHABC/BIOUG48554_A08.1+1640367434.jpg,1.502,Parougia caeca
+Parvilucina tenuisculpta,293145,Parvilucina tenuisculpta,species,Animalia,293144,Parvilucina,56,LACSA/DNA_trawl_invert_Parvilucina_tenuisculpta_T4-137_plate_1_cell_C6Lighter+1285617722.jpg,1.333,Parvilucina tenuisculpta
+Peachia quinquecapitata,808194,Peachia quinquecapitata,species,Animalia,592478,Peachia,6,POIMB/dOIMB_03497a+1569843380.jpg,1.047,Peachia quinquecapitata
+Pectinaria californiensis,299357,Pectinaria californiensis,species,Animalia,79899,Pectinaria,19,CMBIA/DSC_1053Corr+1288127344.jpg,2.53,Pectinaria californiensis
+Pennatula phosphorea,381305,Pennatula phosphorea,species,Animalia,381304,Pennatula,15,SWEMA/GNM7464_53Anthozoa1254V+1440704522.JPG,1.499,Pennatula phosphorea
+Pentamera,33445,Pentamera,genus,Animalia,33444,Phyllophoridae,179,ECNN/IMG_7441+1335797018.JPG,1.499,Pentamera
+Pentamera lissoplaca,33446,Pentamera lissoplaca,species,Animalia,33445,Pentamera,4,NA,NA,Pentamera lissoplaca
+Pentamera pediparva,297413,Pentamera pediparva,species,Animalia,33445,Pentamera,6,BHAK/dHAKB_00443a+1580174932.jpg,1.333,Pentamera pediparva
+Pentamera populifera,981353,Pentamera populifera,species,Animalia,33445,Pentamera,5,NA,NA,Pentamera populifera
+Pentamera pseudocalcigera,160328,Pentamera pseudocalcigera,species,Animalia,33445,Pentamera,21,LACSA/DNA_trawl_invert_Pentamera_pseudocalcigera_T0-305_plate_1_cell_G12Lighter+1285690278.jpg,1.333,Pentamera pseudocalcigera
+Pentamera rigida,653112,Pentamera rigida,species,Animalia,33445,Pentamera,3,NA,NA,NA
+Peramphithoe,314179,Peramphithoe,genus,Animalia,527077,Ampithoinae,22,NJCGS/10biobc-0857+1291908658.jpg,1.328,NA
+Sunamphitoe lindbergi,955920,Sunamphitoe lindbergi,species,Animalia,753824,Sunamphitoe,2,NA,NA,NA
+Periploma,1265065,Periploma,genus,Animalia,532726,Periplomatidae,1,NA,NA,NA
+Perkinsiana,187357,Perkinsiana,genus,Animalia,30549,Sabellidae,11,POLNB/ZMBN_98515+1421961518.JPG,1.502,Perkinsiana
+Perophora,3021,Perophora,genus,Animalia,1215,Perophoridae,87,POIMB/dOIMB_00694a+1565358714.jpg,1.41,Perophora
+Perophora annectens,908862,Perophora annectens,species,Animalia,3021,Perophora,8,POIMB/dOIMB_00694a+1565358714.jpg,1.41,Perophora annectens
+Petaloclymene pacifica,370472,Petaloclymene pacifica,species,Animalia,370471,Petaloclymene,9,CMBIA/00269Petaloclymene_pacificaLateralVRR+1323113946.jpg,1.333,Petaloclymene pacifica
+Petaloproctus neoborealis,1075827,Petaloproctus neoborealis,species,Animalia,516083,Petaloproctus,1,NA,NA,NA
+Petalosarsia,514431,Petalosarsia,genus,Animalia,1683,Pseudocumatidae,4,CUMNB/UMBergen_NB_cuma121+1357225282.jpg,1.331,NA
+Petricola,81832,Petricola,genus,Animalia,888916,Petricolinae,22,NA,NA,NA
+Petricola carditoides,799823,Petricola carditoides,species,Animalia,81832,Petricola,4,POIMB/dOIMB_01677a+1568746894.jpg,1.525,Petricola carditoides
+Petrolisthes cinctipes,8488,Petrolisthes cinctipes,species,Animalia,5535,Petrolisthes,28,NJCGS/IMG_7528+1297964928.jpg,1.499,Petrolisthes cinctipes
+Phascolion,81292,Phascolion,genus,Animalia,81291,Phascolionidae,41,CMBIA/DSC_1229Corr+1288127408.jpg,1.902,Phascolion
+Phascolosoma,81289,Phascolosoma,genus,Animalia,79158,Phascolosomatidae,276,YARRA/15]+1382455060.jpg,0.619,Phascolosoma
+Pherusa,195124,Pherusa,genus,Animalia,125434,Flabelligeridae,90,NBPOL/HP_409+1221057948.JPG,1.468,Pherusa
+Pherusa neopapillata,370473,Pherusa neopapillata,species,Animalia,195124,Pherusa,2,CMBIA/00271Pherusa_neopapillataLateralVRR+1323113950.jpg,1.333,Pherusa neopapillata
+Pherusa papillata,744805,Pherusa papillata,species,Animalia,195124,Pherusa,11,BHAK/dHAK_05717+1501858242.JPG,1.509,Pherusa papillata
+Philine,152290,Philine,genus,Animalia,152289,Philinidae,254,MIWAM/ZMBN_92424+1379079498.jpg,1.509,Philine
+Philine auriformis,293135,Philine auriformis,species,Animalia,152290,Philine,43,LACSA/DNA_trawl_invert_Philine_auriformis_T0-137_plate_1_cell_F10Crop+1286827594.jpg,1.333,Philine auriformis
+Yokoyamaia ornatissima,999446,Yokoyamaia ornatissima,species,Animalia,545056,Yokoyamaia,1,NA,NA,NA
+Philinoglossa,990047,Philinoglossa,genus,Animalia,532747,Philinoglossidae,5,NA,NA,NA
+Philomedes,1265073,Philomedes,genus,Animalia,299400,Philomedidae,9,NA,NA,Philomedes
+Phimochirus californiensis,895662,Phimochirus californiensis,species,Animalia,323070,Phimochirus,3,DISA/7772_DISCOXXXX_2018_03_07_11_03_45_[C]+1520438630.jpg,1.499,Phimochirus californiensis
+Pholoe,190334,Pholoe,genus,Animalia,125413,Pholoidae,472,KBPOL/11bioak-1506+1308667118.jpg,1.333,Pholoe
+Pholoe glabra,190335,Pholoe glabra,species,Animalia,190334,Pholoe,10,CMBIA/00272Pholoe_glabraDorsalVRR+1323113950.jpg,1.333,Pholoe glabra
+Pholoides asperus,205769,Pholoides asperus,species,Animalia,205768,Pholoides,26,BCPOL/BAMPOL0343+1217265968.JPG,1.502,Pholoides asperus
+Phoronis,212268,Phoronis,genus,Animalia,599447,Phoronidae,44,POLNB/ZMBN_95384+1399659812.JPG,1.499,Phoronis
+Phoronopsis,212265,Phoronopsis,genus,Animalia,599447,Phoronidae,30,BBPS/dFHL_12722a+1585352636.jpg,1.871,Phoronopsis
+Photis,299404,Photis,genus,Animalia,84206,Photidae,110,CMBIA/00618Photis_laciaVRR_HiResWScale+1351801154.jpg,1.333,Photis
+Photis bifurcata,315744,Photis bifurcata,species,Animalia,299404,Photis,2,BCAMP/BCAMP258-08__BCAMP0258+1217275056.JPG,1.499,Photis bifurcata
+Photis brevipes,370414,Photis brevipes,species,Animalia,299404,Photis,16,LHABC/CCDB31224_E05.3+1632353204.JPG,1.499,Photis brevipes
+Photis lacia,499245,Photis lacia,species,Animalia,299404,Photis,5,CMBIA/00618Photis_laciaVRR_HiResWScale+1351801154.jpg,1.333,Photis lacia
+Phtisica marina,267172,Phtisica marina,species,Animalia,267171,Phtisica,93,SFAM/SFAA11-001+1308771958.jpg,1.333,Phtisica marina
+Phyllaplysia taylori,33114,Phyllaplysia taylori,species,Animalia,5922,Phyllaplysia,4,NA,NA,NA
+Phyllochaetopterus,81869,Phyllochaetopterus,genus,Animalia,24831,Chaetopteridae,88,BCPOL/BAMPOL0307+1217265956.JPG,1.502,Phyllochaetopterus
+Phyllochaetopterus prolifica,205816,Phyllochaetopterus prolifica,species,Animalia,81869,Phyllochaetopterus,25,BCPOL/BAMPOL0307+1217265956.JPG,1.502,Phyllochaetopterus prolifica
+Phyllodoce cuspidata,1206945,Phyllodoce cuspidata,species,Animalia,29431,Phyllodoce,2,BHAK/11_05991a+1669420823.jpg,1.796,Phyllodoce cuspidata
+Phyllodoce groenlandica,212285,Phyllodoce groenlandica,species,Animalia,29431,Phyllodoce,68,WSPO/ws0017+1259867402.JPG,1.333,Phyllodoce groenlandica
+Phyllodoce hartmanae,889974,Phyllodoce hartmanae,species,Animalia,29431,Phyllodoce,4,BBPS/dFHL_11989a+1585340740.jpg,1.517,Phyllodoce hartmanae
+Phyllodoce longipes,920994,Phyllodoce longipes,species,Animalia,29431,Phyllodoce,18,NA,NA,NA
+Phyllodoce medipapillata,269963,Phyllodoce medipapillata,species,Animalia,29431,Phyllodoce,46,BCPOL/BAMPOL0324+1217002302.JPG,1.584,Phyllodoce medipapillata
+Phyllodoce pettiboneae,893617,Phyllodoce pettiboneae,species,Animalia,29431,Phyllodoce,4,"DISA/6832_DISCO6832_2018_10_04_12_27_05_[B,Radius9,Smoothing4]+1538684842.jpg",1.499,Phyllodoce pettiboneae
+Phylo,29418,Phylo,genus,Animalia,29417,Orbiniidae,44,POLNB/ZMBN_95352+1396975444.JPG,1.499,NA
+Phylo felix,29419,Phylo felix,species,Animalia,29418,Phylo,4,BBPS/dFHL_14082a+1582745508.jpg,1.277,Phylo felix
+Pilargis,494713,Pilargis,genus,Animalia,494712,Pilarginae,29,SKAG/Ann251Pilargis_cf._papillata3+1346955870.JPG,0.533,NA
+Pilargis berkeleyae,785165,Pilargis berkeleyae,species,Animalia,494713,Pilargis,9,NA,NA,Pilargis berkeleyae
+Pinnixa,299388,Pinnixa,genus,Animalia,991156,Pinnixinae,63,CMBIA/IMGP7930+1280184278.jpg,1.345,Pinnixa
+Pinnixa littoralis,607495,Pinnixa littoralis,species,Animalia,299388,Pinnixa,1,NA,NA,NA
+Pinnixa occidentalis,370415,Pinnixa occidentalis,species,Animalia,299388,Pinnixa,1,NA,NA,Pinnixa occidentalis
+Pinnixa schmitti,722673,Pinnixa schmitti,species,Animalia,299388,Pinnixa,3,NA,NA,Pinnixa schmitti
+Pinnixa tomentosa,993126,Pinnixa tomentosa,species,Animalia,299388,Pinnixa,1,NA,NA,NA
+Pinnixa tubicola,722657,Pinnixa tubicola,species,Animalia,299388,Pinnixa,1,NA,NA,NA
+Piromis,299365,Piromis,genus,Animalia,125434,Flabelligeridae,2,CMBIA/DSC_1125+1288127366.jpg,2.092,NA
+Pisione,572429,Pisione,genus,Animalia,29425,Sigalionidae,22,POLNB/ZMBN_125343+1543257362.JPG,1.333,NA
+Pisione remota,572430,Pisione remota,species,Animalia,572429,Pisione,4,POLNB/ZMBN_114296_zerene+1487875496.JPG,1.333,Pisione remota
+Pista,164285,Pista,genus,Animalia,100790,Terebellinae,284,CCANN/08PROBE_0549+1219851002.JPG,1.499,Pista
+Pista brevibranchiata,299373,Pista brevibranchiata,species,Animalia,164285,Pista,17,CMBIA/DSC_1208+1288127402.jpg,1.517,Pista brevibranchiata
+Pista maculata,257182,Pista maculata,species,Animalia,164285,Pista,13,CCANN/08PROBE_0549+1219851002.JPG,1.499,Pista maculata
+Pista estevanica,370474,Pista estevanica,species,Animalia,164285,Pista,7,CMBIA/00279Pista_estevanicaVentralVRR+1323113962.jpg,1.333,Pista estevanica
+Pista wui,205820,Pista wui,species,Animalia,164285,Pista,19,BCPOL/BAMPOL0322+1217002298.JPG,1.584,Pista wui
+Plakosyllis,714375,Plakosyllis,genus,Animalia,214475,Syllinae,2,NA,NA,NA
+Platymera gaudichaudii,277610,Platymera gaudichaudii,species,Animalia,277609,Platymera,11,LACSA/DNA_trawl_invert_Platymera_gaudichaudi_T1-61_plate_1_cell_E5Corr+1287606484.jpg,1.333,Platymera gaudichaudii
+Platynereis bicanaliculata,205751,Platynereis bicanaliculata,species,Animalia,30440,Platynereis,122,BCPOL/BAMPOL0004+1217005514.JPG,1.499,Platynereis bicanaliculata
+Pleurobranchaea californica,293123,Pleurobranchaea californica,species,Animalia,149545,Pleurobranchaea,4,DISA/4047_DISCO4047_dor_2017_11_01_11_44_27_[C]+1509551110.jpg,1.499,Pleurobranchaea californica
+Pleurogonium,306781,Pleurogonium,genus,Animalia,296134,Paramunnidae,19,CAISN/BIOUG01748-H05A+1374234856.jpg,1.32,Pleurogonium
+Pleusymtes subglaber,370418,Pleusymtes subglaber,species,Animalia,370417,Pleusymtes,1,CMBIA/00138Pleusymtes_subglaberVRRWScale+1321990446.jpg,1.333,Pleusymtes subglaber
+Pliocardia stearnsii,901504,Pliocardia stearnsii,species,Animalia,756906,Pliocardia,1,NA,NA,NA
+Plumularia,390483,Plumularia,genus,Animalia,85259,Plumulariidae,134,POIMB/dOIMB_03288a+1569520316.jpg,1.149,Plumularia
+Podarkeopsis,205753,Podarkeopsis,genus,Animalia,25266,Hesionidae,20,LHABC/BIOUG48554_A10.1+1640369956.jpg,1.502,Podarkeopsis
+Podarkeopsis glabrus,385907,Podarkeopsis glabrus,species,Animalia,205753,Podarkeopsis,8,LHABC/BIOUG48554_A09.1+1640369835.jpg,1.502,Podarkeopsis glabrus
+Podarkeopsis perkinsi,1132746,Podarkeopsis perkinsi,species,Animalia,205753,Podarkeopsis,1,LHABC/BIOUG48554_A10.1+1640369956.jpg,1.502,Podarkeopsis perkinsi
+Podocerus,739796,Podocerus,genus,Animalia,142579,Podoceridae,149,ZPC/bioug01207-b02+1386096810.jpg,1.333,Podocerus
+Podocerus brasiliensis,753986,Podocerus brasiliensis,species,Animalia,739796,Podocerus,25,FLTWO/FTP_1534_5+1449516434.JPG,1.499,Podocerus brasiliensis
+Podocerus cristatus,803362,Podocerus cristatus,species,Animalia,739796,Podocerus,83,BHAK/dHAKB_01493a+1646090857.jpg,1.205,Podocerus cristatus
+Poecilochaetus,370475,Poecilochaetus,genus,Animalia,125428,Poecilochaetidae,72,MIWAP/UMBergen_MBOWA_miwa206+1395146654.JPG,1.499,Poecilochaetus
+Poecilochaetus martini,893605,Poecilochaetus martini,species,Animalia,370475,Poecilochaetus,4,"DISA/3703_DISCO3703_2018_10_04_13_19_17_[B,Radius9,Smoothing4]+1538687972.jpg",1.499,Poecilochaetus martini
+Pogonophora,316322,Pogonophora,genus,Plantae,406669,Peraceae,5,TCAFR/GD1113_DSC00594+1311121298.jpg,0.75,NA
+Polyandrocarpa zorritensis,648643,Polyandrocarpa zorritensis,species,Animalia,648642,Polyandrocarpa,49,ADMMF/TMAPAGENERAL_1+1676279287.JPG,1.5,Polyandrocarpa zorritensis
+Polycirrus,190344,Polycirrus,genus,Animalia,214477,Polycirrinae,248,KBPOL/11bioak-1384+1308592116.jpg,1.333,Polycirrus
+Polydora cornuta,104720,Polydora cornuta,species,Animalia,104719,Polydora,64,ATCPO/HMSC174_00017+1690306352.jpg,1.333,Polydora cornuta
+Polydora hoplura,920927,Polydora hoplura,species,Animalia,104719,Polydora,14,NA,NA,NA
+Polydora limicola,955685,Polydora limicola,species,Animalia,104719,Polydora,1,BBPS/dFHL_12703a+1585352200.jpg,1.499,Polydora limicola
+Polydora narica,896080,Polydora narica,species,Animalia,104719,Polydora,1,BHAK/Snap-4845+1501501504.jpg,1.325,Polydora narica
+Polydora pygidialis,896074,Polydora pygidialis,species,Animalia,104719,Polydora,15,BHAK/Snap-1786+1501177408.jpg,1.325,Polydora pygidialis
+Polydora websteri,274207,Polydora websteri,species,Animalia,104719,Polydora,99,NA,NA,Polydora websteri
+Polygireulima rutila,981359,Polygireulima rutila,species,Animalia,981358,Polygireulima,2,NA,NA,NA
+Polyophthalmus pictus,1162981,Polyophthalmus pictus,species,Animalia,535668,Polyophthalmus,1,NA,NA,NA
+Polyschides quadrifissatus,370514,Polyschides quadrifissatus,species,Animalia,2230,Polyschides,9,CMBIA/00527Polyschides_quadrifissatusLateralVRR+1326752810.jpg,1.333,Polyschides quadrifissatus
+Pontogeneia rostrata,668751,Pontogeneia rostrata,species,Animalia,111733,Pontogeneia,24,BCAMP/BCAMP009-08__BCAMP0009+1217277838.JPG,1.499,Pontogeneia rostrata
+Poromya,194228,Poromya,genus,Animalia,194227,Poromyidae,14,ICBA/ZMBN_140347+1625758622.jpg,1.333,NA
+Portunus xantusii,293152,Portunus xantusii,species,Animalia,4990,Portunus,15,LACSA/DNA_trawl_invert_Portunus_xantusii_T4-23_plate_1_cell_E8Corr+1287606806.jpg,1.333,Portunus xantusii
+Postasterope,936222,Postasterope,genus,Animalia,370409,Cylindroleberididae,1,NA,NA,NA
+Prachynella,981072,Prachynella,genus,Animalia,951546,Pakynidae,1,NA,NA,NA
+Praxillella gracilis,516099,Praxillella gracilis,species,Animalia,204059,Praxillella,27,POLNB/UMBergen_NB_mald98+1361202006.JPG,1.499,Praxillella gracilis
+Praxillura,516055,Praxillura,genus,Animalia,598025,Lumbriclymeninae,24,POLNB/ZMBN_95758+1403025030.jpg,1.5,Praxillura
+Prionospio,32476,Prionospio,genus,Animalia,32473,Spionidae,558,CCANN/09probe-08399+1254508690.JPG,1.333,Prionospio
+Prionospio multibranchiata,541649,Prionospio multibranchiata,species,Animalia,32476,Prionospio,30,QHAK/QHAK-00122_02+1603836314.jpg,1.499,Prionospio multibranchiata
+Prionospio dubia,378646,Prionospio dubia,species,Animalia,32476,Prionospio,19,POLNB/ZMBN_116129+1492790432.JPG,1.499,Prionospio dubia
+Prionospio ehlersi,660271,Prionospio ehlersi,species,Animalia,32476,Prionospio,1,NA,NA,NA
+Prionospio heterobranchia,764849,Prionospio heterobranchia,species,Animalia,32476,Prionospio,2,FLBAR/FBAR-0267+1479844392.JPG,2.088,Prionospio heterobranchia
+Prionospio jubata,370479,Prionospio jubata,species,Animalia,32476,Prionospio,26,NA,NA,Prionospio jubata
+Prionospio lighti,190330,Prionospio lighti,species,Animalia,32476,Prionospio,34,BHAK/Snap-4462+1501442114.jpg,1.325,Prionospio lighti
+Prionospio pygmaeus,1075830,Prionospio pygmaeus,species,Animalia,32476,Prionospio,1,NA,NA,NA
+Pristes,784292,Kottelatlimia pristes,species,Animalia,497834,Kottelatlimia,6,BIFGC/Kottelatlimia_pristes_UF_166981_2006-0639_IMG_7886+1506071410.JPG,1.499,Kottelatlimia pristes
+Procampylaspis,1203638,Procampylaspis,genus,Animalia,1684,Nannastacidae,2,NA,NA,Procampylaspis
+Cephalothrix major,650012,Cephalothrix major,species,Animalia,104298,Cephalothrix,4,NA,NA,NA
+Proceraea,153140,Proceraea,genus,Animalia,125418,Syllidae,81,BCPOL/bp2010-021+1283888672.jpg,1.333,Proceraea
+Proceraea okadai,506646,Proceraea okadai,species,Animalia,153140,Proceraea,5,POIMB/dOIMB_04768a+1569688002.jpg,1.435,Proceraea okadai
+Procerastea,506582,Procerastea,genus,Animalia,125418,Syllidae,2,NA,NA,NA
+Proclea,524770,Proclea,genus,Animalia,100790,Terebellinae,17,POLNB/UMBergen_NB_polych302+1391199256.jpg,1.499,Proclea
+Propebela,348878,Propebela,genus,Animalia,532445,Mangeliidae,36,DSMOL/CCDB-15498-D06v+1332513628.jpg,1.495,Propebela
+Propebela turricula,348879,Propebela turricula,species,Animalia,348878,Propebela,26,DSMOL/CCDB-15498-D06v+1332513628.jpg,1.495,Propebela turricula
+Tetrastemma albidum,152934,Tetrastemma albidum,species,Animalia,25866,Tetrastemma,1,NA,NA,NA
+Prosthiostomum,751472,Prosthiostomum,genus,Animalia,149515,Prosthiostomidae,17,NA,NA,NA
+Protocirrineris,942239,Protocirrineris,genus,Animalia,83730,Cirratulidae,2,NA,NA,NA
+Protodorvillea gracilis,205787,Protodorvillea gracilis,species,Animalia,205786,Protodorvillea,3,BCPOL/BAMPOL0189+1217258810.JPG,1.333,Protodorvillea gracilis
+Protohyale,314186,Protohyale,genus,Animalia,342176,Hyalinae,114,BCAMP/BCAMP097-08__BCAMP0097+1217278876.JPG,1.499,Protohyale
+Protohyale frequens,668750,Protohyale frequens,species,Animalia,314186,Protohyale,10,POIMB/dOIMB_01714a+1572003992.jpg,1.333,Protohyale frequens
+Protolaeospira eximia,205835,Protolaeospira eximia,species,Animalia,205834,Protolaeospira,27,BHAK/An_Protolaeospira_eximia_BHAK-1509dHAK_03502+1602546744.JPG,1.417,Protolaeospira eximia
+Protomedeia articulata,1132759,Protomedeia articulata,species,Animalia,390642,Protomedeia,1,LHABC/CCDB31224_B05.4+1631653021.JPG,1.499,Protomedeia articulata
+Protomystides,599995,Protomystides,genus,Animalia,214498,Eteoninae,51,OOBVT/R1941-END07-19_representative2_lateral1+1525877254.jpg,1.333,NA
+Psamathe,211496,Psamathe,genus,Animalia,25266,Hesionidae,19,NA,NA,NA
+Pseudarchaster pusillus,221722,Pseudarchaster pusillus,species,Animalia,32884,Pseudarchaster,1,"DISA/4004_2017_02_01_12_48_46_[B,Radius8,Smoothing4]+1485982130.jpg",1.499,Pseudarchaster pusillus
+Pseudoceros,906225,Pseudoceros,genus,Animalia,642299,Pseudocerotidae,34,NA,NA,NA
+Pseudochitinopoma occidentalis,808433,Pseudochitinopoma occidentalis,species,Animalia,808432,Pseudochitinopoma,24,BHAK/An_Pseudochitinopoma_occidentalis_BHAK-1520dHAK_03533+1602546744.JPG,1.192,Pseudochitinopoma occidentalis
+Pseudocnus,2862,Pseudocnus,genus,Animalia,905,Cucumariidae,81,MACNE/MACNINVE0021+1372975246.jpg,1.333,Pseudocnus
+Pseudomma,27769,Pseudomma,genus,Animalia,1149125,Pseudommini,52,CHOCR/IMG_9211+1305576258.JPG,1.499,NA
+Pseudopolydora kempi,751680,Pseudopolydora kempi,species,Animalia,122709,Pseudopolydora,12,HZPLY/LC20402-3+1528831290.jpg,1.461,Pseudopolydora kempi
+Pseudopolydora paucibranchiata,494715,Pseudopolydora paucibranchiata,species,Animalia,122709,Pseudopolydora,18,HZPLY/LC20401-2+1527865014.jpg,1.157,Pseudopolydora paucibranchiata
+Pseudopotamilla,180117,Pseudopotamilla,genus,Animalia,30549,Sabellidae,80,NBPOL/HP_0369+1222436806.JPG,1.495,Pseudopotamilla
+Pseudopusula californiana,803100,Pseudopusula californiana,species,Animalia,803099,Pseudopusula,1,NA,NA,Pseudopusula californiana
+Psilodens,717761,Psilodens,genus,Animalia,532383,Limifossoridae,5,NA,NA,NA
+Psolus chitonoides,33449,Psolus chitonoides,species,Animalia,33448,Psolus,13,DSPEC/IMG_0604+1224897458.JPG,1.017,Psolus chitonoides
+Psychoda,386808,Psychoda,genus,Animalia,979982,Psychodini,33110,RBINA/BIOUG08005-H09+1436799770.jpg,1.333,Psychoda
+Pterocirrus,299352,Pterocirrus,genus,Animalia,214498,Eteoninae,126,KBPOL/11bioak-1206+1308319126.jpg,1.333,NA
+Pterocirrus montereyensis,495346,Pterocirrus montereyensis,species,Animalia,299352,Pterocirrus,7,KBPOL/11bioak-1206+1308319126.jpg,1.333,Pterocirrus montereyensis
+Pteropurpura festiva,895270,Pteropurpura festiva,species,Animalia,895269,Pteropurpura,17,GASSC/BIOUG01229_G05+1482593388.jpg,1.4,Pteropurpura festiva
+Pugettia dalli,201400,Pugettia dalli,species,Animalia,72583,Pugettia,9,"DISA/3482_2017_07_06_14_13_34_[B,Radius8,Smoothing4]+1499379230.jpg",1.783,Pugettia dalli
+Puncturella,194458,Puncturella,genus,Animalia,484158,Emarginulinae,46,BCMOL/10BCMOL-00412+1335235172.JPG,1.502,NA
+Pycnopodia helianthoides,82338,Pycnopodia helianthoides,species,Animalia,82337,Pycnopodia,122,DSPEC/IMG_0738+1225413788.JPG,1.252,Pycnopodia helianthoides
+Pyromaia tuberculata,293181,Pyromaia tuberculata,species,Animalia,276636,Pyromaia,35,MEJII/UNMDP_MEJ_001+1405612090.jpg,1.333,Pyromaia tuberculata
+Pyura haustor,808588,Pyura haustor,species,Animalia,79969,Pyura,8,FHL/BMBM-0132+1522880306.JPG,1.391,Pyura haustor
+Quadrimaera carla,786504,Quadrimaera carla,species,Animalia,729600,Quadrimaera,2,DISMA/DISCO6045_Lat+1485289898.jpg,1.499,Quadrimaera carla
+Quadrimaera reishi,1075834,Quadrimaera reishi,species,Animalia,729600,Quadrimaera,1,NA,NA,NA
+Quasitetrastemma nigrifrons,955605,Quasitetrastemma nigrifrons,species,Animalia,852515,Quasitetrastemma,11,BHAK/N_Tetrastemma_nigrifrons_450BHAK-1939dHAK_04053+1632964773.JPG,1.576,Quasitetrastemma nigrifrons
+Randallia,88182,Randallia,genus,Animalia,321779,Ebaliinae,5,NA,NA,NA
+Randallia ornata,1075835,Randallia ornata,species,Animalia,88182,Randallia,2,NA,NA,NA
+Renilla koellikeri,1075836,Renilla koellikeri,species,Animalia,371343,Renilla,1,NA,NA,NA
+Rhabdus rectius,30826,Rhabdus rectius,species,Animalia,2214,Rhabdus,18,RBCMI/IMG_0884+1396638728.JPG,1.758,Rhabdus rectius
+Rhachotropis,5308,Rhachotropis,genus,Animalia,1597,Eusiridae,420,WWAMP/bioug01328-e01+1315329816.jpg,1.333,Rhachotropis
+Rhachotropis barnardi,981061,Rhachotropis barnardi,species,Animalia,5308,Rhachotropis,1,NA,NA,NA
+Rhamphidonta retifera,722726,Rhamphidonta retifera,species,Animalia,722725,Rhamphidonta,1,RBCMI/DSC_2881+1443642002.JPG,1.499,Rhamphidonta retifera
+Rhepoxynius,370420,Rhepoxynius,genus,Animalia,370419,Metharpiniinae,19,BHAK/dHAKB_00576a+1582145217.jpg,1.458,Rhepoxynius
+Rhepoxynius abronius,370421,Rhepoxynius abronius,species,Animalia,370420,Rhepoxynius,1,CMBIA/00139Rhepoxynius_abroniusVRRWScale+1321990448.jpg,1.333,Rhepoxynius abronius
+Rhepoxynius bicuspidatus,981347,Rhepoxynius bicuspidatus,species,Animalia,370420,Rhepoxynius,1,NA,NA,NA
+Rhepoxynius fatigans,499226,Rhepoxynius fatigans,species,Animalia,370420,Rhepoxynius,8,NA,NA,NA
+Rhepoxynius tridentatus,981040,Rhepoxynius tridentatus,species,Animalia,370420,Rhepoxynius,1,BHAK/dHAKB_00576a+1582145217.jpg,1.458,Rhepoxynius tridentatus
+Rhizocaulus verticillatus,83434,Rhizocaulus verticillatus,species,Animalia,83433,Rhizocaulus,16,SWEMA/GNM7464_174Hydrozoa1636V+1443033426.JPG,1.499,Rhizocaulus verticillatus
+Rhodine bitorquata,955737,Rhodine bitorquata,species,Animalia,256923,Rhodine,11,BHAK/11_05781a+1670548485.jpg,1.461,Rhodine bitorquata
+Rhynchospio arenincola,899743,Rhynchospio arenincola,species,Animalia,715077,Rhynchospio,13,BHAK/An_Phyllochaetopterus_prolifica_5880BHAK-3645dHAK_08330+1602546716.JPG,1.224,Rhynchospio arenincola
+Rictaxis punctocaelatus,370516,Rictaxis punctocaelatus,species,Animalia,370515,Rictaxis,9,CMBIA/00343Rictaxis_punctocaelatusOpercularVRR+1324594888.jpg,1.499,Rictaxis punctocaelatus
+Rissoina,27188,Rissoina,genus,Animalia,671850,Rissoinidae,26,NA,NA,NA
+Rocinela angustata,152162,Rocinela angustata,species,Animalia,152161,Rocinela,2,FHL/BMBM-0757+1522880306.JPG,1.626,Rocinela angustata
+Rocinela belliceps,1265074,Rocinela belliceps,species,Animalia,152161,Rocinela,1,NA,NA,Rocinela belliceps
+Romaleon antennarium,606032,Romaleon antennarium,species,Animalia,212126,Romaleon,44,"DISA/3226_2017_02_22_11_01_23_[B,Radius8,Smoothing4]+1487790100.jpg",1.499,Romaleon antennarium
+Romaleon branneri,327625,Romaleon branneri,species,Animalia,212126,Romaleon,30,NJCGS/10BIOBC-00838+1288714872.jpg,1.339,Romaleon branneri
+Romaleon jordani,1075837,Romaleon jordani,species,Animalia,212126,Romaleon,1,NA,NA,NA
+Roperia poulsoni,803106,Roperia poulsoni,species,Animalia,803105,Roperia,35,GASSC/BIOUG01229_H11+1482534846.jpg,1.4,Roperia poulsoni
+Rutiderma,996405,Rutiderma,genus,Animalia,516995,Rutidermatidae,3,NA,NA,NA
+Rutiderma lomae,996406,Rutiderma lomae,species,Animalia,996405,Rutiderma,3,NA,NA,Rutiderma lomae
+Sabellaria,362378,Sabellaria,genus,Animalia,24491,Sabellariidae,698,FLBAR/FBAR-0056+1486504410.JPG,1.382,NA
+Ampharete manriquei,1075739,Ampharete manriquei,species,Animalia,177409,Ampharete,1,NA,NA,NA
+Saccocirrus,205790,Saccocirrus,genus,Animalia,125425,Saccocirridae,259,KBPOL/11BIOAK-1289+1308580524.jpg,1.333,Saccocirrus
+Saccoglossus,82044,Saccoglossus,genus,Animalia,82043,Harrimaniidae,46,NBPOL/HP_0243+1221833734.JPG,1.502,Saccoglossus
+Salmacina,942302,Salmacina,genus,Animalia,109609,Serpulidae,2,BHAK/BHAK-0123_B2+1569435672.jpg,1.325,NA
+Salvatoria,506758,Salvatoria,genus,Animalia,125418,Syllidae,5,FLBAR/FBAR-0317+1479844484.JPG,1.905,Salvatoria
+Samytha californiensis,370483,Samytha californiensis,species,Animalia,370482,Samytha,2,CMBIA/00291Samytha_californiensisDorsalVRR+1323113980.jpg,1.333,Samytha californiensis
+Saxicavella,673989,Saxicavella,genus,Animalia,531657,Basterotiidae,8,ICBA/ZMBN_139726+1625758614.jpg,1.333,NA
+Saxicavella pacifica,981356,Saxicavella pacifica,species,Animalia,673989,Saxicavella,2,NA,NA,NA
+Saxidomus nuttalli,981666,Saxidomus nuttalli,species,Animalia,26370,Saxidomus,6,BHAK/dHAK_01347a+1516240754.jpg,1.285,Saxidomus nuttalli
+Scabrotrophon,469699,Scabrotrophon,genus,Animalia,269818,Trophoninae,102,AKMOL/11BIOAK-0372+1320077096.JPG,1.376,NA
+Scalibregma californicum,370484,Scalibregma californicum,species,Animalia,210795,Scalibregma,27,CMBIA/00292Scalibregma_californicumLateralVRR+1323113980.jpg,1.333,Scalibregma californicum
+Phyllocomus,266400,Phyllocomus,genus,Animalia,82542,Ampharetidae,13,POIMB/dOIMB_01530a+1568730736.jpg,1.58,NA
+Schizocardium,938857,Schizocardium,genus,Animalia,533021,Spengelidae,4,NA,NA,NA
+Scintillona bellerophon,786732,Scintillona bellerophon,species,Animalia,786731,Scintillona,3,BHAK/dHAK_04814a+1517432552.jpg,1.465,Scintillona bellerophon
+Scionella japonica,955736,Scionella japonica,species,Animalia,955735,Scionella,2,BBPS/dFHL_11777a+1585286646.jpg,1.478,Scionella japonica
+Scleroconcha trituberculata,996399,Scleroconcha trituberculata,species,Animalia,309030,Scleroconcha,3,NA,NA,Scleroconcha trituberculata
+Scleroplax granulata,1145946,Scleroplax granulata,species,Animalia,322618,Scleroplax,1,NA,NA,Scleroplax granulata
+Scolelepis,32474,Scolelepis,genus,Animalia,32473,Spionidae,372,SDP100/Su13BW49-Body+1382661680.jpg,1.499,Scolelepis
+Scolelepis squamata,32475,Scolelepis squamata,species,Animalia,32474,Scolelepis,47,BCPOL/bp2010-136+1284059520.jpg,1.333,Scolelepis squamata
+Scolelepis texana,764848,Scolelepis texana,species,Animalia,32474,Scolelepis,1,FLBAR/FBAR-0112+1479844094.JPG,1.667,Scolelepis texana
+Scoletoma,201729,Scoletoma,genus,Animalia,82852,Lumbrineridae,152,CCANN/probe-02038+1263227258.JPG,1.333,Scoletoma
+Scoletoma tetraura,1206940,Scoletoma tetraura,species,Animalia,201729,Scoletoma,17,BHAK/11_05853a+1670548753.jpg,1.42,Scoletoma tetraura
+Scoloplos,82421,Scoloplos,genus,Animalia,893969,Orbiniinae,324,NBPOL/HP_0282+1221834242.JPG,1.499,Scoloplos
+Scoloplos acmeceps,807532,Scoloplos acmeceps,species,Animalia,82421,Scoloplos,13,BHAK/An_Scoloplos_acmeceps_BHAK-2542dHAK_05713+1602546746.JPG,1.27,Scoloplos acmeceps
+Scoloplos armiger,255565,Scoloplos armiger,species,Animalia,82421,Scoloplos,151,WSPO/ws0046+1259870202.JPG,1.333,Scoloplos armiger
+Serpula columbiana,205777,Serpula columbiana,species,Animalia,205776,Serpula,17,POIMB/dOIMB_01618a+1572003390.jpg,1.565,Serpula columbiana
+Sigambra,303630,Sigambra,genus,Animalia,494712,Pilarginae,64,HZPLY/BIOUG03550-e03a+1352143126.jpg,1.333,Sigambra
+Sigambra bassi,497243,Sigambra bassi,species,Animalia,303630,Sigambra,32,HZPLY/BIOUG03550-d12+1351872230.jpg,1.333,Sigambra bassi
+Sige,377010,Sige,genus,Animalia,210797,Phyllodocinae,25,POLNB/_93A6528+1431102672.jpg,0.667,NA
+Simomactra,931789,Simomactra,genus,Animalia,888913,Mactrinae,3,NA,NA,NA
+Simomactra falcata,932057,Simomactra falcata,species,Animalia,931789,Simomactra,2,WIZCO/OIMB-072p1+1534959254.jpg,1.21,Simomactra falcata
+Simomactra planulata,1075841,Simomactra planulata,species,Animalia,931789,Simomactra,1,NA,NA,NA
+Sinocorophium heteroceratum,299384,Sinocorophium heteroceratum,species,Animalia,299383,Sinocorophium,1,CMBIA/IMGP7910+1280264888.jpg,1.707,Sinocorophium heteroceratum
+Sinum scopulosum,370517,Sinum scopulosum,species,Animalia,277724,Sinum,2,CMBIA/00344Sinum_scopulosumLateralVRR+1324594890.jpg,1.333,Sinum scopulosum
+Sipunculus nudus,81958,Sipunculus nudus,species,Animalia,81957,Sipunculus,186,NA,NA,NA
+Skenea,887456,Skenea,genus,Animalia,82190,Skeneidae,43,NBMM/ZMBN_125203+1531229558.jpg,1.333,NA
+Solamen columbianum,370519,Solamen columbianum,species,Animalia,370518,Solamen,12,CMBIA/00345Solamen_columbianumBetterExteriorVRR+1324594892.jpg,1.333,Solamen columbianum
+Solemya pervernicosa,898438,Solemya pervernicosa,species,Animalia,148878,Solemya,5,NA,NA,NA
+Solen,106958,Solen,genus,Animalia,106957,Solenidae,110,CMBIA/00346Solen_sicarusWfootVRR+1323988046.JPG,1.333,NA
+Solen sicarius,370520,Solen sicarius,species,Animalia,106958,Solen,8,CMBIA/00346Solen_sicarusWfootVRR+1323988046.JPG,1.333,Solen sicarius
+Solenocera mutator,1075843,Solenocera mutator,species,Animalia,89892,Solenocera,1,NA,NA,NA
+Spatangus californicus,893613,Spatangus californicus,species,Animalia,79273,Spatangus,1,"DISA/4013_2017_01_30_15_06_59_[B,Radius8,Smoothing4]+1485889032.jpg",1.499,Spatangus californicus
+Spathoderma,807865,Spathoderma,genus,Animalia,532813,Prochaetodermatidae,2,NA,NA,NA
+Sphaerephesia,941001,Sphaerephesia,genus,Animalia,125417,Sphaerodoridae,3,NA,NA,NA
+Sphaerodoridium,524751,Sphaerodoridium,genus,Animalia,125417,Sphaerodoridae,7,PONOR/POLYNOR001+1363717040.jpg,1.333,NA
+Sphaerodoropsis,153136,Sphaerodoropsis,genus,Animalia,125417,Sphaerodoridae,54,PONOR/POLYNOR016+1363716530.jpg,1.41,NA
+Sphaerodoropsis minuta,729484,Sphaerodoropsis minuta,species,Animalia,153136,Sphaerodoropsis,4,CRYNO/HM196+1445966694.jpg,1.41,Sphaerodoropsis minuta
+Sphaerodorum,401416,Sphaerodorum,genus,Animalia,125417,Sphaerodoridae,29,PONOR/POLYNOR015+1363716560.jpg,1.419,Sphaerodorum
+Sphaerosyllis,153131,Sphaerosyllis,genus,Animalia,214479,Exogoninae,22,LHABC/BIOUG48554_A12.1+1640370183.jpg,1.502,Sphaerosyllis
+Sphaerosyllis ranunculus,1132747,Sphaerosyllis ranunculus,species,Animalia,153131,Sphaerosyllis,1,LHABC/BIOUG48554_A12.1+1640370183.jpg,1.502,Sphaerosyllis ranunculus
+Sphenia,570714,Sphenia,genus,Animalia,654,Myidae,24,FLBAR/FBAR-0269+1479843366.JPG,1.749,NA
+Sphenia fragilis,752178,Sphenia fragilis,species,Animalia,570714,Sphenia,7,FLBAR/FBAR-0269+1479843366.JPG,1.749,Sphenia fragilis
+Spinicirrus,386827,Tetracheledone spinicirrus,species,Animalia,386826,Tetracheledone,1,NA,NA,NA
+Spio,122729,Spio,genus,Animalia,32473,Spionidae,142,CCANN/07CHU-003-0032+1188505144.JPG,1.333,Spio
+Spio filicornis,666845,Spio filicornis,species,Animalia,122729,Spio,2,NA,NA,NA
+Spiochaetopterus costarum,660282,Spiochaetopterus costarum,species,Animalia,156265,Spiochaetopterus,9,NA,NA,NA
+Spiophanes,122711,Spiophanes,genus,Animalia,32473,Spionidae,329,HZPLY/BIOUG03550-e09+1351525132.jpg,1.333,Spiophanes
+Spiophanes duplex,529986,Spiophanes duplex,species,Animalia,122711,Spiophanes,10,HZPLY/BIOUG03550-e09+1351525132.jpg,1.333,Spiophanes duplex
+Spiophanes kimballi,370488,Spiophanes kimballi,species,Animalia,122711,Spiophanes,10,CMBIA/00300_Spiophanes_kimballi_DorsalVRR+1323113998.jpg,1.333,Spiophanes kimballi
+Spiophanes norrisi,378647,Spiophanes norrisi,species,Animalia,122711,Spiophanes,39,KBPOL/11bioak-1443+1308664126.jpg,1.339,Spiophanes norrisi
+Spiophanes wigleyi,528031,Spiophanes wigleyi,species,Animalia,122711,Spiophanes,9,POLNB/ZMBN_104628+1431535884.jpg,1.502,Spiophanes wigleyi
+Spirontocaris,5646,Spirontocaris,genus,Animalia,1517,Hippolytidae,168,FCDPA/FCDPA-001_045+1213791840.JPG,1.499,Spirontocaris
+Spirontocaris prionota,277586,Spirontocaris prionota,species,Animalia,5646,Spirontocaris,12,BHAK/A_Spirontocaris_prionota_53285BHAK-6904dHAKB_00761+1602546726.JPG,1.477,Spirontocaris prionota
+Spirontocaris sica,8371,Spirontocaris sica,species,Animalia,5646,Spirontocaris,6,LACSA/DNA_trawl_invert_Spirontocaris_sica_T1-305_plate_2_cell_C1+1258140516.jpg,1.333,Spirontocaris sica
+Spirontocaris snyderi,607493,Spirontocaris snyderi,species,Animalia,5646,Spirontocaris,4,RBCMI/IMG_8089+1401973302.JPG,1.538,Spirontocaris snyderi
+Spirontocaris truncata,1075844,Spirontocaris truncata,species,Animalia,5646,Spirontocaris,1,NA,NA,NA
+Stachyptilum superbum,592467,Stachyptilum superbum,species,Animalia,592466,Stachyptilum,2,KBCSM/IMG_0476+1371258180.JPG,1.499,Stachyptilum superbum
+Stenothoe frecanda,499254,Stenothoe frecanda,species,Animalia,455775,Stenothoe,1,CMBIA/00629Stenothoe_frecandaVRR+1351801176.jpg,1.333,Stenothoe frecanda
+Stenothoe valida,753985,Stenothoe valida,species,Animalia,455775,Stenothoe,24,HABFA/ZMBN_136253_L_[1]+1594390034.jpg,1.499,Stenothoe valida
+Stereobalanus,938859,Stereobalanus,genus,Animalia,82043,Harrimaniidae,7,NBPOL/HP_0380+1222436932.JPG,1.495,Stereobalanus
+Sternaspis affinis,785166,Sternaspis affinis,species,Animalia,160011,Sternaspis,29,BHAK/11_05510a+1675901996.jpg,1.408,Sternaspis affinis
+Sthenelais,122699,Sthenelais,genus,Animalia,29425,Sigalionidae,67,CMBIA/00304_Sthenelais_tertiaglabraVentrolateralVRR+1323114004.jpg,1.333,NA
+Sthenelais berkeleyi,808498,Sthenelais berkeleyi,species,Animalia,122699,Sthenelais,2,BBPS/dFHL_13294a+1585360922.jpg,3.005,Sthenelais berkeleyi
+Sthenelais tertiaglabra,370489,Sthenelais tertiaglabra,species,Animalia,122699,Sthenelais,6,CMBIA/00304_Sthenelais_tertiaglabraVentrolateralVRR+1323114004.jpg,1.333,Sthenelais tertiaglabra
+Sthenelanella uniformis,299345,Sthenelanella uniformis,species,Animalia,299344,Sthenelanella,12,CMBIA/00308Sthenelanella_uniformisDorsalVRR+1323114010.jpg,1.333,Sthenelanella uniformis
+Streblosoma,285941,Streblosoma,genus,Animalia,100797,Thelepodinae,29,CMBIA/00312Streblosoma_spBDorsalVRR+1324594858.jpg,1.333,Streblosoma
+Streblosoma crassibranchia,370490,Streblosoma crassibranchia,species,Animalia,285941,Streblosoma,4,CMBIA/00311Streblosoma_crassibranchiaVRRAnteriorVentral+1323114016.jpg,1.333,Streblosoma crassibranchia
+Streblosoma pacifica,999182,Streblosoma pacifica,species,Animalia,285941,Streblosoma,1,NA,NA,NA
+Streblospio benedicti,32479,Streblospio benedicti,species,Animalia,32478,Streblospio,74,VAFIV/WCH_2294_0042_C+1417359876.jpeg,1,Streblospio benedicti
+Streptodonta,991188,Streptodonta,genus,Animalia,214480,Eusyllinae,1,NA,NA,NA
+Streptosyllis,153129,Streptosyllis,genus,Animalia,125418,Syllidae,3,NA,NA,NA
+Allocentrotus fragilis,172952,Allocentrotus fragilis,species,Animalia,172951,Allocentrotus,2,NA,NA,NA
+Styela,3037,Styela,genus,Animalia,974,Styelidae,1063,OPQCS/27+1294414642.JPG,1.499,Styela
+Styela plicata,30466,Styela plicata,species,Animalia,3037,Styela,270,ASCMA/ASC17+1447178818.jpg,1.499,Styela plicata
+Stylatula,293153,Stylatula,genus,Animalia,293127,Virgulariidae,15,SWEMA/GNM7464_70Anthozoa1302V+1441127304.JPG,1.499,Stylatula
+Stylatula elongata,293154,Stylatula elongata,species,Animalia,293153,Stylatula,10,DISA/4116_DISCO4116_2017_11_08_12_24_09_[C]+1510161860.jpg,1.499,Stylatula elongata
+Stylochoplana,717870,Stylochoplana,genus,Animalia,500593,Leptoplanidae,120,NA,NA,NA
+Stylochus,803478,Stylochus,genus,Animalia,533069,Stylochidae,10,NA,NA,Stylochus
+Syllides,153126,Syllides,genus,Animalia,600000,Anoplosyllinae,14,CRYNO/MAREANO_13_046+1395847376.jpg,1.333,NA
+Syllis,153111,Syllis,genus,Animalia,214475,Syllinae,346,BCPOL/bp2010-130+1284059484.jpg,1.333,Syllis
+Syllis gracilis,153118,Syllis gracilis,species,Animalia,153111,Syllis,56,DISA/3728_DISCO3728_ven_25xMagnification_2018_02_01_16_28_12_[C]+1517531322.jpg,1.499,Syllis gracilis
+Syllis heterochaeta,955702,Syllis heterochaeta,species,Animalia,153111,Syllis,3,BBPS/dFHL_11215a+1585272944.jpg,1.844,Syllis heterochaeta
+Syllis hyperioni,981333,Syllis hyperioni,species,Animalia,153111,Syllis,2,NA,NA,NA
+Symplectoscyphus pedrensis,370385,Symplectoscyphus pedrensis,species,Animalia,370384,Symplectoscyphus,1,CMBIA/00100Symplectoscyphus_pedrensisWScaleVRR+1321287692.jpg,1.333,Symplectoscyphus pedrensis
+Synidotea,373996,Synidotea,genus,Animalia,1612,Idoteidae,44,ABMBS/10BPBS-0097_L+1284562020.jpg,1.333,Synidotea
+Synidotea harfordi,893596,Synidotea harfordi,species,Animalia,373996,Synidotea,6,DISA/7269_DISCO7269_lat_8.5Xmagnification_2017_09_13+1505334148.jpg,1.499,Synidotea harfordi
+Syrrhoe,183052,Syrrhoe,genus,Animalia,153388,Synopiidae,54,CCNUN/nun-0132_+1206908560.JPG,1.333,Syrrhoe
+Syrrhoe longifrons,390643,Syrrhoe longifrons,species,Animalia,183052,Syrrhoe,1,WWAMP/bioug01329-e05+1315339246.jpg,1.325,Syrrhoe longifrons
+Tagelus,507072,Tagelus,genus,Animalia,201795,Solecurtidae,76,NA,NA,NA
+Tagelus subteres,1075846,Tagelus subteres,species,Animalia,507072,Tagelus,1,NA,NA,NA
+Tanaella propinquus,981335,Tanaella propinquus,species,Animalia,527994,Tanaella,4,NA,NA,NA
+Tanaopsis cadieni,981321,Tanaopsis cadieni,species,Animalia,981320,Tanaopsis,7,NA,NA,NA
+Tanystylum californicum,103187,Tanystylum californicum,species,Animalia,103186,Tanystylum,4,NA,NA,NA
+Telesto,895640,Telesto,genus,Animalia,124891,Clavulariidae,1,"DISA/3973_2017_02_06_14_02_02_[B,Radius8,Smoothing4]+1486407726.jpg",1.499,NA
+Tellina,84990,Tellina,genus,Animalia,499234,Tellininae,172,AKMOL/11BIOAK-0252+1320071620.JPG,1.499,Tellina
+Megangulus bodegensis,891491,Megangulus bodegensis,species,Animalia,891490,Megangulus,9,WIZCO/OIMB-061-2+1531783658.jpg,1.333,Megangulus bodegensis
+Ameritella carpenteri,1075737,Ameritella carpenteri,species,Animalia,762503,Ameritella,1,NA,NA,NA
+Tellina nuculoides,593192,Tellina nuculoides,species,Animalia,84990,Tellina,14,AKMOL/11BIOAK-0252+1320071620.JPG,1.499,Tellina nuculoides
+Tenellia adspersa,708848,Tenellia adspersa,species,Animalia,708847,Tenellia,5,SWEMA/GNM7461_192Gastr8975V+1424446652.JPG,1.499,Tenellia adspersa
+Tenonia priops,370493,Tenonia priops,species,Animalia,370492,Tenonia,6,CMBIA/00313Tenonia_priopsDorsalVRR+1324594860.jpg,1.333,Tenonia priops
+Terebellides,83177,Terebellides,genus,Animalia,210798,Trichobranchinae,692,NBPOL/HP_0302+1221834496.JPG,1.5,Terebellides
+Terebellides californica,370494,Terebellides californica,species,Animalia,83177,Terebellides,17,CMBIA/00314Terebellides_californicaLateralVRR+1324594860.jpg,1.333,Terebellides californica
+Terebellides reishi,370495,Terebellides reishi,species,Animalia,83177,Terebellides,5,CMBIA/00317Terebellides_reishiLateralVRR+1324594864.jpg,1.333,Terebellides reishi
+Tetrastemma,25866,Tetrastemma,genus,Animalia,1814,Tetrastemmatidae,279,POIMB/dOIMB_00153a+1565273394.jpg,1.602,Tetrastemma
+Tetrastemma candidum,27099,Tetrastemma candidum,species,Animalia,25866,Tetrastemma,13,NA,NA,NA
+Thalamoporella californica,400066,Thalamoporella californica,species,Animalia,361494,Thalamoporella,2,MLMLA/bioug01534-b08+1320253092.JPG,1.333,Thalamoporella californica
+Thelepus,100798,Thelepus,genus,Animalia,100797,Thelepodinae,151,NBPOL/HP_0373+1222436844.JPG,1.495,Thelepus
+Thelepus hamatus,808508,Thelepus hamatus,species,Animalia,100798,Thelepus,1,NA,NA,NA
+Theora lubrica,370524,Theora lubrica,species,Animalia,370523,Theora,3,CMBIA/00355Theora_lubricaLateralExteriorVRR+1324594908.jpg,1.333,Theora lubrica
+Thesea,514275,Thesea,genus,Animalia,514076,Stenogorgiinae,18,KBCSM/IMG_0220+1371152018.JPG,1.499,Thesea
+Thorlaksonius,804540,Thorlaksonius,genus,Animalia,88707,Pleustidae,11,BHAK/dHAKB_00286a+1582145499.jpg,1.452,Thorlaksonius
+Thracia,194388,Thracia,genus,Animalia,194387,Thraciidae,50,LHABC/BIOUG48552_H01.0+1634158754.JPG,1.499,Thracia
+Thracia trapezoides,1132743,Thracia trapezoides,species,Animalia,194388,Thracia,1,LHABC/BIOUG48552_H01.0+1634158754.JPG,1.499,Thracia trapezoides
+Thyasira flexuosa,370525,Thyasira flexuosa,species,Animalia,154201,Thyasira,69,CMBIA/00523Thyasira_flexuosaInteriorVRR+1326752804.jpg,1.333,Thyasira flexuosa
+Thyone benti,748173,Thyone benti,species,Animalia,217704,Thyone,7,FHL/BMBM-0763+1522880308.JPG,1.957,Thyone benti
+Thysanocardia nigra,216490,Thysanocardia nigra,species,Animalia,216488,Thysanocardia,44,YARRA/17]+1382455306.jpg,1.79,Thysanocardia nigra
+Timarete,639916,Timarete,genus,Animalia,83730,Cirratulidae,172,POLV/ECOSUR-OH-1007+1453319490.JPG,1.499,Timarete
+Tiron biocellata,499250,Tiron biocellata,species,Animalia,361871,Tiron,2,LHABC/CCDB31224_E10.2+1632354224.JPG,1.499,Tiron biocellata
+Travisia,160012,Travisia,genus,Animalia,125440,Opheliidae,144,WSPO/Travisia_forbesii1+1263828818.jpg,1.596,Travisia
+Travisia brevis,299368,Travisia brevis,species,Animalia,160012,Travisia,10,CMBIA/00318Travisia_brevisDorsalVRR+1324594866.jpg,1.333,Travisia brevis
+Travisia pupa,193547,Travisia pupa,species,Animalia,160012,Travisia,10,BCPOL/BAMPOL0264+1217002094.JPG,1.584,Travisia pupa
+Tresus nuttallii,722698,Tresus nuttallii,species,Animalia,395168,Tresus,10,RBCMI/DSC_2488+1443641839.JPG,1.499,Tresus nuttallii
+Trichobranchus hancocki,955727,Trichobranchus hancocki,species,Animalia,540841,Trichobranchus,5,BBPS/dFHL_12560a+1585348596.jpg,1.557,Trichobranchus hancocki
+Triopha maculata,507903,Triopha maculata,species,Animalia,387487,Triopha,9,FHL/BMBM-0542+1522880308.JPG,1.793,Triopha maculata
+Tritella,981068,Tritella,genus,Animalia,263338,Caprellinae,2,BHAK/dHAKB_01640a+1646090887.jpg,0.811,NA
+Tritella pilimana,981069,Tritella pilimana,species,Animalia,981068,Tritella,2,BHAK/dHAKB_01640a+1646090887.jpg,0.811,Tritella pilimana
+Tritia insculpta,893612,Tritia insculpta,species,Animalia,759842,Tritia,2,"DISA/4039_2017_02_07_16_19_02_[B,Radius8,Smoothing4]+1486513148.jpg",1.499,Tritia insculpta
+Tritonia festiva,460889,Tritonia festiva,species,Animalia,194476,Tritonia,16,POIMB/dOIMB_00625a+1565355250.jpg,1.466,Tritonia festiva
+Tritonia tetraquetra,895648,Tritonia tetraquetra,species,Animalia,194476,Tritonia,5,"DISA/4046_DISCO4046_dor_20xMAGNIFICATION_2017_10_26_13_37_05_[B,Radius8,Smoothing4]+1509039540.jpg",1.499,Tritonia tetraquetra
+Trophoniella,187340,Trophoniella,genus,Animalia,125434,Flabelligeridae,9,NA,NA,NA
+Trophoniella harrisae,1075850,Trophoniella harrisae,species,Animalia,187340,Trophoniella,1,NA,NA,NA
+Tubulanus,25852,Tubulanus,genus,Animalia,1828,Tubulanidae,154,RBCMI/IMG_7860+1396614926.JPG,1.385,Tubulanus
+Tubulanus polymorphus,370531,Tubulanus polymorphus,species,Animalia,25852,Tubulanus,35,RBCMI/IMG_7860+1396614926.JPG,1.385,Tubulanus polymorphus
+Tubulipora tuba,1164981,Tubulipora tuba,species,Animalia,751405,Tubulipora,1,BHAK/dHAK_08503+1501355178.JPG,1.509,Tubulipora tuba
+Turbonilla,149512,Turbonilla,genus,Animalia,370526,Turbonillinae,50,CMBIA/00359Turbonilla_spVRR+1324594916.jpg,1.333,Turbonilla
+Typhlotanais,527981,Typhlotanais,genus,Animalia,516828,Typhlotanaidae,47,NA,NA,Typhlotanais
+Typhlotanais williamsae,1265075,Typhlotanais williamsae,species,Animalia,527981,Typhlotanais,2,NA,NA,Typhlotanais williamsae
+Typosyllis,205764,Typosyllis,genus,Animalia,214475,Syllinae,66,HZPLY/BIOUG06836-G03-1+1375959926.jpg,1.368,Typosyllis
+Upogebia,105780,Upogebia,genus,Animalia,105779,Upogebiidae,313,RBCMI/IMG_8239+1401974386.JPG,1.499,NA
+Urechis caupo,27337,Urechis caupo,species,Animalia,27336,Urechis,2,NA,NA,NA
+Uromunna ubiquita,803363,Uromunna ubiquita,species,Animalia,597977,Uromunna,3,NA,NA,Uromunna ubiquita
+Urothoe elegans,469376,Urothoe elegans,species,Animalia,371888,Urothoe,14,BNSA/MT04350+1331917394.jpg,1.333,Urothoe elegans
+Valettiopsis,996165,Valettiopsis,genus,Animalia,516577,Valettiopsidae,2,NA,NA,NA
+Vargula tsujii,936292,Vargula tsujii,species,Animalia,5828,Vargula,43,NA,NA,NA
+Vaunthompsonia,7682,Vaunthompsonia,genus,Animalia,5693,Vaunthompsoniinae,3,NA,NA,NA
+Ruditapes philippinarum,508061,Ruditapes philippinarum,species,Animalia,326824,Ruditapes,690,BCMOL/10BCMOL-00426+1335235296.JPG,1.502,Ruditapes philippinarum
+Virgularia,370386,Virgularia,genus,Animalia,293127,Virgulariidae,35,SWEMA/GNM7464_80Anthozoa1390V+1441284772.JPG,1.499,Virgularia
+Vitreolina,657512,Vitreolina,genus,Animalia,936,Eulimidae,20,LHABC/BIOUG48552_D08.2+1632856571.JPG,1.499,NA
+Vitreolina columbiana,978661,Vitreolina columbiana,species,Animalia,657512,Vitreolina,7,LHABC/BIOUG48552_D08.2+1632856571.JPG,1.499,Vitreolina columbiana
+Volvarina taeniolata,803104,Volvarina taeniolata,species,Animalia,483768,Volvarina,12,NA,NA,Volvarina taeniolata
+Volvulella,164962,Volvulella,genus,Animalia,370528,Rhizoridae,8,LHABC/BIOUG48552_G03.1+1637108665.jpg,1.504,NA
+Volvulella californica,981330,Volvulella californica,species,Animalia,164962,Volvulella,4,NA,NA,NA
+Volvulella cylindrica,1132742,Volvulella cylindrica,species,Animalia,164962,Volvulella,1,LHABC/BIOUG48552_G03.1+1637108665.jpg,1.504,Volvulella cylindrica
+Volvulella panamica,370529,Volvulella panamica,species,Animalia,164962,Volvulella,1,CMBIA/00360Volvulella_panamica3VRR+1324594918.jpg,1.333,Volvulella panamica
+Watersipora subatra,1075852,Watersipora subatra,species,Animalia,28790,Watersipora,1,NA,NA,NA
+Westwoodilla tone,299408,Westwoodilla tone,species,Animalia,299407,Westwoodilla,23,CMBIA/IMGP7971Corr+1284059432.jpg,1.773,Westwoodilla tone
+Yoldia aeolica,1075853,Yoldia aeolica,species,Animalia,2465,Yoldia,1,NA,NA,NA
+Yoldiella,154196,Yoldiella,genus,Animalia,159963,Yoldiidae,168,ABMBS/10BPBS-0185_L+1287429268.jpg,1.333,Yoldiella
+Yoldiella nana,495415,Yoldiella nana,species,Animalia,154196,Yoldiella,7,ABMBS/10BPBS-0185_L+1287429268.jpg,1.333,Yoldiella nana
+Ypsilothuria bitentaculata,222676,Ypsilothuria bitentaculata,species,Animalia,222674,Ypsilothuria,3,NA,NA,NA
+Zaolutus actius,1075855,Zaolutus actius,species,Animalia,1075854,Zaolutus,2,NA,NA,NA
+Zeuxo,502926,Zeuxo,genus,Animalia,1141325,Anatanaini,61,ZPC/bioug01207-c07+1386098590.jpg,1.333,Zeuxo
+Zeuxo normani,502927,Zeuxo normani,species,Animalia,502926,Zeuxo,1,NA,NA,NA
+Amathia verticillata,758871,Amathia verticillata,species,Animalia,352695,Amathia,194,NA,NA,NA
+Zygeupolia rubens,493846,Zygeupolia rubens,species,Animalia,493845,Zygeupolia,3,NA,NA,NA
+Zygonemertes virescens,25864,Zygonemertes virescens,species,Animalia,25863,Zygonemertes,9,NA,NA,Zygonemertes virescens
+Pseudharpinia,735056,Pseudharpinia,genus,Animalia,370404,Harpiniinae,2,MIAMP/ZMBN_107174+1455918388.jpg,1.333,NA

@@ -1,0 +1,485 @@
+FinalID,tax_rank,phylum,class,order,family,genus,BOLD_Records,BOLD_Records_USA,BOLD_Records_CA,BOLD_Records_SW,BOLD_Records_COI,BOLD_Records_COI_USA,BOLD_Records_COI_CA,BOLD_Records_COI_SW
+Agelenidae,family,Arthropoda,Arachnida,Araneae,Agelenidae,NA,2494,90,34,43,2460,89,34,43
+Amaurobiidae,family,Arthropoda,Arachnida,Araneae,Amaurobiidae,Arctobius,897,43,17,17,892,43,17,17
+Anapidae,family,Arthropoda,Arachnida,Araneae,Anapidae,Comaroma,79,0,0,0,79,0,0,0
+Anyphaenidae,family,Arthropoda,Arachnida,Araneae,Anyphaenidae,Anyphaena,2110,117,34,61,2068,117,34,61
+Araneidae,family,Arthropoda,Arachnida,Araneae,Araneidae,Aculepeira,11802,983,280,553,11458,967,280,552
+Caponiidae,family,Arthropoda,Arachnida,Araneae,Caponiidae,NA,72,0,0,0,69,0,0,0
+Clubionidae,family,Arthropoda,Arachnida,Araneae,Clubionidae,Clubiona,3896,105,46,52,3870,105,46,52
+Corinnidae,family,Arthropoda,Arachnida,Araneae,Corinnidae,NA,942,56,0,23,915,53,0,23
+Ctenidae,family,Arthropoda,Arachnida,Araneae,Ctenidae,NA,660,1,0,0,658,1,0,0
+Cybaeidae,family,Arthropoda,Arachnida,Araneae,Cybaeidae,Blabomma,538,56,11,11,511,54,11,11
+Desidae,family,Arthropoda,Arachnida,Araneae,Desidae,Badumna,292,59,9,56,292,59,9,56
+Dictynidae,family,Arthropoda,Arachnida,Araneae,Dictynidae,Dictyna,3734,211,71,167,3652,209,71,167
+Diguetidae,family,Arthropoda,Arachnida,Araneae,Diguetidae,Diguetia,6,6,0,4,6,6,0,4
+Dysderidae,family,Arthropoda,Arachnida,Araneae,Dysderidae,Dysdera,950,14,8,8,948,14,8,8
+Filistatidae,family,Arthropoda,Arachnida,Araneae,Filistatidae,Kukulcania,80,17,2,17,79,17,2,17
+Gnaphosidae,family,Arthropoda,Arachnida,Araneae,Gnaphosidae,Gnaphosa,3233,466,65,140,3142,464,65,140
+Homalonychidae,family,Arthropoda,Arachnida,Araneae,Homalonychidae,Homalonychus,18,0,0,0,18,0,0,0
+Hypochilidae,family,Arthropoda,Arachnida,Araneae,Hypochilidae,Hypochilus,46,2,0,0,38,2,0,0
+Leptonetidae,family,Arthropoda,Arachnida,Araneae,Leptonetidae,Leptonetela,1186,65,0,0,1186,65,0,0
+Linyphiidae,family,Arthropoda,Arachnida,Araneae,Linyphiidae,Hilaira,24261,715,56,61,23197,597,56,61
+Liocranidae,family,Arthropoda,Arachnida,Araneae,Liocranidae,Agroeca,288,15,2,2,284,15,2,2
+Lycosidae,family,Arthropoda,Arachnida,Araneae,Lycosidae,Pardosa,12878,1862,200,527,12653,1841,200,527
+Mimetidae,family,Arthropoda,Arachnida,Araneae,Mimetidae,Mimetus,264,32,6,27,263,32,6,27
+Miturgidae,family,Arthropoda,Arachnida,Araneae,Miturgidae,Zora,95,1,0,0,95,1,0,0
+Mysmenidae,family,Arthropoda,Arachnida,Araneae,Mysmenidae,NA,228,0,0,0,228,0,0,0
+Nemesiidae,family,Arthropoda,Arachnida,Araneae,Nemesiidae,Aname,1337,3,0,1,1329,3,0,1
+Nesticidae,family,Arthropoda,Arachnida,Araneae,Nesticidae,Nesticella,512,63,1,2,512,63,1,2
+Oecobiidae,family,Arthropoda,Arachnida,Araneae,Oecobiidae,Oecobius,98,19,17,18,96,19,17,18
+Oonopidae,family,Arthropoda,Arachnida,Araneae,Oonopidae,NA,790,0,0,0,751,0,0,0
+Oxyopidae,family,Arthropoda,Arachnida,Araneae,Oxyopidae,Oxyopes,1075,211,47,117,1056,211,47,117
+Philodromidae,family,Arthropoda,Arachnida,Araneae,Philodromidae,Philodromus,3311,182,46,88,3288,182,46,88
+Pholcidae,family,Arthropoda,Arachnida,Araneae,Pholcidae,Pholcus,1661,76,25,47,1615,76,25,47
+Phrurolithidae,family,Arthropoda,Arachnida,Araneae,Phrurolithidae,Phrurotimpus,485,16,1,2,477,16,1,2
+Pimoidae,family,Arthropoda,Arachnida,Araneae,Pimoidae,Pimoa,304,8,3,3,301,8,3,3
+Pisauridae,family,Arthropoda,Arachnida,Araneae,Pisauridae,Pisaurina,727,90,0,15,720,90,0,15
+Plectreuridae,family,Arthropoda,Arachnida,Araneae,Plectreuridae,Kibramoa,63,62,0,0,63,62,0,0
+Prodidomidae,family,Arthropoda,Arachnida,Araneae,Prodidomidae,NA,1,0,0,0,1,0,0,0
+Salticidae,family,Arthropoda,Arachnida,Araneae,Salticidae,Platycryptus,7533,822,244,545,7254,818,243,544
+Scytodidae,family,Arthropoda,Arachnida,Araneae,Scytodidae,NA,613,10,0,3,592,10,0,3
+Segestriidae,family,Arthropoda,Arachnida,Araneae,Segestriidae,Segestria,205,7,0,5,201,7,0,5
+Selenopidae,family,Arthropoda,Arachnida,Araneae,Selenopidae,NA,995,13,0,1,984,13,0,1
+Sicariidae,family,Arthropoda,Arachnida,Araneae,Sicariidae,Loxosceles,929,40,0,25,927,40,0,25
+Sparassidae,family,Arthropoda,Arachnida,Araneae,Sparassidae,NA,1462,21,4,18,1449,21,4,18
+Telemidae,family,Arthropoda,Arachnida,Araneae,Telemidae,Usofila,92,6,0,0,90,5,0,0
+Tetragnathidae,family,Arthropoda,Arachnida,Araneae,Tetragnathidae,Tetragnatha,5479,373,131,186,5289,373,131,186
+Theraphosidae,family,Arthropoda,Arachnida,Araneae,Theraphosidae,Aphonopelma,2746,12,0,11,2666,12,0,11
+Theridiidae,family,Arthropoda,Arachnida,Araneae,Theridiidae,Dipoena,9265,688,239,459,9169,685,239,459
+Thomisidae,family,Arthropoda,Arachnida,Araneae,Thomisidae,NA,5674,388,65,192,5559,385,65,192
+Titanoecidae,family,Arthropoda,Arachnida,Araneae,Titanoecidae,Titanoeca,127,5,2,2,123,4,2,2
+Trachelidae,family,Arthropoda,Arachnida,Araneae,Trachelidae,Trachelas,504,19,7,16,475,19,7,16
+Trogloraptoridae,family,Arthropoda,Arachnida,Araneae,Trogloraptoridae,Trogloraptor,2,2,0,0,2,2,0,0
+Uloboridae,family,Arthropoda,Arachnida,Araneae,Uloboridae,Miagrammopes,297,26,1,4,192,26,1,4
+Zodariidae,family,Arthropoda,Arachnida,Araneae,Zodariidae,Ishania,609,3,0,0,607,3,0,0
+Zoropsidae,family,Arthropoda,Arachnida,Araneae,Zoropsidae,Anachemmis,49,18,16,16,49,18,16,16
+Arrhopalitidae,family,Arthropoda,Collembola,Symphypleona,Arrhopalitidae,NA,144,57,0,0,143,57,0,0
+Bourletiellidae,family,Arthropoda,Collembola,Symphypleona,Bourletiellidae,NA,6619,119,1,4,6602,119,1,4
+Dicyrtomidae,family,Arthropoda,Collembola,Symphypleona,Dicyrtomidae,NA,2526,127,0,0,2523,127,0,0
+Katiannidae,family,Arthropoda,Collembola,Symphypleona,Katiannidae,NA,3312,91,1,2,3305,91,1,2
+Sminthuridae,family,Arthropoda,Collembola,Symphypleona,Sminthuridae,NA,1882,117,0,1,1719,114,0,1
+Spinothecidae,family,Arthropoda,Collembola,Symphypleona,Spinothecidae,Spinotheca,2,0,0,0,2,0,0,0
+Actaletidae,family,Arthropoda,Collembola,Entomobryomorpha,Actaletidae,Spinactaletes,17,0,0,0,16,0,0,0
+Entomobryidae,family,Arthropoda,Collembola,Entomobryomorpha,Entomobryidae,NA,86148,7446,2908,2914,85882,7446,2908,2914
+Isotomidae,family,Arthropoda,Collembola,Entomobryomorpha,Isotomidae,Isotomurus,8820,74,8,8,8366,70,8,8
+Oncopoduridae,family,Arthropoda,Collembola,Entomobryomorpha,Oncopoduridae,OncopoduridaeGEN,9,1,0,0,9,1,0,0
+Orchesellinae,subfamily,Arthropoda,Collembola,Entomobryomorpha,Orchesellidae,Orchesella,2234,0,0,0,2226,0,0,0
+Paronellidae,family,Arthropoda,Collembola,Entomobryomorpha,Paronellidae,NA,1783,0,0,0,1775,0,0,0
+Tomoceridae,family,Arthropoda,Collembola,Entomobryomorpha,Tomoceridae,Tomocerus,2934,227,0,0,2916,227,0,0
+Neelidae,family,Arthropoda,Collembola,Neelipleona,Neelidae,NA,257,8,0,0,252,8,0,0
+Brachystomellidae,family,Arthropoda,Collembola,Poduromorpha,Brachystomellidae,NA,842,4,0,0,829,4,0,0
+Hypogastruridae,family,Arthropoda,Collembola,Poduromorpha,Hypogastruridae,Gomphiocephalus,4527,41,0,0,4432,41,0,0
+Neanuridae,family,Arthropoda,Collembola,Poduromorpha,Neanuridae,Friesea,3338,282,0,0,3147,281,0,0
+Odontellidae,family,Arthropoda,Collembola,Poduromorpha,Odontellidae,NA,202,0,0,0,197,0,0,0
+Onychiuridae,family,Arthropoda,Collembola,Poduromorpha,Onychiuridae,OnychiuridaeGEN,965,2,0,0,909,2,0,0
+Poduridae,family,Arthropoda,Collembola,Poduromorpha,Poduridae,Podura,84,1,0,0,69,1,0,0
+Armadillidae,family,Arthropoda,Malacostraca,Isopoda,Armadillidae,Troglarmadillo,578,0,0,0,578,0,0,0
+Armadillidiidae,family,Arthropoda,Malacostraca,Isopoda,Armadillidiidae,Armadillidium,635,81,14,51,634,81,14,51
+Ligiidae,family,Arthropoda,Malacostraca,Isopoda,Ligiidae,Ligia,1652,607,9,9,1212,190,9,9
+Philosciidae,family,Arthropoda,Malacostraca,Isopoda,Philosciidae,Philoscia,533,18,0,0,533,18,0,0
+Platyarthridae,family,Arthropoda,Malacostraca,Isopoda,Platyarthridae,Platyarthrus,53,0,0,0,53,0,0,0
+Porcellionidae,family,Arthropoda,Malacostraca,Isopoda,Porcellionidae,Porcellio,746,42,8,18,716,42,8,18
+Scyphacidae,family,Arthropoda,Malacostraca,Isopoda,Scyphacidae,Haloniscus,182,0,0,0,182,0,0,0
+Trichoniscidae,family,Arthropoda,Malacostraca,Isopoda,Trichoniscidae,Hyloniscus,319,6,0,0,313,3,0,0
+Tylidae,family,Arthropoda,Malacostraca,Isopoda,Tylidae,Tylos,613,1,1,1,613,1,1,1
+Armadillidium vulgare,species,Arthropoda,Malacostraca,Isopoda,Armadillidiidae,Armadillidium,498,77,12,49,498,77,12,49
+Porcellio laevis,species,Arthropoda,Malacostraca,Isopoda,Porcellionidae,Porcellio,32,5,1,4,32,5,1,4
+Porcellio dilatatus,species,Arthropoda,Malacostraca,Isopoda,Porcellionidae,Porcellio,11,3,3,3,11,3,3,3
+Armadillidium,genus,Arthropoda,Malacostraca,Isopoda,Armadillidiidae,Armadillidium,605,81,14,51,604,81,14,51
+Porcellionides,genus,Arthropoda,Malacostraca,Isopoda,Porcellionidae,Porcellionides,79,6,1,3,50,6,1,3
+Porcellio,genus,Arthropoda,Malacostraca,Isopoda,Porcellionidae,Porcellio,608,32,7,13,607,32,7,13
+Tylos punctatus,species,Arthropoda,Malacostraca,Isopoda,Tylidae,Tylos,30,1,1,1,30,1,1,1
+Ligidium,genus,Arthropoda,Malacostraca,Isopoda,Ligiidae,Ligidium,376,0,0,0,373,0,0,0
+Ligia occidentalis,species,Arthropoda,Malacostraca,Isopoda,Ligiidae,Ligia,58,2,0,0,56,2,0,0
+Ligia pallasii,species,Arthropoda,Malacostraca,Isopoda,Ligiidae,Ligia,89,0,0,0,89,0,0,0
+Ligidium gracile,species,Arthropoda,Malacostraca,Isopoda,Ligiidae,Ligidium,2,0,0,0,1,0,0,0
+Haplophthalmus,genus,Arthropoda,Malacostraca,Isopoda,Trichoniscidae,Haplophthalmus,43,2,0,0,41,1,0,0
+Haplophthalmus danicus,species,Arthropoda,Malacostraca,Isopoda,Trichoniscidae,Haplophthalmus,26,2,0,0,24,1,0,0
+Brackenridgia,genus,Arthropoda,Malacostraca,Isopoda,Trichoniscidae,Brackenridgia,4,4,0,0,2,2,0,0
+Brackenridgia heroldi,species,Arthropoda,Malacostraca,Isopoda,Trichoniscidae,Brackenridgia,4,4,0,0,2,2,0,0
+Armadilloniscus,genus,Arthropoda,Malacostraca,Isopoda,Scyphacidae,Armadilloniscus,36,0,0,0,36,0,0,0
+Alloniscus,genus,Arthropoda,Malacostraca,Isopoda,Alloniscidae,Alloniscus,5,0,0,0,5,0,0,0
+Littorophiloscia,genus,Arthropoda,Malacostraca,Isopoda,Halophilosciidae,Littorophiloscia,17,0,0,0,17,0,0,0
+Niambia,genus,Arthropoda,Malacostraca,Isopoda,Platyarthridae,Niambia,4,0,0,0,4,0,0,0
+Platyarthrus,genus,Arthropoda,Malacostraca,Isopoda,Platyarthridae,Platyarthrus,42,0,0,0,42,0,0,0
+Porcellio scaber,species,Arthropoda,Malacostraca,Isopoda,Porcellionidae,Porcellio,504,22,3,6,503,22,3,6
+Venezillo,genus,Arthropoda,Malacostraca,Isopoda,Armadillidae,Venezillo,14,0,0,0,14,0,0,0
+Talitridae,family,Arthropoda,Malacostraca,Amphipoda,Talitridae,NA,2964,177,32,32,2920,161,32,32
+Arcitalitrus sylvaticus,species,Arthropoda,Malacostraca,Amphipoda,Talitridae,Arcitalitrus,50,0,0,0,50,0,0,0
+Talitroides,genus,Arthropoda,Malacostraca,Amphipoda,Talitridae,Talitroides,29,0,0,0,29,0,0,0
+Talitroides alluaudi,species,Arthropoda,Malacostraca,Amphipoda,Talitridae,Talitroides,16,0,0,0,16,0,0,0
+Talitroides topitotum,species,Arthropoda,Malacostraca,Amphipoda,Talitridae,Talitroides,12,0,0,0,12,0,0,0
+Amphizoidae,family,Arthropoda,Insecta,Coleoptera,Amphizoidae,Amphizoa,10,5,1,1,8,3,0,0
+Carabidae,family,Arthropoda,Insecta,Coleoptera,Carabidae,NA,49539,23548,911,6198,46740,21696,765,5494
+Dytiscidae,family,Arthropoda,Insecta,Coleoptera,Dytiscidae,Liodessus,19424,327,32,68,17847,234,15,44
+Gyrinidae,family,Arthropoda,Insecta,Coleoptera,Gyrinidae,Orectogyrus,926,79,7,20,860,58,7,16
+Haliplidae,family,Arthropoda,Insecta,Coleoptera,Haliplidae,Haliplus,791,60,0,4,733,37,0,4
+Noteridae,family,Arthropoda,Insecta,Coleoptera,Noteridae,Hydrocanthus,287,5,0,3,265,5,0,3
+Trachypachidae,family,Arthropoda,Insecta,Coleoptera,Trachypachidae,Trachypachus,36,19,1,3,19,11,1,2
+Cupedidae,family,Arthropoda,Insecta,Coleoptera,Cupedidae,Priacma,30,10,2,3,28,8,2,3
+Micromalthidae,family,Arthropoda,Insecta,Coleoptera,Micromalthidae,Micromalthus,22,16,0,0,20,14,0,0
+Hydroscaphidae,family,Arthropoda,Insecta,Coleoptera,Hydroscaphidae,NA,18,0,0,0,10,0,0,0
+Sphaeriusidae,family,Arthropoda,Insecta,Coleoptera,Sphaeriusidae,Sphaerius,27,1,0,1,19,1,0,1
+Bostrichidae,family,Arthropoda,Insecta,Coleoptera,Bostrichidae,Apatides,2383,83,24,52,2319,76,24,52
+Dermestidae,family,Arthropoda,Insecta,Coleoptera,Dermestidae,Dermestes,1718,230,6,16,1647,225,5,15
+Nosodendridae,family,Arthropoda,Insecta,Coleoptera,Nosodendridae,Nosodendron,35,0,0,0,35,0,0,0
+Ptinidae,family,Arthropoda,Insecta,Coleoptera,Ptinidae,Caenocara,4899,165,64,85,4748,154,64,85
+Buprestidae,family,Arthropoda,Insecta,Coleoptera,Buprestidae,Agrilus,3597,252,17,123,3311,239,17,123
+Schizopodidae,family,Arthropoda,Insecta,Coleoptera,Schizopodidae,Dystaxia,4,0,0,0,4,0,0,0
+Byrrhidae,family,Arthropoda,Insecta,Coleoptera,Byrrhidae,Simplocaria,330,47,0,0,268,29,0,0
+Dryopidae,family,Arthropoda,Insecta,Coleoptera,Dryopidae,Dryops,207,0,0,0,189,0,0,0
+Elmidae,family,Arthropoda,Insecta,Coleoptera,Elmidae,Elpidelmis,2945,504,229,247,2765,500,228,246
+Eulichadidae,family,Arthropoda,Insecta,Coleoptera,Eulichadidae,Eulichas,10,0,0,0,10,0,0,0
+Heteroceridae,family,Arthropoda,Insecta,Coleoptera,Heteroceridae,Heterocerus,289,69,10,21,277,69,10,21
+Limnichidae,family,Arthropoda,Insecta,Coleoptera,Limnichidae,NA,256,7,0,7,253,7,0,7
+Psephenidae,family,Arthropoda,Insecta,Coleoptera,Psephenidae,Ectopria,451,176,6,7,447,173,6,7
+Ptilodactylidae,family,Arthropoda,Insecta,Coleoptera,Ptilodactylidae,Ptilodactyla,4189,40,0,0,4188,40,0,0
+Cerambycidae,family,Arthropoda,Insecta,Coleoptera,Cerambycidae,Adetus,21248,1435,80,349,20354,1342,70,318
+Chrysomelidae,family,Arthropoda,Insecta,Coleoptera,Chrysomelidae,NA,73964,1761,77,424,73371,1696,73,412
+Megalopodinae,subfamily,Arthropoda,Insecta,Coleoptera,Megalopodidae,Mastostethus,3,0,0,0,3,0,0,0
+Orsodacnidae,family,Arthropoda,Insecta,Coleoptera,Orsodacnidae,Orsodacne,120,6,3,4,118,6,3,4
+Cleridae,family,Arthropoda,Insecta,Coleoptera,Cleridae,Thanasimus,9441,254,15,63,9382,243,15,61
+Melyridae,family,Arthropoda,Insecta,Coleoptera,Melyridae,NA,3822,649,29,126,3767,630,25,120
+Trogossitidae,family,Arthropoda,Insecta,Coleoptera,Trogossitidae,NA,344,24,0,5,334,23,0,5
+Anamorphidae,family,Arthropoda,Insecta,Coleoptera,Anamorphidae,Symbiotes,200,3,0,0,198,3,0,0
+Bothrideridae,family,Arthropoda,Insecta,Coleoptera,Bothrideridae,NA,225,3,0,0,210,0,0,0
+Coccinellidae,family,Arthropoda,Insecta,Coleoptera,Coccinellidae,Nephus,25585,1051,144,269,25392,1039,142,267
+Corylophidae,family,Arthropoda,Insecta,Coleoptera,Corylophidae,Sericoderus,5319,25,10,14,5304,24,10,14
+Endomychidae,family,Arthropoda,Insecta,Coleoptera,Endomychidae,Endomychus,737,18,0,0,715,15,0,0
+Latridiidae,family,Arthropoda,Insecta,Coleoptera,Latridiidae,Melanophthalma,8564,166,65,71,8504,157,65,71
+Mycetaeidae,family,Arthropoda,Insecta,Coleoptera,Mycetaeidae,Mycetaea,15,0,0,0,15,0,0,0
+Biphyllidae,family,Arthropoda,Insecta,Coleoptera,Biphyllidae,NA,175,2,0,0,170,2,0,0
+Byturidae,family,Arthropoda,Insecta,Coleoptera,Byturidae,Byturus,102,10,0,0,98,10,0,0
+Cerylonidae,family,Arthropoda,Insecta,Coleoptera,Cerylonidae,NA,129,1,0,0,121,1,0,0
+Cryptophagidae,family,Arthropoda,Insecta,Coleoptera,Cryptophagidae,Atomaria,1607,85,6,12,1536,68,5,11
+Cucujidae,family,Arthropoda,Insecta,Coleoptera,Cucujidae,Cucujus,266,22,0,0,247,17,0,0
+Erotylidae,family,Arthropoda,Insecta,Coleoptera,Erotylidae,Triplax,1882,73,0,13,1842,63,0,10
+Kateretidae,family,Arthropoda,Insecta,Coleoptera,Kateretidae,Brachypterus,200,3,2,2,192,3,2,2
+Monotomidae,family,Arthropoda,Insecta,Coleoptera,Monotomidae,Monotoma,602,24,4,6,567,19,1,3
+Nitidulidae,family,Arthropoda,Insecta,Coleoptera,Nitidulidae,Glischrochilus,5833,129,8,28,5704,113,5,25
+Passandridae,family,Arthropoda,Insecta,Coleoptera,Passandridae,Catogenus,24,0,0,0,24,0,0,0
+Phalacridae,family,Arthropoda,Insecta,Coleoptera,Phalacridae,Olibrus,3234,21,0,5,3219,18,0,5
+Silvanidae,family,Arthropoda,Insecta,Coleoptera,Silvanidae,Uleiota,1012,25,0,0,976,23,0,0
+Smicripidae,family,Arthropoda,Insecta,Coleoptera,Smicripidae,Smicrips,318,0,0,0,318,0,0,0
+Sphindidae,family,Arthropoda,Insecta,Coleoptera,Sphindidae,NA,176,4,0,0,154,4,0,0
+Anthribidae,family,Arthropoda,Insecta,Coleoptera,Anthribidae,Euparius,2926,45,1,3,2826,38,1,3
+Attelabidae,family,Arthropoda,Insecta,Coleoptera,Attelabidae,Caenorhinus,921,29,2,14,890,24,2,12
+Brentidae,family,Arthropoda,Insecta,Coleoptera,Brentidae,Podapion,7910,52,1,13,7759,45,1,12
+Curculionidae,family,Arthropoda,Insecta,Coleoptera,Curculionidae,NA,67293,1879,69,236,63837,1686,52,192
+Nemonychidae,family,Arthropoda,Insecta,Coleoptera,Nemonychidae,Atopomacer,13,0,0,0,10,0,0,0
+Dascillidae,family,Arthropoda,Insecta,Coleoptera,Dascillidae,Dascillus,49,3,3,3,40,3,3,3
+Rhipiceridae,family,Arthropoda,Insecta,Coleoptera,Rhipiceridae,Rhipicera,14,1,0,1,14,1,0,1
+Derodontidae,family,Arthropoda,Insecta,Coleoptera,Derodontidae,Derodontus,1035,393,0,0,1033,391,0,0
+Artematopodidae,family,Arthropoda,Insecta,Coleoptera,Artematopodidae,Eurypogon,146,4,0,0,146,4,0,0
+Cantharidae,family,Arthropoda,Insecta,Coleoptera,Cantharidae,Rhagonycha,9652,289,28,53,9557,285,28,52
+Cerophytidae,family,Arthropoda,Insecta,Coleoptera,Cerophytidae,Cerophytum,83,0,0,0,82,0,0,0
+Elateridae,family,Arthropoda,Insecta,Coleoptera,Elateridae,Aeolus,20067,1269,95,205,19343,1131,87,197
+Eucnemidae,family,Arthropoda,Insecta,Coleoptera,Eucnemidae,Microrhagus,3002,59,0,1,2938,59,0,1
+Lampyridae,family,Arthropoda,Insecta,Coleoptera,Lampyridae,Pyropyga,5548,476,2,22,5470,475,2,22
+Lycidae,family,Arthropoda,Insecta,Coleoptera,Lycidae,Dictyoptera,2891,68,0,10,2884,67,0,10
+Omethidae,family,Arthropoda,Insecta,Coleoptera,Omethidae,Drilonius,187,2,0,1,187,2,0,1
+Phengodidae,family,Arthropoda,Insecta,Coleoptera,Phengodidae,NA,1155,47,14,38,1120,46,14,37
+Throscidae,family,Arthropoda,Insecta,Coleoptera,Throscidae,NA,13330,268,2,10,13310,268,2,10
+Histeridae,family,Arthropoda,Insecta,Coleoptera,Histeridae,Plegaderus,1421,70,4,9,1179,45,0,5
+Sphaeritidae,family,Arthropoda,Insecta,Coleoptera,Sphaeritidae,Sphaerites,16,4,0,0,12,2,0,0
+Hydrophilidae,family,Arthropoda,Insecta,Coleoptera,Hydrophilidae,Sphaeridium,4693,332,23,92,4385,298,18,86
+Geotrupidae,family,Arthropoda,Insecta,Coleoptera,Geotrupidae,Frickius,605,33,0,5,600,30,0,5
+Glaphyridae,family,Arthropoda,Insecta,Coleoptera,Glaphyridae,Eulasia,193,5,1,4,188,2,1,1
+Glaresidae,family,Arthropoda,Insecta,Coleoptera,Glaresidae,Glaresis,15,9,1,6,15,9,1,6
+Hybosoridae,family,Arthropoda,Insecta,Coleoptera,Hybosoridae,Phaeochrous,522,25,1,9,329,19,1,9
+Lucanidae,family,Arthropoda,Insecta,Coleoptera,Lucanidae,Pycnosiphorus,2489,18,2,2,2468,18,2,2
+Scarabaeidae,family,Arthropoda,Insecta,Coleoptera,Scarabaeidae,Cotinis,21054,1820,130,548,19977,1646,123,491
+Trogidae,family,Arthropoda,Insecta,Coleoptera,Trogidae,Trox,172,23,0,11,146,16,0,8
+Clambidae,family,Arthropoda,Insecta,Coleoptera,Clambidae,Clambus,155,0,0,0,146,0,0,0
+Eucinetidae,family,Arthropoda,Insecta,Coleoptera,Eucinetidae,Eucinetus,403,26,0,0,387,24,0,0
+Scirtidae,family,Arthropoda,Insecta,Coleoptera,Scirtidae,Contacyphon,5235,34,2,4,5185,32,1,3
+Agyrtidae,family,Arthropoda,Insecta,Coleoptera,Agyrtidae,Ipelates,44,18,0,0,32,12,0,0
+Hydraenidae,family,Arthropoda,Insecta,Coleoptera,Hydraenidae,Hydraena,2437,6,0,0,2416,4,0,0
+Leiodidae,family,Arthropoda,Insecta,Coleoptera,Leiodidae,Zeadolopus,4637,208,0,2,3935,177,0,1
+Ptiliidae,family,Arthropoda,Insecta,Coleoptera,Ptiliidae,NA,1701,47,0,1,1657,47,0,1
+Silphidae,family,Arthropoda,Insecta,Coleoptera,Silphidae,Oiceoptoma,1341,164,11,11,1297,161,11,11
+Staphylinidae,family,Arthropoda,Insecta,Coleoptera,Staphylinidae,Anotylus,56049,1897,70,196,53366,1575,65,187
+Aderidae,family,Arthropoda,Insecta,Coleoptera,Aderidae,NA,3425,15,0,3,3413,15,0,3
+Anthicidae,family,Arthropoda,Insecta,Coleoptera,Anthicidae,Anthicus,2805,170,24,113,2695,158,19,108
+Boridae,family,Arthropoda,Insecta,Coleoptera,Boridae,Lecontia,16,0,0,0,14,0,0,0
+Ciidae,family,Arthropoda,Insecta,Coleoptera,Ciidae,Cis,1065,33,0,0,991,28,0,0
+Melandryidae,family,Arthropoda,Insecta,Coleoptera,Melandryidae,Symphora,1340,42,4,4,1299,38,4,4
+Meloidae,family,Arthropoda,Insecta,Coleoptera,Meloidae,NA,2250,619,3,127,2218,606,2,126
+Mordellidae,family,Arthropoda,Insecta,Coleoptera,Mordellidae,NA,11964,467,9,21,11881,459,8,20
+Mycetophagidae,family,Arthropoda,Insecta,Coleoptera,Mycetophagidae,NA,1558,25,7,12,1530,25,7,12
+Oedemeridae,family,Arthropoda,Insecta,Coleoptera,Oedemeridae,NA,1318,127,21,56,1262,125,20,55
+Prostomidae,family,Arthropoda,Insecta,Coleoptera,Prostomidae,Prostomis,5,0,0,0,5,0,0,0
+Pyrochroidae,family,Arthropoda,Insecta,Coleoptera,Pyrochroidae,Pedilus,439,27,0,1,433,25,0,1
+Pythidae,family,Arthropoda,Insecta,Coleoptera,Pythidae,Pytho,60,7,0,0,49,7,0,0
+Ripiphoridae,family,Arthropoda,Insecta,Coleoptera,Ripiphoridae,Pelecotoma,172,15,0,10,172,15,0,10
+Salpingidae,family,Arthropoda,Insecta,Coleoptera,Salpingidae,Rhinosimus,452,12,2,2,444,10,0,0
+Scraptiidae,family,Arthropoda,Insecta,Coleoptera,Scraptiidae,NA,7912,321,27,65,7896,316,27,65
+Stenotrachelidae,family,Arthropoda,Insecta,Coleoptera,Stenotrachelidae,Cephaloon,128,5,0,0,128,5,0,0
+Tenebrionidae,family,Arthropoda,Insecta,Coleoptera,Tenebrionidae,NA,10757,669,96,422,10454,640,93,400
+Tetratomidae,family,Arthropoda,Insecta,Coleoptera,Tetratomidae,NA,188,14,0,0,172,9,0,0
+Zopheridae,family,Arthropoda,Insecta,Coleoptera,Zopheridae,Synchita,1855,19,4,8,1837,18,4,8
+Ptinus,genus,Arthropoda,Insecta,Coleoptera,Ptinidae,Ptinus,154,9,4,6,121,6,4,6
+Cartodere,genus,Arthropoda,Insecta,Coleoptera,Latridiidae,Cartodere,529,6,1,1,523,5,1,1
+Stephostethus,genus,Arthropoda,Insecta,Coleoptera,Latridiidae,Stephostethus,158,4,0,0,151,3,0,0
+Berginus,genus,Arthropoda,Insecta,Coleoptera,Mycetophagidae,Berginus,12,3,3,3,12,3,3,3
+Prostomis,genus,Arthropoda,Insecta,Coleoptera,Prostomidae,Prostomis,4,0,0,0,4,0,0,0
+Alaudes,genus,Arthropoda,Insecta,Coleoptera,Tenebrionidae,Alaudes,1,1,0,0,1,1,0,0
+Eleodes,genus,Arthropoda,Insecta,Coleoptera,Tenebrionidae,Eleodes,289,112,24,101,275,108,21,98
+Heterosilpha,genus,Arthropoda,Insecta,Coleoptera,Silphidae,Heterosilpha,6,0,0,0,6,0,0,0
+Sanfilippodytes,genus,Arthropoda,Insecta,Coleoptera,Dytiscidae,Sanfilippodytes,23,5,0,0,23,5,0,0
+Prolixocupes,genus,Arthropoda,Insecta,Coleoptera,Cupedidae,Prolixocupes,1,1,0,1,1,1,0,1
+Alaudes singularis,species,Arthropoda,Insecta,Coleoptera,Tenebrionidae,Alaudes,1,1,0,0,1,1,0,0
+Heterosilpha ramosa,species,Arthropoda,Insecta,Coleoptera,Silphidae,Heterosilpha,6,0,0,0,6,0,0,0
+Prolixocupes lobiceps,species,Arthropoda,Insecta,Coleoptera,Cupedidae,Prolixocupes,1,1,0,1,1,1,0,1
+Diguetia,genus,Arthropoda,Arachnida,Araneae,Diguetidae,Diguetia,6,6,0,4,6,6,0,4
+Homalonychus,genus,Arthropoda,Arachnida,Araneae,Homalonychidae,Homalonychus,18,0,0,0,18,0,0,0
+Hypochilus,genus,Arthropoda,Arachnida,Araneae,Hypochilidae,Hypochilus,34,2,0,0,26,2,0,0
+Calisoga,genus,Arthropoda,Arachnida,Araneae,Nemesiidae,Calisoga,207,2,0,0,199,2,0,0
+Pimoa,genus,Arthropoda,Arachnida,Araneae,Pimoidae,Pimoa,288,8,3,3,285,8,3,3
+Scytodes,genus,Arthropoda,Arachnida,Araneae,Scytodidae,Scytodes,555,10,0,3,543,10,0,3
+Selenops,genus,Arthropoda,Arachnida,Araneae,Selenopidae,Selenops,934,12,0,0,923,12,0,0
+Loxosceles,genus,Arthropoda,Arachnida,Araneae,Sicariidae,Loxosceles,762,40,0,25,762,40,0,25
+Usofila,genus,Arthropoda,Arachnida,Araneae,Telemidae,Usofila,31,6,0,0,29,5,0,0
+Titanoeca,genus,Arthropoda,Arachnida,Araneae,Titanoecidae,Titanoeca,91,4,1,1,89,3,1,1
+Trogloraptor,genus,Arthropoda,Arachnida,Araneae,Trogloraptoridae,Trogloraptor,2,2,0,0,2,2,0,0
+Trogloraptor marchingtoni,species,Arthropoda,Arachnida,Araneae,Trogloraptoridae,Trogloraptor,1,1,0,0,1,1,0,0
+Anisolabididae,family,Arthropoda,Insecta,Dermaptera,Anisolabididae,Euborellia,118,26,6,9,112,23,6,9
+Chelisochidae,family,Arthropoda,Insecta,Dermaptera,Chelisochidae,Chelisoches,27,8,0,0,10,2,0,0
+Forficulidae,family,Arthropoda,Insecta,Dermaptera,Forficulidae,Forficula,1726,409,8,8,1708,399,8,8
+Labiduridae,family,Arthropoda,Insecta,Dermaptera,Labiduridae,NA,243,6,4,4,243,6,4,4
+Spongiphoridae,family,Arthropoda,Insecta,Dermaptera,Spongiphoridae,NA,87,6,0,0,72,3,0,0
+Anisolabis,genus,Arthropoda,Insecta,Dermaptera,Anisolabididae,Anisolabis,61,9,0,1,58,9,0,1
+Euborellia,genus,Arthropoda,Insecta,Dermaptera,Anisolabididae,Euborellia,30,17,6,8,27,14,6,8
+Chelisoches,genus,Arthropoda,Insecta,Dermaptera,Chelisochidae,Chelisoches,10,8,0,0,4,2,0,0
+Doru,genus,Arthropoda,Insecta,Dermaptera,Forficulidae,Doru,19,18,0,0,11,10,0,0
+Forficula,genus,Arthropoda,Insecta,Dermaptera,Forficulidae,Forficula,1358,380,8,8,1351,378,8,8
+Labidura,genus,Arthropoda,Insecta,Dermaptera,Labiduridae,Labidura,33,6,4,4,33,6,4,4
+Labia,genus,Arthropoda,Insecta,Dermaptera,Spongiphoridae,Labia,15,0,0,0,11,0,0,0
+Marava,genus,Arthropoda,Insecta,Dermaptera,Spongiphoridae,Marava,7,4,0,0,5,2,0,0
+Spongovostox,genus,Arthropoda,Insecta,Dermaptera,Spongiphoridae,Spongovostox,1,0,0,0,1,0,0,0
+Anisolabis maritima,species,Arthropoda,Insecta,Dermaptera,Anisolabididae,Anisolabis,17,7,0,0,14,7,0,0
+Euborellia annulipes,species,Arthropoda,Insecta,Dermaptera,Anisolabididae,Euborellia,11,10,0,2,8,7,0,2
+Chelisoches morio,species,Arthropoda,Insecta,Dermaptera,Chelisochidae,Chelisoches,9,8,0,0,3,2,0,0
+Forficula auricularia,species,Arthropoda,Insecta,Dermaptera,Forficulidae,Forficula,98,15,3,3,91,13,3,3
+Labidura riparia,species,Arthropoda,Insecta,Dermaptera,Labiduridae,Labidura,26,4,4,4,26,4,4,4
+Labia minor,species,Arthropoda,Insecta,Dermaptera,Spongiphoridae,Labia,14,0,0,0,10,0,0,0
+Marava arachidis,species,Arthropoda,Insecta,Dermaptera,Spongiphoridae,Marava,1,0,0,0,1,0,0,0
+Marava pulchella,species,Arthropoda,Insecta,Dermaptera,Spongiphoridae,Marava,4,4,0,0,2,2,0,0
+Aphrophoridae,family,Arthropoda,Insecta,Hemiptera,Aphrophoridae,Philaenus,3308,245,1,11,3275,243,1,10
+Cercopidae,family,Arthropoda,Insecta,Hemiptera,Cercopidae,cercopidJanzen01,730,27,1,2,669,27,1,2
+Cicadidae,family,Arthropoda,Insecta,Hemiptera,Cicadidae,Lembeja,6173,389,17,69,5874,377,10,59
+Cixiidae,family,Arthropoda,Insecta,Hemiptera,Cixiidae,Cixius,3369,179,17,83,3329,158,16,77
+Delphacidae,family,Arthropoda,Insecta,Hemiptera,Delphacidae,NA,6972,317,34,66,6744,283,32,59
+Acanaloniidae,family,Arthropoda,Insecta,Hemiptera,Acanaloniidae,Acanalonia,2515,26,0,7,2508,25,0,7
+Achilidae,family,Arthropoda,Insecta,Hemiptera,Achilidae,Synecdoche,862,45,0,3,845,42,0,3
+Caliscelidae,family,Arthropoda,Insecta,Hemiptera,Caliscelidae,Aphelonema,169,47,7,16,169,47,7,16
+Derbidae,family,Arthropoda,Insecta,Hemiptera,Derbidae,NA,1441,26,0,2,1352,21,0,1
+Dictyopharidae,family,Arthropoda,Insecta,Hemiptera,Dictyopharidae,NA,685,70,5,25,683,68,5,24
+Flatidae,family,Arthropoda,Insecta,Hemiptera,Flatidae,Metcracis,4956,100,6,48,4928,99,6,48
+Fulgoridae,family,Arthropoda,Insecta,Hemiptera,Fulgoridae,Calyptoproctus,999,26,1,18,980,26,1,18
+Issidae,family,Arthropoda,Insecta,Hemiptera,Issidae,NA,6136,13,0,7,6095,13,0,7
+Kinnaridae,family,Arthropoda,Insecta,Hemiptera,Kinnaridae,Perloma,273,6,2,5,273,6,2,5
+Tropiduchidae,family,Arthropoda,Insecta,Hemiptera,Tropiduchidae,NA,3526,4,0,2,3514,3,0,2
+Cicadellidae,family,Arthropoda,Insecta,Hemiptera,Cicadellidae,Cosmotettix,132912,8949,815,1557,132045,8869,809,1538
+Membracidae,family,Arthropoda,Insecta,Hemiptera,Membracidae,Archasia,2108,478,6,141,1979,406,6,139
+Aradidae,family,Arthropoda,Insecta,Hemiptera,Aradidae,Aneurus,921,77,6,17,725,31,1,6
+Anthocoridae,family,Arthropoda,Insecta,Hemiptera,Anthocoridae,Anthocoris,2166,151,8,24,2011,113,3,11
+Lasiochilidae,family,Arthropoda,Insecta,Hemiptera,Lasiochilidae,Lasiochilus,3,0,0,0,2,0,0,0
+Lyctocoridae,family,Arthropoda,Insecta,Hemiptera,Lyctocoridae,Lyctocoris,24,8,2,4,14,3,0,1
+Alydidae,family,Arthropoda,Insecta,Hemiptera,Alydidae,Leptocorisa,1166,65,3,14,1130,61,2,11
+Coreidae,family,Arthropoda,Insecta,Hemiptera,Coreidae,Chelinidea,1692,263,4,96,1639,257,4,96
+Rhopalidae,family,Arthropoda,Insecta,Hemiptera,Rhopalidae,Corizus,887,148,30,75,845,143,29,74
+Corixidae,family,Arthropoda,Insecta,Hemiptera,Corixidae,NA,2368,531,22,62,2094,452,16,44
+Gerridae,family,Arthropoda,Insecta,Hemiptera,Gerridae,Aquarius,3206,85,7,22,2978,51,3,13
+Veliidae,family,Arthropoda,Insecta,Hemiptera,Veliidae,Microvelia,729,23,2,12,592,16,2,12
+Hebridae,family,Arthropoda,Insecta,Hemiptera,Hebridae,Hebrus,45,6,0,0,32,0,0,0
+Hydrometridae,family,Arthropoda,Insecta,Hemiptera,Hydrometridae,Hydrometra,88,9,0,1,76,9,0,1
+Macroveliidae,family,Arthropoda,Insecta,Hemiptera,Macroveliidae,Macrovelia,3,3,3,3,1,1,1,1
+Leptopodidae,family,Arthropoda,Insecta,Hemiptera,Leptopodidae,Leptopus,3,0,0,0,3,0,0,0
+Artheneidae,family,Arthropoda,Insecta,Hemiptera,Artheneidae,Chilacis,40,2,0,0,39,2,0,0
+Berytidae,family,Arthropoda,Insecta,Hemiptera,Berytidae,Gampsocoris,520,84,9,14,502,81,8,13
+Blissidae,family,Arthropoda,Insecta,Hemiptera,Blissidae,Blissus,241,19,0,2,231,17,0,2
+Cymidae,family,Arthropoda,Insecta,Hemiptera,Cymidae,NA,155,8,2,2,142,7,2,2
+Geocoridae,family,Arthropoda,Insecta,Hemiptera,Geocoridae,NA,379,48,11,18,320,33,5,8
+Heterogastridae,family,Arthropoda,Insecta,Hemiptera,Heterogastridae,Platyplax,19,5,1,1,17,4,0,0
+Lygaeidae,family,Arthropoda,Insecta,Hemiptera,Lygaeidae,NA,4704,346,54,196,4549,307,53,175
+Oxycarenidae,family,Arthropoda,Insecta,Hemiptera,Oxycarenidae,Oxycarenus,530,12,0,2,504,6,0,0
+Pachygronthidae,family,Arthropoda,Insecta,Hemiptera,Pachygronthidae,Oedancala,130,28,0,7,114,24,0,6
+Piesmatidae,family,Arthropoda,Insecta,Hemiptera,Piesmatidae,Parapiesma,61,4,0,0,54,4,0,0
+Rhyparochromidae,family,Arthropoda,Insecta,Hemiptera,Rhyparochromidae,NA,6423,299,23,80,6182,239,20,64
+Mesoveliidae,family,Arthropoda,Insecta,Hemiptera,Mesoveliidae,Mesovelia,147,18,3,4,131,16,3,4
+Miridae,family,Arthropoda,Insecta,Hemiptera,Miridae,Pithanus,24839,2762,373,810,23607,2402,344,710
+Thaumastocoridae,family,Arthropoda,Insecta,Hemiptera,Thaumastocoridae,NA,192,0,0,0,192,0,0,0
+Tingidae,family,Arthropoda,Insecta,Hemiptera,Tingidae,NA,1990,96,17,32,1845,77,15,23
+Nabidae,family,Arthropoda,Insecta,Hemiptera,Nabidae,Nabis,1616,146,9,23,1514,140,9,22
+Naucoridae,family,Arthropoda,Insecta,Hemiptera,Naucoridae,Ilyocoris,329,21,6,11,285,18,6,11
+Belostomatidae,family,Arthropoda,Insecta,Hemiptera,Belostomatidae,Abedus,1809,31,6,11,1793,26,6,11
+Nepidae,family,Arthropoda,Insecta,Hemiptera,Nepidae,Ranatra,189,25,0,5,157,14,0,2
+Notonectidae,family,Arthropoda,Insecta,Hemiptera,Notonectidae,Notonecta,497,57,2,7,441,49,2,3
+Pleidae,family,Arthropoda,Insecta,Hemiptera,Pleidae,Plea,111,5,0,0,90,5,0,0
+Gelastocoridae,family,Arthropoda,Insecta,Hemiptera,Gelastocoridae,Gelastocoris,39,12,0,7,26,12,0,7
+Ochteridae,family,Arthropoda,Insecta,Hemiptera,Ochteridae,Ochterus,23,3,0,0,11,1,0,0
+Acanthosomatidae,family,Arthropoda,Insecta,Hemiptera,Acanthosomatidae,NA,514,11,0,0,497,9,0,0
+Cydnidae,family,Arthropoda,Insecta,Hemiptera,Cydnidae,NA,541,93,2,29,463,78,2,25
+Pentatomidae,family,Arthropoda,Insecta,Hemiptera,Pentatomidae,Banasa,10917,630,114,249,10339,587,107,222
+Thyreocoridae,family,Arthropoda,Insecta,Hemiptera,Thyreocoridae,NA,30,1,0,1,30,1,0,1
+Largidae,family,Arthropoda,Insecta,Hemiptera,Largidae,Largus,147,18,0,7,133,13,0,7
+Pyrrhocoridae,family,Arthropoda,Insecta,Hemiptera,Pyrrhocoridae,NA,614,6,0,0,599,6,0,0
+Reduviidae,family,Arthropoda,Insecta,Hemiptera,Reduviidae,Barce,4730,259,20,105,4461,235,18,94
+Saldidae,family,Arthropoda,Insecta,Hemiptera,Saldidae,Chiloxanthus,670,79,3,16,541,56,2,8
+Ceratocombidae,family,Arthropoda,Insecta,Hemiptera,Ceratocombidae,Ceratocombus,1647,4,0,0,1643,2,0,0
+Enicocephalidae,family,Arthropoda,Insecta,Hemiptera,Enicocephalidae,NA,182,0,0,0,174,0,0,0
+Aleyrodidae,family,Arthropoda,Insecta,Hemiptera,Aleyrodidae,Bemisia,40317,731,100,100,40228,726,100,100
+Aphididae,family,Arthropoda,Insecta,Hemiptera,Aphididae,Protaphis,52765,4032,373,643,52326,4024,373,642
+Liviidae,family,Arthropoda,Insecta,Hemiptera,Liviidae,Livia,193,1,0,0,178,1,0,0
+Aphalaridae,family,Arthropoda,Insecta,Hemiptera,Aphalaridae,NA,1745,40,2,2,1717,32,1,1
+Pronotacantha,genus,Arthropoda,Insecta,Hemiptera,Berytidae,Pronotacantha,1,0,0,0,1,0,0,0
+Coridromius,genus,Arthropoda,Insecta,Hemiptera,Miridae,Coridromius,62,19,19,19,60,19,19,19
+Thaumastocoris,genus,Arthropoda,Insecta,Hemiptera,Thaumastocoridae,Thaumastocoris,173,0,0,0,173,0,0,0
+Aquarius,genus,Arthropoda,Insecta,Hemiptera,Gerridae,Aquarius,622,13,3,3,601,6,0,0
+Thaumastocoris peregrinus,species,Arthropoda,Insecta,Hemiptera,Thaumastocoridae,Thaumastocoris,167,0,0,0,167,0,0,0
+Aquarius remigis,species,Arthropoda,Insecta,Hemiptera,Gerridae,Aquarius,26,6,3,3,18,2,0,0
+Amblyopone,genus,Arthropoda,Insecta,Hymenoptera,Formicidae,Amblyopone,17,0,0,0,17,0,0,0
+Cerapachys,genus,Arthropoda,Insecta,Hymenoptera,Formicidae,Cerapachys,181,0,0,0,157,0,0,0
+Dorymyrmex,genus,Arthropoda,Insecta,Hymenoptera,Formicidae,Dorymyrmex,118,103,6,49,118,103,6,49
+Forelius,genus,Arthropoda,Insecta,Hymenoptera,Formicidae,Forelius,80,73,2,49,79,73,2,49
+Linepithema,genus,Arthropoda,Insecta,Hymenoptera,Formicidae,Linepithema,694,388,373,373,598,388,373,373
+Liometopum,genus,Arthropoda,Insecta,Hymenoptera,Formicidae,Liometopum,31,8,4,8,31,8,4,8
+Tapinoma,genus,Arthropoda,Insecta,Hymenoptera,Formicidae,Tapinoma,3435,457,18,38,3178,456,18,38
+Technomyrmex,genus,Arthropoda,Insecta,Hymenoptera,Formicidae,Technomyrmex,978,7,1,1,925,7,1,1
+Neivamyrmex,genus,Arthropoda,Insecta,Hymenoptera,Formicidae,Neivamyrmex,370,25,0,17,222,25,0,17
+Brachymyrmex,genus,Arthropoda,Insecta,Hymenoptera,Formicidae,Brachymyrmex,1273,57,0,13,1068,57,0,13
+Camponotus,genus,Arthropoda,Insecta,Hymenoptera,Formicidae,Camponotus,14667,834,24,120,13686,834,24,120
+Formica,genus,Arthropoda,Insecta,Hymenoptera,Formicidae,Formica,12816,1417,64,107,12539,1415,64,107
+Lasius,genus,Arthropoda,Insecta,Hymenoptera,Formicidae,Lasius,5302,304,9,26,5261,301,9,26
+Paratrechina,genus,Arthropoda,Insecta,Hymenoptera,Formicidae,Paratrechina,363,9,1,1,341,9,1,1
+Plagiolepis,genus,Arthropoda,Insecta,Hymenoptera,Formicidae,Plagiolepis,1142,2,0,0,1126,2,0,0
+Polyergus,genus,Arthropoda,Insecta,Hymenoptera,Formicidae,Polyergus,51,7,0,0,51,7,0,0
+Prenolepis,genus,Arthropoda,Insecta,Hymenoptera,Formicidae,Prenolepis,1185,80,3,4,1185,80,3,4
+Acromyrmex,genus,Arthropoda,Insecta,Hymenoptera,Formicidae,Acromyrmex,236,0,0,0,175,0,0,0
+Aphaenogaster,genus,Arthropoda,Insecta,Hymenoptera,Formicidae,Aphaenogaster,1657,453,22,53,1611,453,22,53
+Cardiocondyla,genus,Arthropoda,Insecta,Hymenoptera,Formicidae,Cardiocondyla,899,26,9,13,811,26,9,13
+Crematogaster,genus,Arthropoda,Insecta,Hymenoptera,Formicidae,Crematogaster,6608,118,13,63,6419,118,13,63
+Formicoxenus,genus,Arthropoda,Insecta,Hymenoptera,Formicidae,Formicoxenus,5,0,0,0,3,0,0,0
+Leptothorax,genus,Arthropoda,Insecta,Hymenoptera,Formicidae,Leptothorax,1122,42,2,3,1078,41,2,3
+Messor,genus,Arthropoda,Insecta,Hymenoptera,Formicidae,Messor,268,10,10,10,268,10,10,10
+Monomorium,genus,Arthropoda,Insecta,Hymenoptera,Formicidae,Monomorium,2046,72,9,38,1947,72,9,38
+Myrmecina,genus,Arthropoda,Insecta,Hymenoptera,Formicidae,Myrmecina,1443,110,0,3,1441,110,0,3
+Myrmica,genus,Arthropoda,Insecta,Hymenoptera,Formicidae,Myrmica,6492,318,1,11,6366,318,1,11
+Pogonomyrmex,genus,Arthropoda,Insecta,Hymenoptera,Formicidae,Pogonomyrmex,757,413,16,137,756,413,16,137
+Stenamma,genus,Arthropoda,Insecta,Hymenoptera,Formicidae,Stenamma,859,18,9,13,797,18,9,13
+Strumigenys,genus,Arthropoda,Insecta,Hymenoptera,Formicidae,Strumigenys,3007,11,0,4,2386,11,0,4
+Temnothorax,genus,Arthropoda,Insecta,Hymenoptera,Formicidae,Temnothorax,1586,204,6,22,1533,204,6,22
+Tetramorium,genus,Arthropoda,Insecta,Hymenoptera,Formicidae,Tetramorium,4652,201,1,9,4349,201,1,9
+Wasmannia,genus,Arthropoda,Insecta,Hymenoptera,Formicidae,Wasmannia,3568,2,0,0,3253,2,0,0
+Hypoponera,genus,Arthropoda,Insecta,Hymenoptera,Formicidae,Hypoponera,2171,17,3,9,1589,17,3,9
+Proceratium,genus,Arthropoda,Insecta,Hymenoptera,Formicidae,Proceratium,74,0,0,0,69,0,0,0
+Pseudomyrmex,genus,Arthropoda,Insecta,Hymenoptera,Formicidae,Pseudomyrmex,11910,67,1,16,11638,67,1,16
+Stigmatomma oregonense,species,Arthropoda,Insecta,Hymenoptera,Formicidae,Stigmatomma,7,0,0,0,4,0,0,0
+Stigmatomma pallipes,species,Arthropoda,Insecta,Hymenoptera,Formicidae,Stigmatomma,77,3,1,2,77,3,1,2
+Forelius mccooki,species,Arthropoda,Insecta,Hymenoptera,Formicidae,Forelius,6,6,0,3,6,6,0,3
+Forelius pruinosus,species,Arthropoda,Insecta,Hymenoptera,Formicidae,Forelius,19,15,0,12,18,15,0,12
+Linepithema humile,species,Arthropoda,Insecta,Hymenoptera,Formicidae,Linepithema,440,388,373,373,427,388,373,373
+Liometopum luctuosum,species,Arthropoda,Insecta,Hymenoptera,Formicidae,Liometopum,2,1,1,1,2,1,1,1
+Liometopum occidentale,species,Arthropoda,Insecta,Hymenoptera,Formicidae,Liometopum,4,3,3,3,4,3,3,3
+Tapinoma melanocephalum,species,Arthropoda,Insecta,Hymenoptera,Formicidae,Tapinoma,263,1,0,0,242,1,0,0
+Tapinoma sessile,species,Arthropoda,Insecta,Hymenoptera,Formicidae,Tapinoma,1381,365,16,32,1208,364,16,32
+Technomyrmex albipes,species,Arthropoda,Insecta,Hymenoptera,Formicidae,Technomyrmex,141,2,0,0,136,2,0,0
+Brachymyrmex depilis,species,Arthropoda,Insecta,Hymenoptera,Formicidae,Brachymyrmex,162,35,0,1,162,35,0,1
+Paratrechina longicornis,species,Arthropoda,Insecta,Hymenoptera,Formicidae,Paratrechina,250,9,1,1,228,9,1,1
+Plagiolepis alluaudi,species,Arthropoda,Insecta,Hymenoptera,Formicidae,Plagiolepis,103,2,0,0,97,2,0,0
+Polyergus breviceps,species,Arthropoda,Insecta,Hymenoptera,Formicidae,Polyergus,1,0,0,0,1,0,0,0
+Cardiocondyla mauritanica,species,Arthropoda,Insecta,Hymenoptera,Formicidae,Cardiocondyla,35,15,9,9,35,15,9,9
+Cardiocondyla minutior,species,Arthropoda,Insecta,Hymenoptera,Formicidae,Cardiocondyla,91,0,0,0,42,0,0,0
+Monomorium ergatogyna,species,Arthropoda,Insecta,Hymenoptera,Formicidae,Monomorium,7,7,7,7,7,7,7,7
+Monomorium pharaonis,species,Arthropoda,Insecta,Hymenoptera,Formicidae,Monomorium,108,8,0,1,105,8,0,1
+Myrmecina americana,species,Arthropoda,Insecta,Hymenoptera,Formicidae,Myrmecina,387,108,0,2,386,108,0,2
+Solenopsis invicta,species,Arthropoda,Insecta,Hymenoptera,Formicidae,Solenopsis,177,28,0,12,169,28,0,12
+Solenopsis xyloni,species,Arthropoda,Insecta,Hymenoptera,Formicidae,Solenopsis,12,10,0,3,12,10,0,3
+Tetramorium caespitum,species,Arthropoda,Insecta,Hymenoptera,Formicidae,Tetramorium,639,107,0,0,636,107,0,0
+Wasmannia auropunctata,species,Arthropoda,Insecta,Hymenoptera,Formicidae,Wasmannia,660,0,0,0,397,0,0,0
+Pseudomyrmex apache,species,Arthropoda,Insecta,Hymenoptera,Formicidae,Pseudomyrmex,5,4,1,4,5,4,1,4
+Pseudomyrmex pallidus,species,Arthropoda,Insecta,Hymenoptera,Formicidae,Pseudomyrmex,19,14,0,1,19,14,0,1
+Acrididae,family,Arthropoda,Insecta,Orthoptera,Acrididae,Melanoplus,16015,2816,296,810,15109,2598,216,671
+Eumastacidae,family,Arthropoda,Insecta,Orthoptera,Eumastacidae,NA,26,0,0,0,26,0,0,0
+Romaleidae,family,Arthropoda,Insecta,Orthoptera,Romaleidae,Prionolopha,613,19,0,0,546,17,0,0
+Tanaoceridae,family,Arthropoda,Insecta,Orthoptera,Tanaoceridae,Tanaocerus,12,0,0,0,4,0,0,0
+Tetrigidae,family,Arthropoda,Insecta,Orthoptera,Tetrigidae,Paratettix,2531,77,0,6,2458,56,0,5
+Tridactylidae,family,Arthropoda,Insecta,Orthoptera,Tridactylidae,Xya,93,27,0,11,77,25,0,11
+Anostostomatidae,family,Arthropoda,Insecta,Orthoptera,Anostostomatidae,Hemiandrus,922,1,0,0,914,1,0,0
+Gryllidae,family,Arthropoda,Insecta,Orthoptera,Gryllidae,NA,5530,250,14,53,5340,235,12,49
+Gryllotalpidae,family,Arthropoda,Insecta,Orthoptera,Gryllotalpidae,Gryllotalpa,117,18,0,0,89,15,0,0
+Mogoplistidae,family,Arthropoda,Insecta,Orthoptera,Mogoplistidae,Ornebius,1685,1,0,0,1659,1,0,0
+Myrmecophilidae,family,Arthropoda,Insecta,Orthoptera,Myrmecophilidae,Myrmecophilus,126,0,0,0,117,0,0,0
+Prophalangopsidae,family,Arthropoda,Insecta,Orthoptera,Prophalangopsidae,Cyphoderris,154,2,0,0,138,2,0,0
+Rhaphidophoridae,family,Arthropoda,Insecta,Orthoptera,Rhaphidophoridae,Ceuthophilus,1802,152,16,27,1779,146,16,25
+Stenopelmatidae,family,Arthropoda,Insecta,Orthoptera,Stenopelmatidae,Stenopelmatus,452,22,6,12,443,21,6,11
+Tettigoniidae,family,Arthropoda,Insecta,Orthoptera,Tettigoniidae,Hexacentrus,9948,641,33,95,8842,543,30,66
+Trigonidiidae,family,Arthropoda,Insecta,Orthoptera,Trigonidiidae,Allonemobius,2635,86,7,21,2536,81,6,20
+Tullbergiidae,family,Arthropoda,Collembola,Poduromorpha,Tullbergiidae,Tullbergia,252,3,0,1,202,3,0,1
+Sminthurididae,family,Arthropoda,Collembola,Symphypleona,Sminthurididae,Sminthurides,726,40,0,0,701,40,0,0
+Laemophloeidae,family,Arthropoda,Insecta,Coleoptera,Laemophloeidae,Propalticus,751,9,0,2,720,8,0,2
+Ochodaeidae,family,Arthropoda,Insecta,Coleoptera,Ochodaeidae,Parochodaeus,40,6,0,3,40,6,0,3
+Clastopteridae,family,Arthropoda,Insecta,Hemiptera,Clastopteridae,Clastoptera,547,61,20,24,540,55,20,22
+Scutelleridae,family,Arthropoda,Insecta,Hemiptera,Scutelleridae,NA,1406,42,7,16,1375,36,7,16
+Dolichoderinae,subfamily,Arthropoda,Insecta,Hymenoptera,Formicidae,Technomyrmex,13905,1062,404,519,13280,1061,404,519
+Formicinae,subfamily,Arthropoda,Insecta,Hymenoptera,Formicidae,Camponotus,47178,2881,112,337,44999,2874,112,336
+Myrmeciinae,subfamily,Arthropoda,Insecta,Hymenoptera,Formicidae,Myrmecia,44,0,0,0,44,0,0,0
+Myrmecocystus,genus,Arthropoda,Insecta,Hymenoptera,Formicidae,Myrmecocystus,90,35,6,35,89,34,6,34
+Hahniidae,family,Arthropoda,Arachnida,Araneae,Hahniidae,Cicurina,943,50,5,20,920,45,5,20
+Arcitalitrus,genus,Arthropoda,Malacostraca,Amphipoda,Talitridae,Arcitalitrus,69,0,0,0,67,0,0,0
+Amblyoponinae,subfamily,Arthropoda,Insecta,Hymenoptera,Formicidae,Prionopelta,1724,3,1,2,1221,3,1,2
+Dorylinae,subfamily,Arthropoda,Insecta,Hymenoptera,Formicidae,Eciton,5014,34,0,22,4435,34,0,22
+Proceratiinae,subfamily,Arthropoda,Insecta,Hymenoptera,Formicidae,Probolomyrmex,177,1,0,0,159,0,0,0
+Pseudomyrmecinae,subfamily,Arthropoda,Insecta,Hymenoptera,Formicidae,Pseudomyrmex,12420,67,1,16,12137,67,1,16
+Tylos,genus,Arthropoda,Malacostraca,Isopoda,Tylidae,Tylos,557,1,1,1,557,1,1,1
+Ligia,genus,Arthropoda,Malacostraca,Isopoda,Ligiidae,Ligia,1246,607,9,9,809,190,9,9
+Manica,genus,Arthropoda,Insecta,Hymenoptera,Formicidae,Manica,54,2,0,0,52,2,0,0
+Rogeria,genus,Arthropoda,Insecta,Hymenoptera,Formicidae,Rogeria,632,0,0,0,507,0,0,0
+Solenopsis,genus,Arthropoda,Insecta,Hymenoptera,Formicidae,Solenopsis,3549,248,8,76,3004,244,8,76
+Solenopsis,genus,Arthropoda,Insecta,Hymenoptera,Formicidae,Solenopsis,3549,248,8,76,3004,244,8,76
+Cybocephalidae,family,Arthropoda,Insecta,Coleoptera,Cybocephalidae,NA,1849,2,2,2,1849,2,2,2
+Ponerinae,subfamily,Arthropoda,Insecta,Hymenoptera,Formicidae,Pachycondyla,14494,197,3,51,13427,197,3,51
+Amphinectidae,family,Arthropoda,Arachnida,Araneae,Amphinectidae,NA,0,0,0,0,0,0,0,0
+Eutichuridae,family,Arthropoda,Arachnida,Araneae,Cheiracanthiidae,NA,0,0,0,0,0,0,0,0
+Sturmiidae,family,Arthropoda,Collembola,Symphypleona,Sturmiidae,NA,0,0,0,0,0,0,0,0
+Coenaletidae,family,Arthropoda,Collembola,Entomobryomorpha,Coenaletidae,NA,0,0,0,0,0,0,0,0
+Pachytullbergiidae,family,Arthropoda,Collembola,Poduromorpha,Pachytullbergiidae,NA,0,0,0,0,0,0,0,0
+Paleotullbergiidae,family,Arthropoda,Collembola,Poduromorpha,Paleotullbergiidae,NA,0,0,0,0,0,0,0,0
+Mackenziellidae,family,Arthropoda,Collembola,Symphypleona,Mackenziellidae,NA,0,0,0,0,0,0,0,0
+Porcellionides floria,species,Arthropoda,Malacostraca,Isopoda,Porcellionidae,Porcellionides,0,0,0,0,0,0,0,0
+Ligidium latum,species,Arthropoda,Malacostraca,Isopoda,Ligiidae,Ligidium,0,0,0,0,0,0,0,0
+Armadilloniscus lindahli,species,Arthropoda,Malacostraca,Isopoda,Detonidae,Armadilloniscus,0,0,0,0,0,0,0,0
+Armadilloniscus coronacapitalis,species,Arthropoda,Malacostraca,Isopoda,Detonidae,Armadilloniscus,0,0,0,0,0,0,0,0
+Littorophiloscia richardsonae,species,Arthropoda,Malacostraca,Isopoda,Halophilosciidae,Littorophiloscia,0,0,0,0,0,0,0,0
+Alloniscus mirabilis,species,Arthropoda,Malacostraca,Isopoda,Alloniscidae,Alloniscus,0,0,0,0,0,0,0,0
+Alloniscus perconvexus,species,Arthropoda,Malacostraca,Isopoda,Alloniscidae,Alloniscus,0,0,0,0,0,0,0,0
+Niambia capensis,species,Arthropoda,Malacostraca,Isopoda,Platyarthridae,Niambia,0,0,0,0,0,0,0,0
+Platyarthrus aiasensis,species,Arthropoda,Malacostraca,Isopoda,Platyarthridae,Platyarthrus,0,0,0,0,0,0,0,0
+Venezillo microphthalmus,species,Arthropoda,Malacostraca,Isopoda,Armadillidae,Venezillo,0,0,0,0,0,0,0,0
+Rhysodinae,family,Arthropoda,Insecta,Coleoptera,Rhysodidae,NA,0,0,0,0,0,0,0,0
+Diphyllostomatidae,family,Arthropoda,Insecta,Coleoptera,Diphyllostomatidae,NA,0,0,0,0,0,0,0,0
+Scydmaenidae,family,Arthropoda,Insecta,Coleoptera,Scydmaenidae,NA,0,0,0,0,0,0,0,0
+Ozognathus,genus,Arthropoda,Insecta,Coleoptera,Anobiidae,Ozognathus,0,0,0,0,0,0,0,0
+Anchomma,genus,Arthropoda,Insecta,Coleoptera,Tenebrionidae,Anchomma,0,0,0,0,0,0,0,0
+Ozognathus cornutus,species,Arthropoda,Insecta,Coleoptera,Anobiidae,Ozognathus,0,0,0,0,0,0,0,0
+Berginus pumilus,species,Arthropoda,Insecta,Coleoptera,Mycetophagidae,Berginus,0,0,0,0,0,0,0,0
+Prostomis americanus,species,Arthropoda,Insecta,Coleoptera,Prostomidae,Prostomis,0,0,0,0,0,0,0,0
+Anchomma costatum,species,Arthropoda,Insecta,Coleoptera,Tenebrionidae,Anchomma,0,0,0,0,0,0,0,0
+Euborellia cincticollis,species,Arthropoda,Insecta,Dermaptera,Anisolabididae,Euborellia,0,0,0,0,0,0,0,0
+Doru lineare,species,Arthropoda,Insecta,Dermaptera,Forficulidae,Doru,0,0,0,0,0,0,0,0
+Patapius spinosus,species,Arthropoda,Insecta,Hemiptera,Leptopodidae,Patapius,0,0,0,0,0,0,0,0
+Patapius,genus,Arthropoda,Insecta,Hemiptera,Leptopodidae,Patapius,0,0,0,0,0,0,0,0
+Collophoridae,family,Arthropoda,Collembola,Symphypleona,Collophoridae,NA,0,0,0,0,0,0,0,0
+Isotogastruridae,family,Arthropoda,Collembola,Poduromorpha,Isotogastruridae,NA,0,0,0,0,0,0,0,0
+Detonella,genus,Arthropoda,Malacostraca,Isopoda,Detonidae,Detonella,0,0,0,0,0,0,0,0
+Detonella papillicornis,species,Arthropoda,Malacostraca,Isopoda,Detonidae,Detonella,0,0,0,0,0,0,0,0
+Armadilloniscus holmesi,species,Arthropoda,Malacostraca,Isopoda,Detonidae,Armadilloniscus,0,0,0,0,0,0,0,0
+Brachypsectridae,family,Arthropoda,Insecta,Coleoptera,Brachypsectridae,NA,0,0,0,0,0,0,0,0
+Pleocomidae,family,Arthropoda,Insecta,Coleoptera,Pleocomidae,NA,0,0,0,0,0,0,0,0
+Pronotacantha annulata,species,Arthropoda,Insecta,Hemiptera,Berytidae,Pronotacantha,0,0,0,0,0,0,0,0
+Acromyrmex versicolor,species,Arthropoda,Insecta,Hymenoptera,Formicidae,Acromyrmex,0,0,0,0,0,0,0,0
+Formicoxenus diversipilosus,species,Arthropoda,Insecta,Hymenoptera,Formicidae,Formicoxenus,0,0,0,0,0,0,0,0
+Strumigenys silvestrii,species,Arthropoda,Insecta,Hymenoptera,Formicidae,Strumigenys,0,0,0,0,0,0,0,0
+Tetramorium spinosum,species,Arthropoda,Insecta,Hymenoptera,Formicidae,Tetramorium,0,0,0,0,0,0,0,0
+Proceratium californicum,species,Arthropoda,Insecta,Hymenoptera,Formicidae,Proceratium,0,0,0,0,0,0,0,0

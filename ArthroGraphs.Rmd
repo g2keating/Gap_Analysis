@@ -1,0 +1,108 @@
+---
+title: "ArthroGraphs"
+output: html_document
+date: "2023-08-31"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(taxize)
+library(magrittr)
+library(dplyr)
+library(tidyverse)
+library(bold)    # API interface to BOLD
+library(seqinr)  # for FASTA output
+library(rentrez)
+library(readxl)
+library(usethis)
+library(stringr)
+library(Hmisc)
+library(clipr)
+library(knitr)
+```
+
+Turn species and genus into family. I didnt need to do this :/
+```{r}
+IsopodaTest2 <- Arthro_Gap_analysis %>% 
+  filter(order == "Isopoda") %>% 
+  mutate(FamilyName = family) %>% 
+  relocate(FamilyName, .after = tax_rank)
+
+IsopodaTest <- IsopodaTest %>% 
+  group_by(FamilyName) %>% 
+  summarise(across(c(BOLD_Records:BOLD_Records_COI_SW), sum))
+```
+
+
+```{r}
+Arthro_Gap_analysis <- read_csv("Arthro_Gap_analysis2.csv")
+
+
+ClassDF <- Arthro_Gap_analysis %>% 
+  filter(order != "Amphipoda") %>%
+  filter(class != "Insecta") %>% 
+  group_by(class, tax_rank) %>% 
+  summarise(CA_Families = sum(BOLD_Records_CA > 0),
+            SW_Families = (sum(BOLD_Records_SW > 0) - sum(BOLD_Records_CA > 0)),
+            USA_Families = (sum(BOLD_Records_USA > 0) - sum(BOLD_Records_SW > 0)),
+            BOLD_Families = (sum(BOLD_Records > 0)- sum(BOLD_Records_USA > 0)),
+            Missing_Families = sum(BOLD_Records == 0)) %>% 
+  filter(tax_rank != "genus" & tax_rank != "species")
+  
+
+InsectDF <- Arthro_Gap_analysis %>% 
+  filter(class == "Insecta") %>% 
+  group_by(order, tax_rank) %>% 
+  summarise(CA_Families = sum(BOLD_Records_CA > 0),
+            SW_Families = (sum(BOLD_Records_SW > 0) - sum(BOLD_Records_CA > 0)),
+            USA_Families = (sum(BOLD_Records_USA > 0) - sum(BOLD_Records_SW > 0)),
+            BOLD_Families = (sum(BOLD_Records > 0)- sum(BOLD_Records_USA > 0)),
+            Missing_Families = sum(BOLD_Records == 0)) %>% 
+  filter(tax_rank != "genus" & tax_rank != "species")
+
+
+
+write_clip(ClassDF)
+write_clip(InsectDF)
+  
+```
+
+
+Graphs
+```{r}
+StackedGraph <- read_excel("StackedGraph.xlsx")
+
+StackedGraph <- StackedGraph %>% 
+  select(-tax_rank)
+
+PivotFamilies <- StackedGraph %>% 
+  pivot_longer(
+    cols = CA_Families:Missing_Families,
+    names_to = "type",
+    values_to = "families"
+  )
+
+
+p <- ggplot(PivotFamilies, aes(x = Taxa, y = families, fill = type))+
+  geom_bar( stat = "identity")+
+  scale_fill_viridis_d()+
+  ggtitle("Family Level BOLD Results") +
+  theme_minimal()
+
+
+p <- ggplot(PivotFamilies, aes(x = Taxa, y = families, fill = type))+
+  geom_bar( stat = "identity")+
+  scale_fill_jco()+
+  ggtitle("Family Level BOLD Results") +
+  theme_minimal()
+
+p
+
+
+display.brewer.all(colorblindFriendly = TRUE) 
+
+```
+
